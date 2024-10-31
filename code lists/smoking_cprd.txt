@@ -1,0 +1,383 @@
+medcodeid,term
+1009271000006118,non smoker - nos
+102921000006112,tobacco smoking consumption
+102951000006115,tobacco dependence
+103051000006114,tobacco usage screen
+103061000006111,tobacco usage screening
+1059701000000119,ex roll-up cigarette smoker
+1063391000006114,adverse reaction to bupropion hydrochloride
+108938018,cigarette smoker
+1123541000000118,stop smoking face to face follow-up
+1123751000000113,non-smoker annual review - enhanced services administration
+1123951000000110,ex-smoker annual review - enhanced services administration
+1124241000006113,adverse reaction to bupropion hydrochloride
+1125741000000111,brief intervention for smoking cessation
+1151791000000117,recently stopped smoking
+1152111000000118,current smoker annual review
+1154431000000112,non-smoker annual review
+1154471000000114,ex-smoker annual review
+1175011000000112,smoking cessation programme declined
+1176421000000118,smoking cessation advice declined
+11793611000006110,smoking cessation behaviour support
+11904991000006116,occasional cigarette smoker
+12024741000006113,monitoring of smoking cessation therapy
+12626191000006119,vba (very brief advice) on smoking
+128130017,smoker
+128311000006112,stop smoking monitoring first letter
+128321000006116,stop smoking monitoring second letter
+128331000006118,stop smoking monitoring third letter
+128361000006110,stop smoking monitoring telephone invite
+128371000006115,stop smoking monitoring verbal invite
+128381000006117,stop smoking monitoring check done
+13494621000006118,referral for brief intervention for smoking cessation
+13499671000006118,brief intervention for smoking cessation
+13619901000006115,number of calculated smoking pack years
+136515019,pipe smoker
+137711000006111,smoker (read codes)
+137721000006115,smoker - amount smoked
+137751000006112,smoking age
+137761000006114,smoking age ceased
+137771000006119,smoking age started
+137791000006118,smoking restarted
+137811000006119,smoking status
+1484932017,smoking cessation milestones
+1484933010,negotiated date for cessation of smoking
+1484934016,smoking status at 4 weeks
+1484935015,smoking status between 4 and 52 weeks
+1484936019,smoking status at 52 weeks
+1484937011,nicotine replacement therapy provided free
+14866014,non-smoker
+1488576014,thinking about stopping smoking
+1488577017,ready to stop smoking
+1488578010,not interested in stopping smoking
+1488666019,no smokers in the household
+1488870013,nicotine replacement therapy contraindicated
+1488871012,bupropion contraindicated
+1488872017,bupropion refused
+1488873010,smoking free weeks
+1488922018,adverse reaction to bupropion
+1489355012,referral to smoking cessation advisor
+150398019,nicotine withdrawal
+1563081000000115,practice based smoking cessation programme start date
+1591651000006110,smoking cessation referral declined
+1592611000000110,failed attempt to stop smoking
+16261000000110,stop smoking monitoring administration
+1626121000006116,smoking cessation drug therapy - varenicline
+1651711000000113,consent given for smoking cessation data sharing
+1653781000000119,declined consent for smoking cessation data sharing
+16581000006111,other smoking information
+16588018,tobacco deposit on teeth
+1662911000000114,consent given for follow-up by smoking cessation team
+1662951000000113,declined consent for follow-up by smoking cessation team
+1676351000006110,nicotine replacement therapy using nicotine sublingual tablets
+1694421000006112,stop smoking monitoring admin.
+1697731000006111,nicotine replacement therapy not tolerated
+1704491000006115,smoking cessation enhanced services administration monitoring template completed
+1704551000006110,referred for copd structured smoking assessment
+1704561000006112,referred for chronic obstructive pulmonary disease structured smoking assessment
+1704571000006117,chronic obstructive pulmonary disease structured smoking assessment declined
+1704581000006119,copd structured smoking assessment declined
+1708051000000119,smoking status at 12 weeks
+1709641000000115,referral for smoking cessation service offered
+1714541000006110,current smoker annual review - enhanced services admin
+1715591000006117,referral to national health service stop smoking service
+1716141000000117,lost to smoking cessation follow-up
+1741641000006117,smoking cessation esa monitoring template completed
+1746211000006111,smoking status at 12 weeks
+1750931000000118,stop smoking service opportunity signposted
+1751721000000113,stop smoking invitation short message service text message
+1754091000000110,issue of nicotine replacement therapy voucher
+1755201000006117,consent given for follow-up evaluation after smoking cessation intervention
+1755231000006113,declined consent for follow-up evaluation after smoking cessation intervention
+1771191000006119,attends smoking cessation clinic not at practice
+1773560017,smoking cessation programme start date
+1777011000006118,reason for referral: smoking cessation
+1778181000006110,group session: stop smoking education programme
+1780273014,seen by smoking cessation advisor
+1780360012,reason for restarting smoking
+1780396011,cigarette pack-years
+1785671000006116,stop smoking invitation first short message service text message
+1785681000006118,stop smoking invitation second short message service text message
+1785691000006115,stop smoking invitation third short message service text message
+1809121000006113,waterpipe tobacco consumption
+1809131000006111,total time smoked
+1817431000006112,tobacco use and exposure
+1819411000006114,smoking increased
+1823811000006115,smoking cessation 12 week follow up
+1825071000006116,smoking cessation 12 week f/u not completed
+1825081000006118,smoking cessation 12 week f/u completed
+1833971000006116,stop smoking satisfaction questionnaire given
+1873511000006118,care contact service: smoking/substance cessation/interven prog.
+1879431000006110,user of electronic cigarette
+1889671000006116,child 27-30 mth exam.- smoking cessation support provided
+1889681000006118,child 27-30 mth exam.- signpost to smoking cessation
+1889691000006115,child 27-30 mth exam. - discuss with smoking cessation service
+1889701000006115,child 27-30 mth exam. - requ. assist. from smoking cessation
+1889711000006117,child 27-30 mth exam. - refused smoking cessation service
+1899541000006110,mother's smoking status at time of baby's birth
+1899551000006112,mother's smoking status at time of baby's birth - smoker
+1899561000006114,mother's smoking status at time of baby's birth - ex-smoker
+1899581000006116,mother's smoking status at time of baby's birth - never smoked
+1925121000006113,issue of nicotine replacement therapy voucher
+1934421000006119,child 27-30 mth exam. - smoking cessation input not required
+1973821000006117,"mental & behav dis due to use tobacco: acute intoxication, uncomplicated"
+1973841000006112,"mental & behav dis due to use tobacco: acute intoxication, with trauma or other bodily injury"
+1973851000006114,"mental & behav dis due to use tobacco: acute intoxication, with other medical complications"
+1973921000006114,"mental & behav dis due to use tobacco: acute intoxication, with delirium"
+1973951000006117,"mental & behav dis due to use tobacco: acute intoxication, with perceptual distortions"
+1973981000006113,"mental & behav dis due to use tobacco: acute intoxication, with coma"
+1974031000006110,"mental & behav dis due to use tobacco: acute intoxication, with convulsions"
+1974281000006116,"mental and behav dis due to use tobacco: dependence syndr, currently abstinent"
+1974311000006119,"mental and behav dis due to use tobacco: dependence syndr, currently abstinent, but in a protected environment"
+1974341000006115,"mental and behav dis due to use tobacco: dependence syndr, currently on a clinically supervised maintenance or replacement regime [controlled dependence]"
+1974371000006111,"mental and behav dis due to use tobacco: dependence syndr, currently abstinent, but receiving treatment with aversive or blocking drugs"
+1974401000006114,"mental and behav dis due to use tobacco: dependence syndr, currently using the substance [active dependence]"
+1974421000006116,"mental and behav dis due to use tobacco: dependence syndr, continuous use"
+1974461000006110,"mental and behav dis due to use tobacco: dependence syndr, episodic use [dipsomania]"
+1974501000006110,"mental and behav dis due to use tobacco: withdrawal state, uncomplicated"
+1974531000006119,"mental and behav dis due to use tobacco: withdrawal state, with convulsions"
+1974571000006116,"mental & behav dis due to tobacco: withdrawl state wth delirium, without convulsions"
+1974581000006118,"mental & behav dis due to tobacco: withdrawl state wth delirium, with convulsions"
+1974651000006110,"mental & behav dis due to use tobacco: psychotic disorder, schizophrenia-like"
+1974681000006119,"mental & behav dis due to use tobacco: psychotic disorder, predominantly delusional"
+1974711000006118,"mental & behav dis due to use tobacco: psychotic disorder, predominantly hallucinatory"
+1974741000006119,"mental & behav dis due to use tobacco: psychotic disorder, predominantly polymorphic"
+1974761000006115,"mental & behav dis due to use tobacco: psychotic disorder, predominantly depressive symptoms"
+1974791000006111,"mental & behav dis due to use tobacco: psychotic disorder, predominantly manic symptoms"
+1974811000006110,"mental & behav dis due to use tobacco: psychotic disorder, mixed"
+1974841000006114,"mental & behav dis due to tobacco: resid & late-onset psychot dis, flashbacks"
+1974871000006118,"mental & behav dis due to tobacco: resid & late-onset psychot dis, personality or behaviour disorder"
+1974911000006115,"mental & behav dis due to tobacco: resid & late-onset psychot dis, residual affective disorder"
+1974931000006114,"mental & behav dis due to tobacco: resid & late-onset psychot dis, dementia"
+1974961000006117,"mental & behav dis due to tobacco: resid & late-onset psychot dis, other persisting cognitive impairment"
+1974981000006110,"mental & behav dis due to tobacco: resid & late-onset psychot dis, late-onset psychotic disorder"
+1979471000006116,nicotine replacement therapy using nicotine nasal spray
+1979481000006118,nicotine replacement therapy using nicotine mouth spray
+1979491000006115,smoking cessation follow-up
+1979541000006113,socio-economic classification code (stop smoking)
+1979551000006110,socio-economic classification code (stop smoking): full time student
+1979561000006112,socio-economic classification code (stop smoking): never worked or unemployed for over one year
+1979571000006117,socio-economic classification code (stop smoking): retired
+1979591000006116,socio-economic classification code (stop smoking): sick or disabled and unable to work
+1979601000006112,socio-economic classification code (stop smoking): managerial/professional occupation
+1979611000006110,socio-economic classification code (stop smoking): intermediate occupation
+1979621000006119,socio-economic classification code (stop smoking): unable to code
+1979951000006115,socio-economic classification code (stop smoking): routine and manual occupation
+2141561000000115,smoking cessation drug therapy declined
+216212011,smoking reduced
+21681000000118,anti-smoking monitoring admin.
+21691000000116,anti-smoking monitoring administration
+2170961000000116,waterpipe tobacco consumption
+2203381000000113,smoking cessation 12 week follow-up
+2251871000000112,referral to smoking cessation service declined
+2251911000000114,referral to smoking cessation service
+2265711000000117,electronic cigarette user
+2336091000000117,ex user of electronic cigarette
+2462391000000119,varenicline smoking cessation therapy declined
+2462431000000110,varenicline smoking cessation therapy offered
+2474719011,minutes from waking to first tobacco consumption
+250363016,ex-trivial cigarette smoker (<1/day)
+250364010,ex-light cigarette smoker (1-9/day)
+250365011,ex-moderate cigarette smoker (10-19/day)
+250366012,ex-heavy cigarette smoker (20-39/day)
+250367015,ex-very heavy cigarette smoker (40+/day)
+250368013,keeps trying to stop smoking
+250370016,tobacco consumption unknown
+250371017,ex-smoker - amount unknown
+250372012,trying to give up smoking
+250373019,stopped smoking
+250374013,current non-smoker
+250375014,rolls own cigarettes
+250385010,date ceased smoking
+250387019,tobacco consumption nos
+25281000000119,stop smoking clinic administration
+263570019,maternal tobacco abuse
+2636041000006110,cessation of smoking
+2638511000000110,bupropion therapy
+265092010,pregnancy smoking advice
+2669652019,smoking started
+2670126018,smoking restarted
+2717211000000112,signposting to smoking cessation service
+2735181000000113,ex-smoker amount unknown
+2735201000000112,ex-very heavy smoker (40+/day)
+2735281000000119,ex-heavy smoker (20-39/day)
+2735331000000112,ex-moderate smoker (10-19/day)
+2735381000000111,ex-light smoker (1-9/day)
+2735421000000119,ex-trivial smoker (<1/day)
+285792013,monitoring of smoking cessation therapy refused
+285793015,stop smoking monitor default
+285805010,stop smoking monitoring delete
+295256013,"tobacco dependence, unspecified"
+295257016,"tobacco dependence, continuous"
+295258014,"tobacco dependence, episodic"
+295259018,tobacco dependence in remission
+295260011,tobacco dependence nos
+2982426011,provision of smoking cessation leaflet
+298701000000114,history of tobacco use
+303501000000115,smoking cessation advice provided by community pharmacist
+324597019,toxic effect of tobacco and nicotine
+338608011,smoking cessation advice
+3419101000006116,moderate smoker (20 or less per day)
+3422221000006116,heavy smoker (over 20 per day)
+342574011,total time smoked
+342602019,ex-tobacco chewer
+344793011,cigarette consumption
+344794017,cigar consumption
+344795016,pipe tobacco consumption
+3513199018,ex-smoker for less than 1 year
+3513803011,electronic cigarette liquid
+37311000006117,other anti-smoking drug given
+3959111000006111,tobacco dependence syndrome
+397181000006117,[x]mental and behavioural disorders due to use of tobacco: residual and late-onset psychotic disorder
+397271000006110,[x]mental and behavioural disorders due to use of tobacco: other mental and behavioural disorders
+397281000006113,[x]mental and behavioural disorders due to use of tobacco: withdrawal state with delirium
+397461000006119,[x]mental and behavioural disorders due to use of tobacco: unspecified mental and behavioural disorder
+397671000006112,[x]mental and behavioural disorders due to use of tobacco: acute intoxication
+397681000006110,[x]mental and behavioural disorders due to use of tobacco: psychotic disorder
+397732011,never smoked tobacco
+397733018,occasional smoker
+397911000006114,[x]mental and behavioural disorders due to use of tobacco: harmful use
+397971000006117,[x]mental and behav dis due to use tobacco: amnesic syndrome
+397981000006119,[x]mental and behav dis due to use tobacco: dependence syndr
+397991000006116,[x]mental and behavioural disorders due to use of tobacco: withdrawal state
+408878014,fagerstrom test for nicotine dependence total score
+418914010,ex-cigarette smoker
+457286014,nicotine replacement therapy
+459484017,nicotine replacement therapy refused
+459524018,over the counter nicotine replacement therapy
+459722017,referral to stop-smoking clinic
+460127014,pack years
+460828018,tobacco user
+461114016,counselling about tobacco use
+4640171000006113,pregnancy smoking education
+482771000000118,smoking cessation drug therapy
+482791000000119,nicotine replacement therapy using nicotine patch
+482811000000118,nicotine replacement therapy using nicotine gum
+482831000000114,nicotine replacement therapy using nicotine inhalator
+482851000000119,nicotine replacement therapy using nicotine lozenge
+482871000000111,other specified smoking cessation therapy
+489931000000114,smoking cessation therapy nos
+492511000000117,smoking cessation therapy
+4939241000006115,advice on effects of smoking on health
+4939251000006118,advice on smoking
+4939261000006116,smoking effects education
+4948531000006116,smokes in bed
+4980561000006117,time since stopped smoking
+4980581000006110,age at starting smoking
+4980831000006112,finding relating to tobacco chewing
+498831000006118,attends stop smoking monitoring
+5003141000006118,trivial cigarette smoker
+5003151000006116,light cigarette smoker
+5003161000006119,moderate cigarette smoker
+5003171000006114,heavy cigarette smoker
+5003181000006112,very heavy cigarette smoker
+5003191000006110,chain smoker
+503483019,current smoker
+504769011,chews tobacco
+5074201000006119,smokers keratosis
+5495901000006112,amount and type of tobacco smoked
+5495921000006119,never smoked
+5495941000006114,occasional smoker
+5495951000006111,occasional cigarette smoker (less than one cigarette/day)
+5496031000006112,ex-cigarette smoker amount unknown
+5550551000006111,ftnd - fagerstrom test for nicotine dependence
+5553641000006116,occasions for smoking scale
+5555231000006111,reasons for smoking scale
+5979541000006112,smoking monitoring call
+5979551000006114,smoking monitoring status
+5999811000006115,smoking monitoring invitation
+604961000006114,current smoker nos
+6217151000006116,intolerant ex-smoker
+6217281000006116,aggressive ex-smoker
+6282331000006114,tobacco smoking behaviour - finding
+6282351000006119,smoking
+6282371000006112,tobacco smoking consumption - finding
+62881000000117,dna - did not attend smoking cessation clinic
+6427931000006116,smoking cessation assistance
+649821000006115,ex-cigar smoker
+649831000006117,ex-pipe smoker
+649841000006110,ex-smoker
+649851000006112,ex- rolled tobacco smoker
+649861000006114,ex-cigarette smoker
+6718071000006115,current non smoker but past smoking history unknown
+67621000006112,very heavy cigarette smoker (40+ cigs/day)
+700121000006118,moderate cigarette smoker (10-19 cigs/day)
+7359661000006115,tobacco smokefree home
+736241000000116,smoking cessation enhanced services administration
+7368651000006119,smoked before confirmation of pregnancy
+7368961000006112,stopped smoking during pregnancy
+7368971000006117,stopped smoking before pregnancy
+7375991000006118,smokes tobacco daily
+743331000006116,light cigarette smoker (1-9 cigs/day)
+7559591000006110,tobacco use cessation education
+7569061000006118,never used tobacco
+7650811000006116,assessment of readiness for smoking cessation
+7696001000006118,patient request for smoking cessation information
+78013015,smokers' cough
+7832501000006113,cigarette
+7832521000006115,electronic cigarette
+7832541000006110,e-cigarette
+7832561000006114,e-cigarette user
+7965041000006111,never smoked any substance
+8012751000006116,did not attend smoking cessation clinic
+8017571000006117,ex-smoker for more than 1 year
+8056731000006119,smoking assessment
+8061901000006111,attends practice smoking cessation clinic
+8063181000006116,wants to stop smoking
+8153371000006117,occasional tobacco smoker
+818061000006111,smoking cessation education
+819331000006110,heavy cigarette smoker (20-39 cigs/day)
+8196151000006112,smoking cessation leaflet given
+8221521000006111,smoking cessation
+8299271000006119,number of previous attempts to stop smoking
+852111000006118,gradual smoking reduction
+852121000006114,smoking cessation-maintain abstinence
+852131000006112,smoking cessation-practice nurse support
+852981000006111,rolls own cigarettes
+853001000006110,ex-smoker nos
+854021000006115,cigarette smoker
+854051000006112,ex-pipe smoker
+854071000006119,current smoker
+854111000006110,past smoker
+854151000006111,date stopped smoking
+854951000006113,grade a non-smoker
+854961000006110,grade b light smoker (1-10/day)
+854981000006117,grade c moderate smoker (11-20/day)
+855001000006114,grade d heavy smoker (>20 day)
+855801000006116,heart beat smoking grades
+856371000006111,smoking clinic
+88471000006112,trivial cigarette smoker (less than one cigarette/day)
+903041000006110,ex-smoker nos
+903051000006112,tobacco consumption nil
+903981000006117,not interested in stopping smoking
+904001000006111,ready to stop smoking
+904011000006114,smoking cessation declaration signed by patient
+904021000006118,previous smoking quit attempts
+904031000006115,thinking about stopping smoking
+904041000006113,waking time to first cigarette
+904051000006110,carbon monoxide validation of smoking status
+904071000006117,smoking cessation 4 week follow up
+904081000006119,smoking cessation 52 week follow up
+904091000006116,date of last cigarette
+904111000006113,carbon monoxide validation confirms non-smoker
+904121000006117,carbon monoxide validation confirms smoker
+904141000006112,smoking cessation 4 week f/u not completed
+904151000006114,smoking cessation 4 week f/u completed
+904161000006111,smoking cessation 52 week f/u completed
+904171000006116,smoking cessation 52 week f/u not completed
+904181000006118,smoking cessation counselling
+904191000006115,smoking cessation motivation score
+904201000006117,smoking cessation confidence score
+904211000006119,smoking cessation service patient satisfaction score
+904221000006110,smoking cessation bupropion therapy
+904231000006113,smoking cessation counselling by telephone
+904241000006115,smoking cessation counselling in person
+909391000006117,[rfc] smoking cessation
+923201000006112,pregnancy smoking advice
+923611000006113,health ed. - smoking
+933191000006111,drug reaction: bupropion
+936011000006114,advice on effects of smoking on health
+961581000006114,smokes/uses tobacco products
+983101000006113,misuse of nicotine
+99639019,cigar smoker
+998861000006112,nicotine replacement therapy provided by community pharmacist

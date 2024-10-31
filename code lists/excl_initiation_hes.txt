@@ -1,0 +1,129 @@
+icd10,description
+I20.0,unstable angina
+I20.1,angina pectoris with documented spasm
+I20.8,other forms of angina pectoris
+I20.9,"angina pectoris, unspecified"
+I21,acute myocardial dysfunction
+I21.0,acute transmural myocardial infarction of anterior wall
+I21.1,acute transmural myocardial infarction of interior wall
+I21.2,acute transmural myocardial infarction of other sites
+I21.3,acute transmural myocardial infarction of unspecified site
+I21.4,acute subendocardial myocardial infarction
+I21.9,"acute myocardial infarction, unspecified"
+I22,subsequent myocardial infarction
+I22.0,subsequent myocardial infarction of anterior wall
+I22.1,subsequent myocardial infarction of inferior wall
+I22.8,subsequent myocardial infarction of other sites
+I22.9,subsequent myocardial infarction of unspecified site
+I23,certain current complications following acute myocardial infection
+I23.0,haemopericardium as current complication following acute myocardial infarction
+I23.1,atrial septal defecct as current complication
+I23.2,ventricular septal defect as current complication following acute myocardial infarction
+I23.3,rupture of cardiac wall without haemopericardium as current complication
+I23.4,rupture of chordae tendineae as current complication following acute myocardial infarction
+I23.5,rupture of papillary muscle as current complication following acute myocardial infarction
+I23.6,"thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"
+I23.8,other current complications following acute myocardial infarction
+I24,other acute ischaemic heart diseases
+I24.0,coronary thrombosis not resulting in myocardial infarction
+I24.1,dressler syndrome
+I24.8,other forms of acute ischaemic heart disease
+I24.9,"acute ischaemic heart disease, unspecified"
+I25,chronic ischaemic heart disease
+I25.0,"atherosclerotic cardiovascular disease, so described"
+I25.1,atherosclerotic heart disease
+I25.2,old myocardial infarction
+I25.3,anyeurysm of heart
+I25.4,coronary artery aneurysm and dissection
+I25.5,ischaemic cardiomyopathy
+I25.6,silent myocardial ischaemia
+I25.8,other forms of chronic ischaemic heart disease
+I25.9,"chronic ischaemic heart disease, unspecified"
+I63.0,cerebral infarction due to thrombosis of precerebral arteries
+I63.1,cerebral infarction due to embolism of precerebral arteries
+I63.2,cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+I63.3,cerebral infarction due to thrombosis of cerebral arteries
+I63.4,cerebral infarction due to embolism of cerebral arteries
+I63.5,cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+I63.6,"cerebral infarction due to cerebral venous thrombosis, nonpyogenic"
+I63.8,other cerebral infarction
+I63.9,"cerebral infarction, unspecified"
+I64,"stroke, not specified as haemorrhage or infarction"
+N18,Chronic kidney disease
+N18.0,	End-stage renal disease
+N18.3,"Chronic kidney disease, stage 3"
+N18.4,"Chronic kidney disease, stage 4"
+N18.5,"Chronic kidney disease, stage 5"
+N18.9,"Chronic kidney disease, unspecified"
+E10.0,insulin-dependent diabetes mellitus with coma
+E10.1,insulin-dependent diabetes mellitus with ketoacidosis
+E10.2,insulin-dependent diabetes mellitus with renal complications
+E10.3,insulin-dependent diabetes mellitus with ophthalmic comps
+E10.4,insulin-dependent diabetes mellitus with neurological comps
+E10.5,insulin-dependent diabetes mellitus with periph circ comps
+E10.6,insulin-dependent diabetes mellitus with other spec comps
+E10.7,insulin-dependent diabetes mellitus with multiple comps
+E10.8,insulin-dependent diabetes mellitus with unspec comps
+E10.9,insulin-dependent diabetes mellitus without complications
+O24.0,"pre-existing diabetes mellitus, insulin-dependent"
+G45.0,vertebro-basilar artery syndrome
+G45.1,varotid artery syndrome (hemispheric)
+G45.2,multiple and bilateral precerebral artery syndromes
+G45.3,amaurosis fugax
+G45.4,transient global amnesia
+G45.8,other transient cerebral ischemic attacks and related syndromes
+G45.9,"transient cerebral ischemic attack, unspecified"
+B18.0 ,Chronic viral hepatitis B with delta-agent
+B18.1  ,Chronic viral hepatitis B without delta-agent
+B18.2  ,Chronic viral hepatitis C
+B18.8  ,Other chronic viral hepatitis
+B18.9  ,"Chronic viral hepatitis, unspecified"
+K70.0  ,Alcoholic fatty liver
+K70.10  ,Alcoholic hepatitis without ascites
+K70.11  ,Alcoholic hepatitis with ascites
+K70.2  ,Alcoholic fibrosis and sclerosis of liver
+K70.30  , Alcoholic cirrhosis of liver without ascites
+K70.31  ,Alcoholic cirrhosis of liver with ascites
+K70.9  ,"Alcoholic liver disease, unspecified"
+K71.3  ,Toxic liver disease with chronic persistent hepatitis
+K71.50,Toxic liver disease with chronic active hepatitis without ascites
+K71.51,Toxic liver disease with chronic active hepatitis with ascites
+K71.7  ,Toxic liver disease with fibrosis and cirrhosis of liver
+K73.0  ,"Chronic persistent hepatitis, not elsewhere classified"
+K73.1  ,"Chronic lobular hepatitis, not elsewhere classified"
+K73.2  ,"Chronic active hepatitis, not elsewhere classified"
+K73.8  ,"Other chronic hepatitis, not elsewhere classified"
+K73.9  ,"Chronic hepatitis, unspecified"
+K74.00 ,"Hepatic fibrosis, unspecified"
+K74.01  ,"Hepatic fibrosis, early fibrosis"
+K74.02  ,"Hepatic fibrosis, advanced fibrosis"
+K74.1  ,Hepatic sclerosis
+K74.2  ,Hepatic fibrosis with hepatic sclerosis
+K74.3  ,Primary biliary cirrhosis
+K74.4  ,Secondary biliary cirrhosis
+K74.5  ,"Biliary cirrhosis, unspecified"
+K74.60,Unspecified cirrhosis of liver
+K74.69,Other cirrhosis of liver
+K76.0  ,"Fatty (change of) liver, not elsewhere classified"
+K76.2  ,Central hemorrhagic necrosis of liver
+K76.3  ,Infarction of liver
+K76.4  ,Peliosis hepatis
+K76.81,Hepatopulmonary syndrome
+K76.89  ,Other specified diseases of liver
+K76.9  ,"Liver disease, unspecified"
+Z94.4,Liver transplant status
+I85.00 ,Esophageal varices without bleeding
+I85.01 ,Esophageal varices with bleeding
+I86.4,Gastric varices
+I98.2,Oesophageal varices in diseases classified elsewhere
+K70.40 ,Alcoholic hepatic failure without coma
+K70.41  ,Alcoholic hepatic failure with coma
+K71.10,"Toxic liver disease with hepatic necrosis, without coma"
+K71.11,"Toxic liver disease with hepatic necrosis, with coma"
+K72.10,Chronic hepatic failure without coma
+K72.11,Chronic hepatic failure with coma
+K72.90,"Hepatic failure, unspecified without coma"
+K72.91,"Hepatic failure, unspecified with coma"
+K76.5,Hepatic veno-occlusive disease
+K76.6,Portal hypertension
+K76.7,Hepatorenal syndrome

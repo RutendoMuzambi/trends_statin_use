@@ -1,0 +1,74 @@
+medcodeid,term
+186091018,total cholesterol measurement
+259227014,serum cholesterol normal
+259228016,serum cholesterol borderline
+259229012,serum cholesterol raised
+259230019,serum cholesterol very high
+259232010,serum high density lipoprotein cholesterol level
+259233017,serum low density lipoprotein cholesterol level
+259239018,serum cholesterol studies
+259242012,serum fasting hdl (high density lipoprotein) cholesterol level
+259243019,serum random hdl (high density lipoprotein) cholesterol level
+259246010,serum fasting ldl (low density lipoprotein) cholesterol level
+259247018,serum random ldl (low density lipoprotein) cholesterol level
+259250015,total cholesterol:hdl (high density lipoprotein) ratio
+259252011,serum cholesterol nos
+259564016,plasma random hdl (high density lipoprotein) cholesterol level
+259567011,plasma fasting hdl (high density lipoprotein) cholesterol level
+259569014,plasma random ldl (low density lipoprotein) cholesterol level
+259570010,plasma fasting ldl (low density lipoprotein) cholesterol level
+457911015,cholesterol/hdl ratio
+458249011,serum cholesterol/high density lipoprotein ratio
+458252015,plasma cholesterol/hdl (high density lipoprotein) ratio
+458313013,plasma hdl (high density lipoprotein) cholesterol level
+458314019,plasma ldl (low density lipoprotein) cholesterol level
+1484985012,plasma total cholesterol level
+1488764011,calculated ldl (low density lipoprotein) cholesterol level
+2478443019,serum total cholesterol level
+34521000033114,cholesterol
+150921000006118,serum cholesterol level
+405621000000116,serum fasting total cholesterol level
+551861000006118,cholesterol screen
+667191000006111,fasting serum cholesterol
+735661000006117,low density lipoproteinaemia
+855771000006118,hdl cholesterol level
+856761000006115,tc/hdl ratio
+857141000006116,ldl cholesterol level
+1822511000006110,test request : serum hdl cholesterol level
+1879211000006117,test request : serum cholesterol
+2650121000006116,high density lipoprotein
+2650141000006111,hdl
+2716221000006111,high cholesterol
+2783851000006110,hdl measurement
+2854331000006115,low density lipoprotein
+2854351000006110,ldl
+2949971000006113,high density lipoprotein cholesterol measurement
+2950001000006114,hdl - high density lipoprotein cholesterol level
+3877651000006116,cholesterol
+4079571000006118,hdl cholesterol
+4079621000006115,ldl cholesterol
+4217651000006116,low density lipoprotein cholesterol measurement
+4217681000006112,ldl - low density lipoprotein cholesterol level
+4600201000006115,serum hdl cholesterol measurement
+4600211000006117,serum hdl cholesterol level
+4600231000006111,serum ldl cholesterol measurement
+4600241000006118,serum ldl cholesterol level
+4600421000006112,total cholesterol:hdl ratio measurement
+4600431000006110,total cholesterol:hdl ratio
+5415701000006110,hdl1 - high density lipoprotein subfraction 1
+6036221000006115,cholesterol/hdl ratio measurement
+6040951000006115,serum cholesterol/hdl ratio
+6052931000006111,fasting cholesterol level
+6279041000006119,serum cholesterol level
+6550661000006112,calculated ldl cholesterol level
+6831591000006111,serum total cholesterol measurement
+6831601000006115,serum total cholesterol level
+7261561000006118,serum cholesterol borderline high
+7263101000006113,serum cholesterol borderline low
+8290381000006115,cholesterol level
+8292941000006114,total cholesterol level
+8385731000006118,serum hdl (high density lipoprotein) cholesterol level
+8396611000006112,serum cholesterol/hdl (high density lipoprotein) ratio
+12622321000006118,hdl (high density lipoprotein) cholesterol substance concentration in serum
+12623411000006112,ldl-c (low density lipoprotein cholesterol) substance concentration in serum
+12716491000006111,serum cholesterol borderline

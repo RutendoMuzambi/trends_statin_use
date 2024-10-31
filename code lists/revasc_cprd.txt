@@ -1,0 +1,166 @@
+medcodeid,term
+43909016,replacement of aortic valve
+270912013,revascularisation of wall of heart
+270944012,allograft replacement of aortic valve
+270949019,replacement of aortic valve nec
+271073015,saphenous vein graft replacement of one coronary artery
+271087015,allograft bypass of coronary artery
+271088013,allograft replacement of coronary artery
+271089017,allograft replacement of one coronary artery
+271095016,other specified allograft replacement of coronary artery
+271096015,allograft replacement of coronary artery nos
+271097012,prosthetic bypass of coronary artery
+271105012,revision of bypass for coronary artery
+271106013,revision of bypass for one coronary artery
+271112015,other specified revision of bypass for coronary artery
+271113013,revision of bypass for coronary artery nos
+271115018,creation of bypass from mammary artery to coronary artery
+271170015,other specified other bypass of coronary artery
+271171016,other bypass of coronary artery nos
+271431019,other bypass of bifurcation of aorta
+271444012,other specified other bypass of bifurcation of aorta
+271445013,other bypass of bifurcation of aorta nos
+271471012,other emergency bypass of segment of aorta
+271477011,other specified other emergency bypass of segment of aorta
+271478018,other emergency bypass of segment of aorta nos
+271479014,other bypass of segment of aorta
+271485019,other specified other bypass of segment of aorta
+271486018,other bypass of segment of aorta nos
+271530016,intracranial bypass to carotid artery
+271531017,bypass of carotid artery
+271602011,bypass of subclavian artery
+271603018,bypass of axillary artery
+271604012,bypass of vertebral artery
+271609019,bypass of brachial artery
+271720011,bypass of coeliac artery nec
+271722015,bypass of superior mesenteric artery nec
+271723013,bypass of inferior mesenteric artery nec
+271725018,bypass of suprarenal artery nec
+271743019,bypass of visceral branch of abdominal aorta nec
+271865013,emergency bypass of iliac artery by unspecified anastomosis
+271867017,other specified other bypass of iliac artery
+271868010,other bypass of iliac artery nos
+272003016,other bypass of femoral artery or popliteal artery nos
+272175010,other bypass operations on vein
+272178012,other specified bypass operation on vein
+272181019,bypass operation on vein nos
+349661010,other bypass of superficial femoral artery
+349664019,other bypass of deep femoral artery
+349665018,other bypass of common femoral artery
+349666017,other bypass of femoral or popliteal artery by anastomosis
+349667014,other emergency bypass of femoral artery
+349668016,other emergency bypass of superficial femoral artery
+349669012,other emergency bypass of popliteal artery
+349670013,other emergency bypass of deep femoral artery
+349671012,other emergency bypass of common femoral artery
+349677011,other bypass of iliac artery by anastomosis
+394338018,other emergency bypass of femoral artery or popliteal artery
+394339014,arterial bypass of lower limb artery
+499653015,cardiopulmonary bypass
+1221554018,other autograft bypass of coronary artery
+1228282017,saphenous vein graft replacement of coronary artery
+1235382014,bypass of renal artery
+11211000006110,other specified extraanatomic bypass of aorta
+31351000006112,other emergency bypass of femoral or popliteal artery nos
+31361000006114,other emergency bypass of femoral or popliteal artery os
+36061000006118,other bypass of femoral artery or popliteal artery os
+161451000006116,saphenous vein graft replacement of coronary artery
+238561000006119,percutaneous transluminal balloon angioplasty of bypass graft of coronary artery
+238571000006114,percutaneous transluminal balloon angioplasty of multiple coronary arteries
+238601000006119,percut translum inject therap subst to coronary artery nec
+238641000006117,percutaneous transluminal balloon angioplasty of one coronary artery
+354901000000117,percutaneous transluminal atherectomy of coronary artery
+373401000000110,modified ultrafiltration adjunct cardiopulmonary bypass
+375781000000110,intracranial bypass from carotid artery nec
+376701000000111,replacement of aortic root using homograft
+376721000000119,replacement of aortic root
+384161000000110,replacement of aortic root using mechanical prosthesis
+530051000006117,bypass aorta by anastomosis axillary to femoral artery nec
+530061000006115,bypass of bifurcation of aorta by anastomosis of aorta to femoral artery
+530071000006110,bypass of bifurcation of aorta by anastomosis of aorta to iliac artery
+530091000006111,bypass common iliac artery by aorta/com iliac art anast nec
+530111000006119,bypass femoral artery by fem/peron a anast c prosthesis nec
+530121000006110,bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft
+530131000006113,bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis
+530141000006115,bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft
+530151000006118,bypass femoral artery by fem/tib art anast c prosthesis nec
+530161000006116,bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft
+530181000006114,bypass iliac artery by aorta/ext iliac art anastomosis nec
+530191000006112,bypass iliac artery by femoral/femoral art anastomosis nec
+530201000006110,bypass of iliac artery by anastomosis of iliac artery to femoral artery
+530211000006113,bypass iliac artery by iliac/iliac artery anastomosis nec
+530221000006117,bypass leg artery by aorta/com femoral art anastomosis nec
+530231000006119,bypass leg artery by aorta/deep femoral art anastomosis nec
+530261000006111,bypass of abdominal aorta by anastomosis aorta to aorta nec
+530271000006116,bypass of ascending aorta by anastomosis aorta to aorta nec
+530511000006110,bypass of infrarenal aorta by anastomosis aorta to aorta nec
+530711000006115,bypass of suprarenal aorta by anastomosis aorta to aorta nec
+530731000006114,bypass of thoracic aorta by anastomosis aorta to aorta nec
+530781000006110,bypass popliteal art by pop/peron art anast c vein graft nec
+530791000006113,bypass popliteal artery by pop/fem artery anastomosis nec
+530801000006114,bypass popliteal artery by pop/peron art anast c prosth nec
+530811000006112,bypass popliteal artery by pop/pop a anast c prosthesis nec
+530821000006116,bypass popliteal artery by pop/pop a anast c vein graft nec
+530831000006118,bypass popliteal artery by pop/tib a anast c prosthesis nec
+530841000006111,bypass popliteal artery by pop/tib a anast c vein graft nec
+639341000006115,emergency bypass of aorta by anastomosis of axillary artery to femoral artery
+639351000006118,emerg bypass abdominal aorta by anastom aorta to aorta nec
+639361000006116,emerg bypass ascending aorta by anastom aorta to aorta nec
+639371000006111,emergency bypass of bifurcation of aorta by anastomosis of aorta to femoral artery
+639381000006114,emergency bypass of bifurcation of aorta by anastomosis of aorta to iliac artery
+639391000006112,emerg bypass comm iliac art by aorta/com iliac art anast nec
+639421000006116,emerg bypass femoral art by fem/pop a anast c vein graft nec
+639461000006110,emerg bypass femoral artery by fem/fem art anastomosis nec
+639481000006117,emerg bypass iliac artery by aorta/ext iliac art anast nec
+639491000006119,emerg bypass iliac artery by femoral/femoral art anast nec
+639501000006110,emerg bypass iliac artery by iliac/iliac art anastomosis nec
+639511000006113,emerg bypass infrarenal aorta by anastom aorta to aorta nec
+639521000006117,emerg bypass leg artery by aorta/com fem art anastomosis nec
+639531000006119,emerg bypass leg artery by aorta/deep fem anastomosis nec
+639541000006112,emerg bypass pop art by pop/peron art anast c vein graft nec
+639551000006114,emerg bypass pop art by pop/pop art anast c vein graft nec
+639561000006111,emerg bypass pop art by pop/tib art anast c vein graft nec
+639601000006111,emerg bypass popliteal artery by pop/fem art anastomosis nec
+639621000006118,emerg bypass thoracic aorta by anatomosis aorta to aorta nec
+659501000006114,extraanatomic bypass of aorta
+659511000006112,extraanatomic bypass of aorta nos
+865111000006116,indirect heart revascularisat.
+865301000006116,percut angiopl coronary artery
+1547181000006114,replacement of aortic root using pulmonary valve autograft with right ventricle to pulmonary artery valved conduit
+1547311000006116,percutaneous transluminal cutting balloon angioplasty of coronary artery
+1547631000006117,percutaneous transluminal balloon angioplasty with insertion of stent into coronary artery
+1547641000006110,percutaneous transluminal balloon angioplasty and insertion of drug eluting stent into coronary artery
+1547671000006119,percutaneous cor balloon angiop 3 more stents cor art nec
+1548241000006113,high-flow interposition extracranial to intracranial bypass from external carotid artery to middle cerebral artery
+1548251000006110,bypass of carotid artery by anastomosis of superficial temporal artery to middle cerebral artery
+1767701000006110,bypass of aorta by anastomosis of axillary artery to bilateral femoral arteries
+2676641000006116,percutaneous angioplasty of coronary artery
+2715071000006111,femoral-distal bypass with peroneal artery
+3535951000006117,cardiopulmonary bypass operation
+3535981000006113,cpb - cardiopulmonary bypass
+3821811000006110,heart revascularisation
+4317911000006116,"coronary artery bypass graft, anastomosis of artery of thorax to coronary artery"
+4666361000006110,extra-anatomic bypass of aorta
+5040281000006119,percutaneous endarterectomy of coronary artery
+5041981000006116,replacement of implanted aortic valve
+5051631000006113,revascularisation of finger
+5051671000006111,revascularisation of lower limb
+5051731000006116,revascularisation of toe
+5191511000006118,blood sampling from cardiopulmonary bypass circuit
+5837271000006115,revascularisation - action
+5837281000006117,revascularisation
+6583131000006110,percutaneous rotational coronary endarterectomy
+7224981000006113,bypass of axillary artery to brachial artery using vein graft
+7350201000006111,bypass of segment of abdominal aorta by anastomosis of aorta to aorta
+7358161000006119,percutaneous transluminal injection of therapeutic substance into coronary artery
+7368571000006113,replacement of aortic root using pulmonary valve autograft and replacement of pulmonary valve
+7368581000006111,replacement of aortic root using pulmonary valve autograft and replacement of pulmonary valve (ross procedure)
+12120191000006118,revision of bypass of femoral artery with anastomosis of femoral artery to femoral artery using prosthesis
+13961541000006110,coronary artery bypass graft using free lima (left internal mammary artery) graft
+13961751000006115,percutaneous coronary intervention of left coronary artery
+13961761000006118,pci (percutaneous coronary intervention) of lca (left coronary artery)
+13961781000006111,pci (percutaneous coronary intervention) of left anterior descending branch of coronary artery
+13961791000006114,percutaneous coronary intervention of circumflex branch of left coronary artery
+13961801000006110,pci (percutaneous coronary intervention) of circumflex branch of left coronary artery
+13961811000006113,percutaneous coronary intervention of right coronary artery
+13961821000006117,pci (percutaneous coronary intervention) of rca (right coronary artery)

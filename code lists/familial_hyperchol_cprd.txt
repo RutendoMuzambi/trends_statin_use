@@ -1,0 +1,13 @@
+medcodeid,term
+1773186016,familial hypercholesterolaemia
+666301000006115,familial hypercholesterolaemia
+1659061000000112,possible familial hypercholesterolaemia
+2241371000000117,probable familial hypercholesterolaemia
+5116961000006119,familial hypercholesterolaemia - homozygous
+5117001000006119,familial hypercholesterolaemia - heterozygous
+5117061000006118,familial hypercholesterolaemia due to genetic defect of apolipoprotein b-100
+6596631000006112,familial hypercholesterolemia
+6687861000006113,familial hypercholesterolaemia due to heterozygous ldl receptor mutation
+6687901000006118,familial hypercholesterolaemia due to homozygous ldl receptor mutation
+7510431000006112,suspected heterozygous familial hypercholesterolaemia
+8192861000006119,possible heterozygous familial hypercholesterolaemia

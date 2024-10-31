@@ -1,0 +1,12 @@
+icd10,description
+E10.0,insulin-dependent diabetes mellitus with coma
+E10.1,insulin-dependent diabetes mellitus with ketoacidosis
+E10.2,insulin-dependent diabetes mellitus with renal complications
+E10.3,insulin-dependent diabetes mellitus with ophthalmic comps
+E10.4,insulin-dependent diabetes mellitus with neurological comps
+E10.5,insulin-dependent diabetes mellitus with periph circ comps
+E10.6,insulin-dependent diabetes mellitus with other spec comps
+E10.7,insulin-dependent diabetes mellitus with multiple comps
+E10.8,insulin-dependent diabetes mellitus with unspec comps
+E10.9,insulin-dependent diabetes mellitus without complications
+O24.0,"pre-existing diabetes mellitus, insulin-dependent"

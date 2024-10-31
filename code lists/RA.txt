@@ -1,0 +1,125 @@
+medcodeid,term
+48361011,rheumatoid carditis
+95067016,felty's syndrome
+116082011,rheumatoid arthritis
+123542016,pauciarticular juvenile rheumatoid arthritis
+125937016,acute polyarticular juvenile rheumatoid arthritis
+250085017,fh: rheumatoid arthritis
+251794010,h/o: rheumatoid arthritis
+297544012,polyneuropathy in rheumatoid arthritis
+297641010,myopathy due to rheumatoid arthritis
+300221014,rheumatoid myocarditis
+309787016,rheumatoid arthritis of cervical spine
+309788014,rheumatoid arthritis of spine
+309789018,rheumatoid arthritis of shoulder
+309790010,rheumatoid arthritis of sternoclavicular joint
+309791014,rheumatoid arthritis of acromioclavicular joint
+309792019,rheumatoid arthritis of elbow
+309794018,rheumatoid arthritis of wrist
+309798015,rheumatoid arthritis of hip
+309800010,rheumatoid arthritis of knee
+309802019,rheumatoid arthritis of ankle
+309803012,rheumatoid arthritis of subtalar joint
+309804018,rheumatoid arthritis of talonavicular joint
+309805017,rheumatoid arthritis of other tarsal joint
+309812014,rheumatoid bursitis
+309816012,flare of rheumatoid arthritis
+309824019,juvenile rheumatoid arthropathy unspecified
+309827014,monarticular juvenile rheumatoid arthritis
+309828016,juvenile rheumatoid arthritis nos
+311496011,fibrosing alveolitis associated with rheumatoid arthritis
+312518013,[x]other seropositive rheumatoid arthritis
+312520011,[x]other specified rheumatoid arthritis
+312534011,"[x]seropositive rheumatoid arthritis, unspecified"
+359292012,seronegative rheumatoid arthritis
+426510015,rheumatoid arthritis - multiple joint
+451461014,seropositive erosive rheumatoid arthritis
+485614018,rheumatoid nodule
+1778239014,rheumatoid lung disease
+1786545019,rheumatoid lung
+2472447010,juvenile rheumatoid arthritis
+3514955016,erosion of joint surface co-occurrent and due to rheumatoid arthritis
+3527061011,deformity of left foot co-occurrent and due to rheumatoid arthritis
+3527712017,deformity of left hand co-occurrent and due to rheumatoid arthritis
+3527731011,deformity of right foot co-occurrent and due to rheumatoid arthritis
+3527737010,deformity of right hand co-occurrent and due to rheumatoid arthritis
+3528262012,rheumatoid arthritis of right hand
+3528264013,rheumatoid arthritis of left hip
+3528266010,rheumatoid arthritis of right hip
+16911000006114,rheumatoid arthritis with organ / system involvement
+149911000006117,seropositive rheumatoid arthritis
+162041000006117,rheumatoid arthritis of distal interphalangeal joint of finger
+162051000006115,rheumatoid arthritis of distal radio-ulnar joint
+162081000006111,rheumatoid arthritis of interphalangeal joint of toe
+162101000006115,rheumatoid arthritis of lesser metatarsophalangeal joint
+162111000006117,rheumatoid arthritis of metacarpophalangeal joint
+162131000006111,rheumatoid arthritis of proximal interphalangeal joint of finger
+162141000006118,rheumatoid arthritis of sacroiliac joint
+162191000006110,rheumatoid arthritis of tibio-fibular joint
+162231000006117,rheumatoid arthropathy + visceral/systemic involvement nos
+162301000006117,rheumatoid lung
+162341000006115,rheumatoid nodule
+168751000006115,rheumatoid arthritis and other inflammatory polyarthropathy
+168761000006118,rheumatoid arthritis of 1st metatarsophalangeal joint
+219021000000114,rheumatoid arthritis monitoring
+371261000000111,delivery of rehabilitation for rheumatoid arthritis
+424981000006114,[x]rheumatoid arthritis+involvement/other organs or systems
+463281000006113,adult onset still's disease
+463301000006112,adult-onset still's disease
+755441000006119,juvenile rheumatoid arthritis - still's disease
+889731000006111,rheumatoid arthritis nos
+905301000006114,[rfc] rheumatoid
+909191000006119,[rfc] rheumatoid arthritis
+1875561000006119,rheumatoid arthritis monitoring invitation
+1875571000006114,rheumatoid arthritis monitoring telephone invitation
+1875581000006112,rheumatoid arthritis monitoring verbal invitation
+1875591000006110,rheumatoid arthritis monitoring invitation first letter
+1875601000006119,rheumatoid arthritis monitoring invitation second letter
+1875611000006116,rheumatoid arthritis monitoring invitation third letter
+1880371000006117,rheumatoid arthritis resolved
+1932121000006116,3d study - problems with rheumatoid arthritis management
+2196791000000119,rheumatoid arthritis annual review
+2275501000000119,rheumatoid arthritis monitoring invitation
+2275671000000111,rheumatoid arthritis monitoring invitation first letter
+2275711000000112,rheumatoid arthritis monitoring invitation second letter
+2275751000000111,rheumatoid arthritis monitoring invitation third letter
+2275791000000115,rheumatoid arthritis monitoring verbal invitation
+2275831000000110,rheumatoid arthritis monitoring telephone invitation
+2530001000006117,chronic polyarticular juvenile rheumatoid arthritis
+3042571000006112,subcutaneous rheumatoid nodule
+3322481000006114,rheumatoid nodule
+3428911000006119,felty syndrome
+3636541000006112,ra - rheumatoid arthritis
+3636551000006114,rheumatoid disease
+3709251000006117,pauciarticular juvenile rheumatoid arthritis
+3901751000006115,uveitis-rheumatoid arthritis syndrome
+4530961000006110,family history: rheumatoid arthritis
+4809101000006114,rheumatoid arthritis of distal radioulnar joint
+4809221000006114,rheumatoid arthritis of first metatarsophalangeal joint
+5141321000006112,adult onset still disease
+5721431000006114,rheumatoid arthritis of multiple joints
+5721451000006119,rheumatoid arthritis - hand joint
+5721481000006110,rheumatoid arthritis - ankle and/or foot
+7078501000006113,rheumatoid arthritis of temporomandibular joint
+7099641000006113,rheumatoid arthritis of foot
+8045661000006112,rheumatoid arthritis in remission
+8440031000006113,rheumatoid arthritis monitoring invitation by sms (short message service) text messaging
+8440041000006115,rheumatoid arthritis monitoring sms (short message service) text message first invitation
+8440051000006118,rheumatoid arthritis monitoring sms (short message service) text message second invitation
+8440071000006111,rheumatoid arthritis monitoring sms (short message service) text message third invitation
+8447181000006111,rheumatoid arthritis of left knee
+8447281000006115,rheumatoid arthritis of right knee
+8459501000006119,rheumatoid arthritis monitoring invitation email
+9357441000006116,seropositive rheumatoid arthritis of multiple joints
+12114051000006110,rheumatoid arthritis of left shoulder
+12114061000006112,rheumatoid arthritis of right shoulder
+13605001000006117,rheumatoid arthritis of joint of spine
+13677531000006119,seronegative rheumatoid arthritis of multiple sites
+13677571000006116,rheumatoid nodule of left hand
+13687681000006113,rheumatoid arthritis of left foot
+13687691000006111,rheumatoid arthritis of left wrist
+13687711000006114,rheumatoid arthritis of right wrist
+13709541000006116,bilateral rheumatoid arthritis of knees
+13709571000006112,bilateral rheumatoid arthritis of hands
+14011041000006114,bilateral deformity of hands due to rheumatoid arthritis
+14177941000006118,bilateral seronegative rheumatoid arthritis of wrists

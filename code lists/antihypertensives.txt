@@ -1,0 +1,329 @@
+prodcodeid,productname
+3041000033115,acebutolol 100mg capsules
+3141000033116,acebutolol 200mg capsules
+10741000033112,acebutolol 400mg tablets
+10841000033119,acepril 12.5mg tablets
+10941000033110,acepril 25mg tablets
+11041000033117,acepril 50mg tablets
+11241000033113,accuretic 10mg/12.5mg tablets
+11641000033111,accupro 40mg tablets
+13141000033119,acezide 25mg/50mg tablets
+13241000033114,accupro 10mg tablets
+13341000033116,accupro 20mg tablets
+13441000033110,accupro 5mg tablets
+59141000033113,amias 16mg tablets
+59241000033118,amias 2mg tablets
+59341000033111,amias 4mg tablets
+59441000033117,amias 8mg tablets
+75941000033114,aprovel 150mg tablets
+76041000033116,aprovel 300mg tablets
+76141000033117,aprovel 75mg tablets
+90541000033117,atenix 100 tablets
+90741000033113,atenix co 100 tablets
+91841000033113,atenix 25 tablets
+92441000033119,atenix co 50 tablets
+92541000033118,atenix 50 tablets
+124241000033112,bedranol sr 160mg capsules
+124341000033119,beta-adalat modified-release capsules
+131141000033116,betaloc i.v. 5mg/5ml solution for injection ampoules
+133141000033117,beta-prograne 160mg modified-release capsules
+143941000033116,beta-cardone 200mg tablets
+144041000033119,beta-cardone 40mg tablets
+144141000033115,beta-cardone 80mg tablets
+151341000033117,bisoprolol 5mg tablets
+209841000033115,carace 10 plus tablets
+209941000033111,carvedilol 12.5mg tablets
+210041000033115,carvedilol 25mg tablets
+211541000033119,candesartan 16mg tablets
+211641000033118,candesartan 2mg tablets
+211741000033110,candesartan 4mg tablets
+211841000033117,candesartan 8mg tablets
+213441000033119,captopril 12.5mg tablets
+214141000033113,capoten 12.5mg tablets
+214241000033118,capoten 25mg tablets
+214341000033111,capoten 50mg tablets
+214441000033117,captopril 25mg tablets
+214541000033116,captopril 50mg tablets
+216441000033110,capozide 25mg/50mg tablets
+217041000033116,carace 20 plus tablets
+233241000033114,celectol 400mg tablets
+233341000033116,celiprolol 400mg tablets
+236041000033111,celiprolol 200mg tablets
+236141000033110,celectol 200mg tablets
+370441000033112,cozaar 25mg tablets
+370541000033113,cozaar 50mg tablets
+370841000033110,cozaar-comp 50mg/12.5mg tablets
+375341000033112,corgard 80mg tablets
+376441000033110,co-tenidone 50mg/12.5mg tablets
+376541000033111,co-tenidone 100mg/25mg tablets
+377541000033114,coversyl 2mg tablets
+377641000033110,coversyl 4mg tablets
+437641000033118,diovan 160mg capsules
+437741000033110,diovan 40mg capsules
+437841000033117,diovan 80mg capsules
+513941000033117,emcor ls 5mg tablets
+514741000033117,bisoprolol 10mg tablets
+522641000033110,enalapril 10mg tablets
+522741000033118,enalapril 20mg tablets
+522841000033111,enalapril 5mg tablets
+523541000033115,enalapril 2.5mg tablets
+609141000033111,fosinopril 10mg tablets
+609241000033116,fosinopril 20mg tablets
+660741000033115,half beta-prograne 80mg modified-release capsules
+769041000033116,innovace 10mg tablets
+769141000033117,innovace 2.5mg tablets
+769241000033112,innovace 20mg tablets
+769341000033119,innovace 5mg tablets
+770141000033115,innozide 20mg/12.5mg tablets
+775441000033117,irbesartan 150mg tablets
+775541000033116,irbesartan 300mg tablets
+775641000033115,irbesartan 75mg tablets
+793741000033117,kalten capsules
+811341000033119,labetalol 100mg/20ml solution for injection ampoules
+814041000033119,labetalol 100mg tablets
+818641000033117,labetalol 200mg tablets
+818741000033114,labetalol 400mg tablets
+818841000033116,labetalol 50mg tablets
+837841000033110,lisinopril 10mg tablets
+837941000033119,lisinopril 2.5mg tablets
+838041000033116,lisinopril 20mg tablets
+838141000033117,lisinopril 5mg tablets
+850841000033110,lopresor 100mg tablets
+850941000033119,lopresor 50mg tablets
+851041000033112,lopresor sr 200mg tablets
+851841000033117,losartan 25mg tablets
+851941000033113,losartan 50mg tablets
+887141000033113,metoprolol 5mg/5ml solution for injection ampoules
+891641000033111,metoprolol 200mg modified-release tablets
+897741000033111,metoprolol 100mg tablets
+897841000033118,metoprolol 50mg tablets
+938041000033113,moexipril 15mg tablets
+938141000033112,moexipril 7.5mg tablets
+956541000033118,nadolol 80mg tablets
+1026041000033118,oxprenolol 160mg modified-release tablets
+1026141000033119,oxprenolol 20mg tablets
+1026241000033114,oxprenolol 40mg tablets
+1026341000033116,oxprenolol 80mg tablets
+1065941000033115,perdix 15mg tablets
+1066041000033113,perdix 7.5mg tablets
+1067841000033115,perindopril erbumine 2mg tablets
+1067941000033111,perindopril erbumine 4mg tablets
+1091141000033117,pindolol 15mg tablets
+1091241000033112,pindolol 5mg tablets
+1119641000033117,propranolol 1mg/1ml solution for injection ampoules
+1124041000033116,propranolol 160mg modified-release capsules
+1125341000033118,propranolol 10mg/5ml oral solution sugar free
+1125441000033112,propranolol 5mg/5ml oral solution sugar free
+1125541000033113,propranolol 50mg/5ml oral solution sugar free
+1130041000033112,propranolol 80mg modified-release capsules
+1132741000033111,prestim tablets
+1135041000033117,propranolol 10mg tablets
+1135141000033118,propranolol 160mg tablets
+1135241000033113,propranolol 40mg tablets
+1135341000033115,propranolol 80mg tablets
+1149241000033111,quinapril 5mg tablets
+1149341000033118,quinapril 10mg tablets
+1149441000033112,quinapril 20mg tablets
+1149541000033113,quinapril 40mg tablets
+1151341000033117,ramipril 1.25mg capsules
+1151441000033111,ramipril 2.5mg capsules
+1151541000033112,ramipril 5mg capsules
+1268141000033119,sectral 100mg capsules
+1268241000033114,sectral 200mg capsules
+1278241000033118,sectral 400mg tablets
+1347441000033114,slow-trasicor 160mg tablets
+1358541000033113,sotacor 40mg/4ml solution for injection ampoules
+1366041000033112,sotacor 160mg tablets
+1366141000033111,sotacor 80mg tablets
+1367141000033113,sotalol 160mg tablets
+1367241000033118,sotalol 200mg tablets
+1367441000033117,sotalol 40mg tablets
+1367541000033116,sotalol 80mg tablets
+1414941000033114,tenif 50mg/20mg modified-release capsules
+1420741000033114,tenormin 5mg/10ml solution for injection ampoules
+1424541000033110,tenormin 25mg/5ml syrup
+1426241000033117,tenoret 50mg/12.5mg tablets
+1426341000033110,tenoretic 100mg/25mg tablets
+1426441000033116,tenormin 100mg tablets
+1426541000033115,tenormin ls 50mg tablets
+1428741000033112,tenormin 25mg tablets
+1444541000033113,timolol 10mg tablets
+1453941000033115,trandolapril 1mg capsules
+1454041000033118,trandolapril 2mg capsules
+1454141000033119,trandolapril 500microgram capsules
+1455541000033110,tritace 1.25mg capsules
+1455641000033111,tritace 2.5mg capsules
+1455741000033119,tritace 5mg capsules
+1469041000033113,trandate 100mg tablets
+1469141000033112,trandate 200mg tablets
+1469241000033117,trandate 400mg tablets
+1469341000033110,trandate 50mg tablets
+1498241000033111,valsartan 160mg capsules
+1498341000033118,valsartan 40mg capsules
+1498441000033112,valsartan 80mg capsules
+1523941000033114,viskaldix tablets
+1524041000033111,visken 5mg tablets
+1525141000033111,visken 15mg tablets
+1551841000033118,zestoretic 10 tablets
+1551941000033114,zestril 10mg tablets
+1552041000033115,zestril 2.5mg tablets
+1552141000033116,zestril 20mg tablets
+1552241000033111,zestril 5mg tablets
+1552341000033118,zestoretic 20 tablets
+1581241000033110,carvedilol 3.125mg tablets
+1581341000033117,carvedilol 6.25mg tablets
+1622041000033110,kaplon 12.5mg tablets
+1622141000033114,kaplon 25mg tablets
+1622241000033119,kaplon 50mg tablets
+1739741000033112,imidapril 10mg tablets
+1739841000033119,imidapril 5mg tablets
+1753841000033118,tanatril 10mg tablets
+1753941000033114,tanatril 5mg tablets
+1769841000033111,ramipril 10mg capsules
+1769941000033115,tritace 10mg capsules
+1796041000033113,nebivolol 5mg tablets
+1796141000033112,nebilet 5mg tablets
+1834341000033110,triapin 5mg/5mg modified-release tablets
+1849541000033118,telmisartan 40mg tablets
+1849641000033117,telmisartan 80mg tablets
+1849741000033114,micardis 40mg tablets
+1849841000033116,micardis 80mg tablets
+1893141000033119,co-zidocapt 12.5mg/25mg tablets
+1893241000033114,co-zidocapt 25mg/50mg tablets
+1918641000033112,pralenal 2.5 tablets
+1918741000033115,pralenal 5 tablets
+1918841000033113,pralenal 10 tablets
+1918941000033117,pralenal 20 tablets
+1951641000033111,bisoprolol 1.25mg tablets
+1951741000033119,bisoprolol 2.5mg tablets
+1951841000033112,bisoprolol 3.75mg tablets
+1951941000033116,bisoprolol 7.5mg tablets
+1952241000033119,cardicor 1.25mg tablets
+1952341000033112,cardicor 2.5mg tablets
+1952441000033118,cardicor 3.75mg tablets
+1952541000033117,cardicor 5mg tablets
+1952641000033116,cardicor 7.5mg tablets
+1952741000033113,cardicor 10mg tablets
+2036341000033115,eprosartan 300mg tablets
+2036441000033114,eprosartan 400mg tablets
+2036541000033110,eprosartan 600mg tablets
+2040841000033113,teveten 300mg tablets
+2040941000033117,teveten 400mg tablets
+2041041000033110,teveten 600mg tablets
+2145741000033116,tanatril 20mg tablets
+2145841000033114,imidapril 20mg tablets
+2216141000033115,coaprovel 150mg/12.5mg tablets
+2216241000033110,coaprovel 300mg/12.5mg tablets
+2267441000033110,syprol 5mg/5ml oral solution
+2267541000033111,syprol 10mg/5ml oral solution
+2267641000033112,syprol 50mg/5ml oral solution
+2272641000033119,telmisartan 20mg tablets
+2272741000033111,micardis 20mg tablets
+2638041000033110,bipranix 5mg tablets
+2638141000033114,bipranix 10mg tablets
+2711841000033114,bedranol sr 80mg capsules
+2720141000033115,losartan 100mg tablets
+2720241000033110,cozaar 100mg tablets
+2724641000033119,tritace titration pack capsules
+2739541000033117,coversyl plus tablets
+2802041000033113,soloc 10mg tablets
+2846641000033111,coversyl 8mg tablets
+2846741000033119,perindopril erbumine 8mg tablets
+2864241000033110,micardisplus 40mg/12.5mg tablets
+2864341000033117,micardisplus 80mg/12.5mg tablets
+2866041000033110,vivacor 5mg tablets
+2866141000033114,vivacor 10mg tablets
+2908541000033114,sotalol 40mg/4ml solution for injection ampoules
+2928341000033114,tensopril 12.5mg tablets
+2928441000033115,tensopril 25mg tablets
+2928541000033119,tensopril 50mg tablets
+2929141000033117,slo-pro 160mg capsules
+2944541000033111,olmesartan medoxomil 10mg tablets
+2944641000033112,olmesartan medoxomil 20mg tablets
+2944741000033115,olmesartan medoxomil 40mg tablets
+2944841000033113,olmetec 10mg tablets
+2944941000033117,olmetec 20mg tablets
+2945041000033117,olmetec 40mg tablets
+2945841000033112,ecopace 12.5mg tablets
+2945941000033116,ecopace 25mg tablets
+2946041000033114,ecopace 50mg tablets
+2989541000033115,ramipril 1.25mg tablets
+2989641000033119,ramipril 2.5mg tablets
+2989741000033111,ramipril 5mg tablets
+2989841000033118,ramipril 10mg tablets
+2989941000033114,tritace 1.25mg tablets
+2990041000033116,tritace 2.5mg tablets
+2990141000033117,tritace 5mg tablets
+2990241000033112,tritace 10mg tablets
+3014741000033111,trandolapril 4mg capsules
+3152541000033112,co-diovan 160mg/12.5mg tablets
+3152641000033113,co-diovan 160mg/25mg tablets
+3159741000033111,lopace 2.5mg capsules
+3159841000033118,lopace 5mg capsules
+3159941000033114,lopace 10mg capsules
+3160641000033118,quinapril 10mg / hydrochlorothiazide 12.5mg tablets
+3160841000033117,lisinopril 10mg / hydrochlorothiazide 12.5mg tablets
+3160941000033113,lisinopril 20mg / hydrochlorothiazide 12.5mg tablets
+3161141000033116,irbesartan 150mg / hydrochlorothiazide 12.5mg tablets
+3161241000033111,irbesartan 300mg / hydrochlorothiazide 12.5mg tablets
+3161441000033112,valsartan 160mg / hydrochlorothiazide 12.5mg tablets
+3161541000033113,valsartan 160mg / hydrochlorothiazide 25mg tablets
+3161641000033114,perindopril erbumine 4mg / indapamide 1.25mg tablets
+3161741000033117,losartan 50mg / hydrochlorothiazide 12.5mg tablets
+3162241000033117,enalapril 20mg / hydrochlorothiazide 12.5mg tablets
+3162641000033119,telmisartan 40mg / hydrochlorothiazide 12.5mg tablets
+3162741000033111,telmisartan 80mg / hydrochlorothiazide 12.5mg tablets
+3163141000033117,pindolol 10mg / clopamide 5mg tablets
+3163241000033112,felodipine 5mg modified-release / ramipril 5mg tablets
+3163341000033119,felodipine 2.5mg modified-release / ramipril 2.5mg tablets
+3190741000033112,valsartan 80mg / hydrochlorothiazide 12.5mg tablets
+3190841000033119,co-diovan 80mg/12.5mg tablets
+3201341000033115,valsartan 40mg tablets
+3201441000033114,diovan 40mg tablets
+3246941000033118,atenolol 50mg / nifedipine 20mg modified-release capsules
+3279541000033115,lisicostad 10mg/12.5mg tablets
+3279641000033119,lisicostad 20mg/12.5mg tablets
+3346641000033118,timolol 10mg / bendroflumethiazide 2.5mg tablets
+3908941000033112,olmesartan medoxomil 20mg / hydrochlorothiazide 12.5mg tablets
+3909041000033115,olmesartan medoxomil 20mg / hydrochlorothiazide 25mg tablets
+3909141000033116,olmetec plus 20mg/12.5mg tablets
+3909241000033111,olmetec plus 20mg/25mg tablets
+4453941000033114,perindopril arginine 2.5mg tablets
+4454041000033111,perindopril arginine 5mg tablets
+4454141000033110,perindopril arginine 10mg tablets
+4454241000033115,coversyl arginine 2.5mg tablets
+4454341000033113,coversyl arginine 5mg tablets
+4454441000033119,coversyl arginine 10mg tablets
+4454541000033118,perindopril arginine 5mg / indapamide 1.25mg tablets
+4454641000033117,coversyl arginine plus 5mg/1.25mg tablets
+5005841000033114,olmesartan medoxomil 20mg / amlodipine 5mg tablets
+5005941000033118,olmesartan medoxomil 40mg / amlodipine 5mg tablets
+5006041000033111,olmesartan medoxomil 40mg / amlodipine 10mg tablets
+5006141000033110,sevikar 20mg/5mg tablets
+5006241000033115,sevikar 40mg/5mg tablets
+5006341000033113,sevikar 40mg/10mg tablets
+5149941000033118,losartan 2.5mg/ml oral suspension sugar free
+5150041000033110,cozaar 2.5mg/ml oral suspension
+5655241000033110,brevibloc premixed 100mg/10ml solution for injection vials
+6180641000033112,sevikar hct 20mg/5mg/12.5mg tablets
+6180741000033115,sevikar hct 40mg/5mg/12.5mg tablets
+6180841000033113,sevikar hct 40mg/10mg/12.5mg tablets
+6180941000033117,sevikar hct 40mg/5mg/25mg tablets
+6181041000033110,sevikar hct 40mg/10mg/25mg tablets
+7754841000033119,azilsartan medoxomil 20mg tablets
+7754941000033110,azilsartan medoxomil 40mg tablets
+7755041000033110,azilsartan medoxomil 80mg tablets
+7755141000033114,edarbi 20mg tablets
+7755241000033119,edarbi 40mg tablets
+7755341000033112,edarbi 80mg tablets
+8264941000033119,triapin 2.5mg/2.5mg modified-release tablets
+8961241000033112,noyada 5mg/5ml oral solution
+8961341000033119,noyada 25mg/5ml oral solution
+9108041000033111,captopril 25mg/5ml oral solution sugar free
+9108141000033110,captopril 5mg/5ml oral solution sugar free
+10943641000033117,sacubitril 24mg / valsartan 26mg tablets
+10943741000033114,sacubitril 49mg / valsartan 51mg tablets
+10943841000033116,sacubitril 97mg / valsartan 103mg tablets
+10943941000033112,entresto 24mg/26mg tablets
+10944041000033114,entresto 49mg/51mg tablets
+10944141000033113,entresto 97mg/103mg tablets

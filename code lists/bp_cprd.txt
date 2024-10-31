@@ -1,0 +1,42 @@
+medcodeid,term
+114311000006111,systolic arterial pressure
+11903371000006115,o/e - systolic bp reading
+11924381000006114,o/e - diastolic bp reading
+125231000006119,standing diastolic bp
+125251000006114,standing systolic bp
+1780182014,standing systolic blood pressure
+1780183016,standing diastolic blood pressure
+1808011000006111,systolic blood pressure - left arm
+1808021000006115,diastolic blood pressure - left arm
+1808041000006110,systolic blood pressure - right arm
+1808051000006112,diastolic blood pressure - right arm
+1993951000006110,home diastolic blood pressure
+1994021000006115,home systolic blood pressure
+2159155011,sitting systolic blood pressure
+2159156012,sitting diastolic blood pressure
+2159157015,lying systolic blood pressure
+2159158013,lying diastolic blood pressure
+2418921000000115,baseline diastolic blood pressure
+2418961000000111,baseline systolic blood pressure
+2533615017,average home systolic blood pressure
+2533636015,average home diastolic blood pressure
+2616361000000114,non-invasive central systolic blood pressure
+2616401000000117,non-invasive central diastolic blood pressure
+298281000000114,ambulatory systolic blood pressure
+298311000000112,ambulatory diastolic blood pressure
+3676271000006117,systolic blood pressure
+458803012,average systolic blood pressure
+458808015,average night interval systolic blood pressure
+458809011,average day interval systolic blood pressure
+458812014,average 24 hour systolic blood pressure
+458816012,average diastolic blood pressure
+458823013,average night interval diastolic blood pressure
+458824019,average day interval diastolic blood pressure
+458825018,average 24 hour diastolic blood pressure
+4660711000006111,non-invasive diastolic arterial pressure
+5295021000006119,non-invasive systolic arterial pressure
+5527191000006114,systolic blood pressure
+5527211000006110,diastolic blood pressure
+6046311000006118,24 hour systolic blood pressure
+6046321000006114,24 hour diastolic blood pressure
+619931000006119,diastolic arterial pressure

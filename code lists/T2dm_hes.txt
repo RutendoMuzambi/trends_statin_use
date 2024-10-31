@@ -1,0 +1,14 @@
+icd10,description
+ICD,icd_description
+E11,non-insulin-dependent diabetes mellitus
+E11.0,non-insulin-dependent diabetes mellitus with coma
+E11.1,non-insulin-dependent diabetes mellitus with ketoacidosis
+E11.2,non-insulin-dependent diabetes mellitus with renal comps
+E11.3,non-insulin-dependent diabetes mellitus with ophthalm comps
+E11.4,non-insulin-dependent diabetes mellitus with neuro comps
+E11.5,non-insulin-depend diabetes mellitus with periph circ comp
+E11.6,non-insulin-depend diabetes mellitus with other spec comp
+E11.7,non-insulin-dependent diabetes mellitus with multiple comps
+E11.8,non-insulin-dependent diabetes mellitus with unspec comps
+E11.9,non-insulin-depend diabetes mellitus without complication
+O24.1,"pre-existing diabetes mellitus, non-insulin-dependent"

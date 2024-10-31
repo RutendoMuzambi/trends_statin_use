@@ -1,0 +1,20 @@
+icd10,description
+I10,essential (primary) hypertension
+I11,hypertensive heart disease
+I11.0,hypertensive heart disease with (congestive) heart failure
+I11.9,hypertensive heart disease without (congestive) heart failure
+I12,hypertensive renal disease
+I12.0,hypertensive renal disease with renal failure
+I12.9,hypertensive renal disease without renal failure
+I13,hypertensive heart and renal disease
+I13.0,hypertensive heart and renal disease with (congestive) heart failure
+I13.1,hypertensive heart and renal disease with renal failure
+I13.2,hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+I13.9,"hypertensive heart and renal disease, unspecified"
+I15,secondary hypertension
+I15.0,renovascular hypertension
+I15.1,hypertension secondary to other renal disorders
+I15.2,hypertension secondary to endocrine disorders
+I15.8,other secondary hypertension
+I15.9,"secondary hypertension, unspecified"
+I67.4,hypertensive encephalopathy

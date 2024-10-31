@@ -1,0 +1,8 @@
+icd10,description
+G45.0,vertebro-basilar artery syndrome
+G45.1,varotid artery syndrome (hemispheric)
+G45.2,multiple and bilateral precerebral artery syndromes
+G45.3,amaurosis fugax
+G45.4,transient global amnesia
+G45.8,other transient cerebral ischemic attacks and related syndromes
+G45.9,"transient cerebral ischemic attack, unspecified"

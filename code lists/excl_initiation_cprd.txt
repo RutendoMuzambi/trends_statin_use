@@ -1,0 +1,1825 @@
+medcodeid,term
+106291000006118,thomas intravascular shunt for dialysis
+114310015,Lupus nephritis
+117168016,renal transplant
+118218017,peritoneal dialysis
+11924551000006114,end-stage renal disease
+11930831000006111,infection of hemodialysis arteriovenous fistula
+1227722017,[v]aftercare involving renal dialysis nos
+12456601000006116,[v]aftercare involving extracorporeal dialysis
+12456611000006118,[v]aftercare involving intermittent dialysis
+12456631000006112,[v]aftercare involving renal dialysis nos
+12704471000006116,end-stage renal disease
+127091000006118,steroid sensitive nephrotic syndrome
+1549841000006116,"allotransplantation kidney from cadaver, heart non-beating"
+1550021000006110,os interventions associated with transplantation of kidney
+165061000006114,rpd prog neph syn df mesangial prolifratv glomerulonephritis
+1705621000000113,flushing of peritoneal dialysis catheter
+1726511000006111,acute-on-chronic renal failure
+176711000006111,"renal dialysis with complication, without blame"
+177251000006119,"renal transplant with complication, without blame"
+177341000006111,renal tubulo-interstitial disordrs in transplant rejectn
+181021000006119,removal of ambulatory peritoneal dialysis catheter
+1847091000006110,aneurysm of superficialised artery of dialysis av fistula
+1847111000006118,aneurysm of anastomotic site of dialysis av fistula
+1847541000006113,wilms' tumour + nephrotic syndrome + pseudohermaphroditism
+1848741000006116,disorders associated with peritoneal dialysis
+1870801000006111,infection of dialysis arteriovenous fistula
+1905531000006112,excision of rejected transplanted kidney
+191841000006118,rapid prog neph syn df mesangiocapillary glomerulonephritis
+191851000006116,rapid progres neph syn df endocapilary prolifv glomnephritis
+191861000006119,rapid progres neph syn diffuse membranous glomerulonephritis
+191881000006112,rapid progres nephritic syn df crescentic glomerulonephritis
+191891000006110,rapid progres nephritic syn focal+segmental glomerulr lesion
+191901000006114,"rapid progressive nephritic syndrome, dense deposit disease"
+1927751000006113,disorder associated with dialysis
+1940501000006119,ckd with gfr category g4 & albuminuria category a1
+1940511000006116,ckd with gfr category g4 & albuminuria category a2
+1940521000006112,ckd with gfr category g4 & albuminuria category a3
+1940531000006110,ckd with gfr category g5 & albuminuria category a1
+1940541000006117,ckd with gfr category g5 & albuminuria category a2
+1940551000006115,ckd with gfr category g5 & albuminuria category a3
+1940561000006118,ckd with gfr category g1 & albuminuria category a1
+1940571000006113,ckd with gfr category g1 & albuminuria category a2
+1940581000006111,ckd with gfr category g1 & albuminuria category a3
+1940591000006114,ckd with gfr category g2 & albuminuria category a1
+1940601000006118,ckd with gfr category g2 & albuminuria category a2
+1940611000006115,ckd with gfr category g2 & albuminuria category a3
+1940621000006111,ckd with gfr category g3a & albuminuria category a1
+1940631000006114,ckd with gfr category g3a & albuminuria category a2
+1940641000006116,ckd with gfr category g3a & albuminuria category a3
+1940651000006119,ckd with gfr category g3b & albuminuria category a1
+1940661000006117,ckd with gfr category g3b & albuminuria category a2
+1940671000006112,ckd with gfr category g3b & albuminuria category a3
+207941012,acquired arteriovenous fistula
+215521000000116,end stage renal failure
+2189151000000117,urological complication of renal transplant
+2191221000000118,vascular complication of renal transplant
+2195121000000113,ruptured aneurysm of dialysis vascular access
+2195661000000114,aneurysm of dialysis arteriovenous fistula
+2195721000000112,aneurysm of needle site of dialysis arteriovenous fistula
+2197961000000113,rupture of artery of transplanted kidney
+2198001000000111,rupture of vein of transplanted kidney
+2198141000000110,stenosis of vein of transplanted kidney
+2209021000000112,aneurysm of vein of transplanted kidney
+2209101000000119,aneurysm of artery of transplanted kidney
+2210341000000113,stenosis of dialysis vascular access
+2210381000000117,thrombosis of dialysis vascular access
+2211311000000117,haemodialysis first use syndrome
+2211591000000116,thrombus in peritoneal dialysis catheter
+2211671000000119,anaphylactoid reaction due to haemodialysis
+2234541000000115,thrombosis of artery of transplanted kidney
+2234621000000111,thrombosis of vein of transplanted kidney
+2237821000000118,occlusion of dialysis vascular access
+2237861000000114,infection of dialysis vascular access
+2237901000000119,haemorrhage of dialysis vascular access
+2237981000000112,stenosis of dialysis arteriovenous graft
+2238301000000119,thrombosis of dialysis arteriovenous fistula
+2238381000000112,occlusion of dialysis arteriovenous graft
+2238421000000115,occlusion of dialysis arteriovenous fistula
+2240321000000114,infection of dialysis arteriovenous graft
+2240871000000116,haemorrhage of dialysis arteriovenous fistula
+2240951000000115,rupture of dialysis arteriovenous graft
+228101000006113,placement ambulatory apparatus compensation renal failure
+228111000006111,placement ambulatory apparatus- compensate renal failure nos
+228121000006115,placement ambulatory apparatus- compensate renal failure os
+228131000006117,placement ambulatory dialysis apparatus - compens renal fail
+228211000006117,placement other apparatus for compensation for renal failure
+228221000006113,placement other apparatus- compensate for renal failure nos
+228231000006111,placement other apparatus- compensate for renal failure os
+251923016,h/o: kidney recipient
+2528541000006114,bilateral total nephrectomy
+2674486017,extracorporeal albumin haemodialysis
+2675886019,creation of graft fistula for dialysis
+2692168016,automated peritoneal dialysis
+272134015,insertion of arteriovenous prosthesis
+272139013,attention to arteriovenous shunt
+272140010,removal of infected arteriovenous shunt
+272141014,other specified arteriovenous shunt
+272142019,arteriovenous shunt nos
+272153013,ligation of acquired arteriovenous fistula
+272320011,allotransplantation of kidney from live donor
+272325018,cadaveric renal transplant
+272326017,other specified transplantation of kidney
+272327014,transplantation of kidney nos
+272389014,exploration of renal transplant
+2767154014,chronic kidney disease stage 5
+2767385013,chronic kidney disease stage 4
+2773184015,chronic kidney disease stage 3
+278832011,haemodialysis nec
+278834012,other specified compensation for renal failure
+278835013,compensation for renal failure nos
+278844014,insertion of temporary peritoneal dialysis catheter
+284213011,renal transplant planned
+2948281000006112,arteriovenous fistulisation
+2948291000006110,arteriovenous fistulization
+2948311000006114,creation of surgical arteriovenous fistula
+2948321000006118,construction of arteriovenous fistula
+2948331000006115,av - creation of arteriovenous fistula
+299665018,hypertensive renal disease with renal failure
+299673010,hypertensive heart and renal disease with renal failure
+303825013,nephrotic syndrome with proliferative glomerulonephritis
+303826014,nephrotic syndrome with membranous glomerulonephritis
+303832016,"nephrotic syndrome, minor glomerular abnormality"
+303833014,"nephrotic syndrome, focal and segmental glomerular lesions"
+303834015,"nephrotic syndrome, diffuse membranous glomerulonephritis"
+303838017,"nephrotic syndrome, dense deposit disease"
+303839013,"nephrotic syndrome, diffuse crescentic glomerulonephritis"
+303842019,congenital finnish nephrosis
+303843012,congenital nephrotic syndrome nos
+303844018,nephrotic syndrome in diseases ec
+303845017,nephrotic syndrome in amyloidosis
+303846016,nephrotic syndrome in diabetes mellitus
+303848015,nephrotic syndrome in malaria
+303849011,nephrotic syndrome in polyarteritis nodosa
+303853013,nephrotic syndrome in diseases ec nos
+303854019,nephrotic syndrome with other pathological kidney lesions
+303855018,nephrotic syndrome nos
+303863017,chronic rapidly progressive glomerulonephritis
+303894017,rapidly progressive nephritis unspecified
+303977015,rapidly progressive nephritic syndrome
+304071000000115,chronic kidney disease stage 3
+304091000000116,chronic kidney disease stage 4
+304111000000114,chronic kidney disease stage 5
+305162014,"[x]rapidly progressive nephritic syndrome, other"
+305192017,[x]other chronic renal failure
+3222311000006119,minimal change disease
+3222321000006110,nil disease
+3222341000006115,lipid nephrosis
+3222351000006118,mcd - minimal change disease
+3222361000006116,mcgn - minimal change glomerulonephritis
+3222371000006111,minimal change nephrotic syndrome
+3222381000006114,idiopathic nephrotic syndrome
+3222391000006112,minimal change nephropathy
+3222401000006114,light negative glomerulonephritis
+3222411000006112,minimal change glomerulonephritis
+3222421000006116,mcns - minimal change nephrotic syndrome
+3222431000006118,mcn - minimal change nephropathy
+3245841000006115,end stage kidney disease
+3245851000006118,esrf - end stage renal failure
+3245861000006116,escrf - end stage chronic renal failure
+3245871000006111,esrd - end stage renal disease
+3245881000006114,end stage chronic renal failure
+3246221000006116,surgical construction of arteriovenous shunt
+3246231000006118,formation of arteriovenous shunt
+3246241000006111,arteriovenous shunt
+3246251000006113,arteriovenostomy
+3246261000006110,creation of arteriovenous shunt
+3246271000006115,av - creation of arteriovenous shunt
+3246281000006117,construction of arteriovenous shunt
+324973015,kidney transplant failure and rejection
+3289691000006118,familial nephrotic syndrome
+329115018,failure of sterile precautions during perfusion
+329116017,failure of sterile precautions during kidney dialysis
+329117014,failure of sterile precautions during other perfusion
+329118016,failure of sterile precautions during perfusion nos
+3296351000006114,hypertensive renal failure
+3304611000006115,anemia of chronic renal failure
+3304621000006111,anemia of chronic renal insufficiency
+3304631000006114,anaemia of chronic renal insufficiency
+3319141000006113,goodpasture syndrome
+3347091000006118,ns - nephrotic syndrome
+349825015,creation of brachial-cephalic fistula
+349856011,banding of arteriovenous fistula
+349998013,haemofiltration
+353974015,xenograft renal transplant
+354340015,congenital nephrotic syndrome with focal glomerulosclerosis
+354341016,nephrotic syndrome with pseudohermaphroditism
+354343018,drash syndrome
+354352010,rapidly progressive glomerulonephritis
+354417015,acute-on-chronic renal failure
+354520014,goodpasture's disease
+354610013,renal transplant rejection
+354612017,accelerated rejection of renal transplant
+354613010,very mild acute rejection of renal transplant
+354614016,borderline changes of acute rejection
+354615015,acute rejection of renal transplant
+354616019,acute rejection of renal transplant - grade i
+354617011,acute rejection of renal transplant - grade ii
+354618018,acute rejection of renal transplant - grade iii
+354619014,chronic rejection of renal transplant
+354621016,chronic transplant nephropathy
+354623018,chronic rejection of renal transplant - grade 1
+354624012,chronic rejection of renal transplant - grade ii
+354627017,chronic rejection of renal transplant - grade iii
+354628010,acute-on-chronic rejection of renal transplant
+357219012,continuous ambulatory peritoneal dialysis
+360031000000113,thrombectomy of arteriovenous fistula
+3619221000006118,sle glomerulonephritis syndrome
+3619241000006113,Systemic lupus erythematosus glomerulonephritis syndrome
+3647021000006114,transplant of kidney
+3647031000006112,kidney transplantation
+3647051000006117,tx - renal transplantation
+3647061000006115,kidney transplant
+3647071000006110,tx - kidney transplantation
+3647091000006111,renal graft
+3657891000006116,pd - peritoneal dialysis
+366671000000118,interventions associated with transplantation of kidney
+372621000000114,"allotransplantation of kidney from cadaver, heart-beating"
+375841000000114,peritoneal dialysis nec
+380061000000118,interventions associated with transplantation of kidney nos
+380101000000116,"post-transplantation of kidney examination, recipient"
+384641000006114,[x]failure sterile precautions dur kidney dialys/other perf
+384823013,arteriovenous shunt
+386181000000111,"pre-transplantation of kidney work-up, recipient"
+387351000000117,"post-transplantation of kidney examination, live donor"
+387911000000115,"pre-transplantation of kidney work-up, live donor"
+394350012,creation of arteriovenous fistula nec
+394352016,repair of acquired arteriovenous fistula
+394365013,transplant nephrectomy
+394639018,compensation for renal failure
+394640016,renal dialysis
+394661000006112,[x]kidny dialysis caus abn reac pt/lat comp no misad at time
+396706011,nephrotic syndrome with minimal change glomerulonephritis
+3973811000006118,chronic renal failure syndrome
+3973841000006119,crf - chronic renal failure
+399381000000115,allotransplantation of kidney from cadaver nec
+413415016,unexplained episode of renal transplant dysfunction
+4152501000006114,dialysis procedure
+4223014,bilateral nephrectomy
+422992018,excision of rejected transplanted kidney
+424791000006110,[x]renal tubulo-interstitial disorders/transplant rejection
+441151000006115,"accid cut,puncture,perf,h'ge - kidney dialysis"
+441161000006118,"accid cut,puncture,perf,h'ge - kidney dialysis/oth perfusion"
+441211000006110,"accid cut,puncture,perf,h'ge - perfusion nos"
+446291000006111,accidental cut/puncture/perf/haem'ge during renal dialysis
+4542501000006119,history of renal transplant
+4542521000006112,history of - kidney recipient
+454255014,anaemia secondary to renal failure
+458521000006111,acute nephrotic syndrm diffuse crescentic glomerulonephritis
+460644012,[v]kidney transplanted
+460680012,[v]renal dialysis status
+460910019,[v]aftercare involving intermittent dialysis
+460911015,[v]aftercare involving extracorporeal dialysis
+461420012,[x]other dialysis
+4668951000006113,autotransplantation of kidney
+4668961000006110,autotransplant kidney
+4668971000006115,renal autotransplantation
+4668981000006117,renal autotransplantation or reimplantation of kidney
+4669011000006116,live donor renal allotransplant
+4669031000006110,live donor renal allograft
+4669051000006115,cadaver renal allotransplant
+4669061000006118,cadaver renal allograft
+4669451000006113,exploration of kidney transplant
+4694051000006116,removal of chronic ambulatory peritoneal dialysis catheter
+478131000006115,allotransplantation of kidney from cadaver
+4788371000006112,cnf - finnish congenital nephrotic syndrome
+4788421000006117,nephrotic syndrome due to diabetes mellitus
+4788461000006111,malarial nephrosis
+480871000006117,anaemia secondary to chronic renal failure
+4898631000006119,"accidental cut, puncture, perforation or hemorrhage during kidney dialysis"
+500371000006119,autotransplant of kidney
+501594013,transplantation of kidney
+5051121000006115,creation of cimino fistula
+5051131000006117,creation of brescia-cimino fistula
+5051151000006112,creation brachiocephalic fistula
+5052891000006116,hf - hemofiltration
+5052901000006117,hf - haemofiltration
+5052911000006119,hemofiltration
+5052921000006110,haemofiltration therapy
+5052931000006113,hemofiltration therapy
+509111010,chronic renal failure
+5093331000006111,steroid-responsive nephrotic syndrome
+5093341000006118,ssns - steroid-sensitive nephrotic syndrome
+5093451000006111,wilms' tumor and nephrotic syndrome with pseudohermaphroditism
+5093471000006118,rpgn - rapidly progressive glomerulonephritis
+5094141000006118,acute on chronic renal failure
+5095191000006114,goodpasture disease
+5095591000006119,first use syndrome of dialysis
+5096141000006114,chronic allograft nephropathy
+5120141000006114,flushing of chronic ambulatory peritoneal dialysis catheter
+5120171000006118,capd - continuous ambulatory peritoneal dialysis
+5307111000006113,dialysis observation
+5486891000006118,removal of transplanted kidney
+5488801000006112,kidney dialysis
+5488811000006110,artificial kidney dialysis
+5524381000006119,chronic ambulatory peritoneal dialysis catheter procedure
+557811000000119,chronic kidney disease stage 3a
+557831000000110,chronic kidney disease stage 3b
+5616371000006112,av - procedure related to surgical arteriovenous connection
+5686451000006112,removal of rejected kidney
+5907531000006119,hemodialysis procedure
+5907541000006112,hd - hemodialysis
+5907551000006114,hd - haemodialysis
+5907561000006111,haemodialysis procedure
+5907571000006116,extracorporeal hemodialysis
+5907581000006118,extracorporeal haemodialysis
+5907591000006115,hemodialysis
+595811000000117,chronic kidney disease stage 3 with proteinuria
+595871000000110,chronic kidney disease stage 3 without proteinuria
+595931000000116,chronic kidney disease stage 3a with proteinuria
+595991000000115,chronic kidney disease stage 3a without proteinuria
+596051000000115,chronic kidney disease stage 3b with proteinuria
+596131000000114,chronic kidney disease stage 3b without proteinuria
+596191000000110,chronic kidney disease stage 4 with proteinuria
+596261000000111,chronic kidney disease stage 4 without proteinuria
+596321000000110,chronic kidney disease stage 5 with proteinuria
+596401000000111,chronic kidney disease stage 5 without proteinuria
+6002501000006116,anemia secondary to renal failure
+600481000006118,creation of radial-cephalic fistula
+615611000006116,det.ren.func.after ren.transpl
+618431000000114,ckd stage 3 with proteinuria
+618441000000117,ckd stage 3 without proteinuria
+618451000000119,ckd stage 3a with proteinuria
+618461000000116,ckd stage 3a without proteinuria
+618471000000111,ckd stage 3b with proteinuria
+618481000000113,ckd stage 3b without proteinuria
+618491000000110,ckd stage 4 with proteinuria
+618501000000116,ckd stage 4 without proteinuria
+618511000000119,ckd stage 5 with proteinuria
+618521000000113,ckd stage 5 without proteinuria
+619541000006116,dialysis for renal failure
+637771000000113,ligation of arteriovenous dialysis fistula
+638111000000115,ligation of arteriovenous dialysis graft
+641471000006117,end stage renal failure
+641491000006116,end-stage renal disease
+663551000006118,failure of sterile precautions during renal dialysis
+677461000006115,nephrotic syn difus mesangial prolifertiv glomerulonephritis
+677471000006110,"nephrotic syn,diffuse mesangiocapillary glomerulonephritis"
+677481000006113,"nephrotic syn,difus endocapilary proliftv glomerulonephritis"
+677561000006119,Nephrotic syndrome in systemic lupus erythematosus
+677621000006112,nephrotic syndrome+membranoproliferative glomerulonephritis
+703481000006116,microcystic type congenital nephrotic syndrome
+7068291000006112,extracorporeal albumin hemodialysis
+7081801000006114,removal of thrombus of arteriovenous fistula
+7091541000006113,post-transplantation of kidney examination of recipient
+710221000006113,finnish nephrosis syndrome
+7118431000006118,infection of arteriovenous graft for haemodialysis
+7118441000006111,infection of arteriovenous graft for hemodialysis
+7118451000006113,infection of dialysis graft
+713611000006110,mechanical failure of apparatus during kidney dialysis
+713671000006118,mechanical failure of apparatus during renal dialysis
+7147781000006115,ckd stage 4
+7174791000006111,ckd stage 3
+7174851000006111,ckd stage 5
+7367691000006114,infection of haemodialysis arteriovenous fistula
+7367701000006114,infection of arteriovenous fistula for hemodialysis
+7367721000006116,infection of hd av fistula
+7367731000006118,infection of hd arteriovenous fistula
+7367741000006111,infection of arteriovenous fistula for haemodialysis
+743721000006115,ligation of acquired arteriovenous fistula
+74720014,lipoid nephrosis
+754061000006111,"kidney transplant with complication, without blame"
+754781000006116,"kidney dialysis with complication, without blame"
+7688001000006116,allotransplantation of kidney with dbd (donation after brain stem death)
+7688041000006119,allotransplantation of kidney with dcd (donation after cardiac death)
+7688541000006114,transplantation of kidney regime
+773041000006111,insertion of ambulatory peritoneal dialysis catheter
+789941000006117,hyperten heart&renal dis+both(congestv)heart and renal fail
+8104101000006118,ckd (chronic kidney disease stage) 1 with proteinuria
+8104231000006115,ckd (chronic kidney disease) stage 3 with proteinuria
+8104261000006112,ckd (chronic kidney disease) stage 3 without proteinuria
+8104301000006115,ckd (chronic kidney disease) stage 3a with proteinuria
+8104351000006116,ckd (chronic kidney disease) stage 3a without proteinuria
+8104381000006112,ckd (chronic kidney disease) stage 3b with proteinuria
+8104411000006110,ckd (chronic kidney disease) stage 3b without proteinuria
+8104451000006111,ckd (chronic kidney disease) stage 4 with proteinuria
+8104481000006115,ckd (chronic kidney disease) stage 4 without proteinuria
+8104511000006111,ckd (chronic kidney disease) stage 5 with proteinuria
+8104551000006112,ckd (chronic kidney disease) stage 5 without proteinuria
+81307015,congenital nephrotic syndrome
+8345541000006113,chronic kidney disease with glomerular filtration rate category g1 and albuminuria category a1
+8345571000006117,chronic kidney disease with glomerular filtration rate category g1 and albuminuria category a2
+8345611000006110,chronic kidney disease with glomerular filtration rate category g1 and albuminuria category a3
+8345651000006111,chronic kidney disease with glomerular filtration rate category g2 and albuminuria category a1
+8345681000006115,chronic kidney disease with glomerular filtration rate category g2 and albuminuria category a2
+8345731000006113,chronic kidney disease with glomerular filtration rate category g2 and albuminuria category a3
+8345881000006116,chronic kidney disease with glomerular filtration rate category g3a and albuminuria category a1
+8345901000006119,chronic kidney disease with glomerular filtration rate category g3a and albuminuria category a2
+8345931000006110,chronic kidney disease with glomerular filtration rate category g3a and albuminuria category a3
+8346001000006110,chronic kidney disease with glomerular filtration rate category g3b and albuminuria category a1
+8346021000006117,chronic kidney disease with glomerular filtration rate category g3b and albuminuria category a2
+8346041000006112,chronic kidney disease with glomerular filtration rate category g3b and albuminuria category a3
+8346101000006114,chronic kidney disease with glomerular filtration rate category g4 and albuminuria category a1
+8346121000006116,chronic kidney disease with glomerular filtration rate category g4 and albuminuria category a2
+8346151000006113,chronic kidney disease with glomerular filtration rate category g4 and albuminuria category a3
+8346171000006115,chronic kidney disease with glomerular filtration rate category g5 and albuminuria category a1
+8346201000006116,chronic kidney disease with glomerular filtration rate category g5 and albuminuria category a2
+8346221000006114,chronic kidney disease with glomerular filtration rate category g5 and albuminuria category a3
+84262013,goodpasture's syndrome
+866731000006115,kidney replacement nos
+866751000006110,kidney replacement
+86957016,nephrotic syndrome
+877641000006113,extracorporeal kidney
+900121000006113,renal transplant rejected
+90461000006118,transplantation of kidney from cadaver
+90471000006113,transplantation of kidney from live donor
+906351000006116,[rfc] renal transplant
+988961000006115,renal transplant rejected
+994421000006111,chronic kidney disease stage 3
+994431000006114,chronic kidney disease stage 4
+994441000006116,chronic kidney disease stage 5
+302011,diabetic peripheral angiopathy
+4031011,old myocardial infarction
+4032016,healed myocardial infarction
+7844010,preinfarction syndrome
+7845011,unstable angina
+7847015,crescendo angina
+22740018,aneurysm of iliac artery
+32122016,status anginosus
+37443015,heart attack
+58046010,vertebral artery syndrome
+59952018,nocturnal angina
+80421013,aneurysm of popliteal artery
+87208017,thromboangiitis obliterans
+87210015,buerger's disease
+94884017,acute myocardial infarction
+98087016,angina decubitus
+105536013,intermittent claudication
+106392017,basilar artery syndrome
+106394016,vertebrobasilar insufficiency
+109915012,post-myocardial infarction syndrome
+116992017,acute subendocardial infarction
+118689010,cerebral thrombosis
+125470015,cerebral embolism
+133518010,gas gangrene
+144819018,variant angina pectoris
+151487012,aneurysm of femoral artery
+158118014,cerebellar infarction
+208365015,postoperative myocardial infarction
+216185010,peripheral vascular disease monitoring
+251679016,h/o: angina pectoris
+256133012,o/e - gangrene
+256452010,ecg: myocardial infarction
+256454011,ecg: old myocardial infarction
+256455012,ecg: antero-septal infarct.
+256457016,ecg:posterior/inferior infarct
+256459018,ecg: lateral infarction
+256460011,ecg: myocardial infarct nos
+264492012,angina control
+264493019,angina control - good
+264494013,angina control - poor
+264495014,angina control - improving
+264496010,angina control - worsening
+264497018,angina control nos
+264499015,stroke monitoring
+264500012,chd monitoring
+271431019,other bypass of bifurcation of aorta
+271444012,other specified other bypass of bifurcation of aorta
+271445013,other bypass of bifurcation of aorta nos
+271842015,other specified replacement of aneurysmal iliac artery
+271843013,replacement of aneurysmal iliac artery nos
+271865013,emergency bypass of iliac artery by unspecified anastomosis
+271867017,other specified other bypass of iliac artery
+271868010,other bypass of iliac artery nos
+271880019,other specified reconstruction of iliac artery
+271881015,reconstruction of iliac artery nos
+271891014,operation on aneurysm of iliac artery nec
+271895017,other specified other open operation on iliac artery
+271896016,other open operation on iliac artery nos
+271900018,percutaneous transluminal angioplasty of iliac artery
+271901019,percutaneous transluminal embolectomy of iliac artery
+271905011,insertion of iliac artery stent
+271907015,other specified transluminal operation on iliac artery
+271908013,transluminal operation on iliac artery nos
+272003016,other bypass of femoral artery or popliteal artery nos
+272014018,endarterectomy of popliteal artery
+272017013,profundoplasty of femoral artery nec
+272018015,profundoplasty of popliteal artery nec
+272019011,reconstruction of femoral artery with vein graft
+272020017,reconstruction of popliteal artery with vein graft
+272022013,reconstruction of femoral or popliteal artery nos
+272029016,repair of femoral artery nec
+272030014,repair of popliteal artery
+272031013,open embolectomy of femoral artery
+272032018,open thrombectomy of femoral artery
+272034017,open thrombectomy of popliteal artery
+272035016,open embolectomy popliteal artery
+272036015,ligation of aneurysm of popliteal artery
+272037012,operation on aneurysm of femoral artery nec
+272038019,operation on popliteal artery nec
+272041011,repair of femoral artery with temporary silastic shunt
+272042016,repair of popliteal artery with temporary silastic shunt
+272052017,percutaneous transluminal angioplasty of femoral artery
+272055015,percutaneous transluminal embolectomy of femoral artery
+272056019,percutaneous transluminal embolectomy of popliteal artery
+272059014,percutaneous transluminal embolisation of femoral artery
+272061017,percutaneous transluminal embolisation of popliteal artery
+272066010,arteriography of popliteal artery
+272071015,other specified operations on iliac and femoral artery
+272076013,revision of reconstruction involving iliac artery
+272077016,revision of reconstruction involving femoral artery
+272078014,revision of reconstruction of popliteal artery
+279423010,deep circumflex iliac artery flap
+286566010,gas gangrene-hand
+286569015,gas gangrene-leg
+286570019,gas gangrene-foot
+292523015,diabetes mellitus nos with peripheral circulatory disorder
+292541011,type 1 diabetes mellitus with gangrene
+292543014,type i diabetes mellitus with gangrene
+292582011,type ii diabetes mellitus with gangrene
+292583018,type 2 diabetes mellitus with gangrene
+299707016,acute anterior myocardial infarction
+299709018,anterior myocardial infarction nos
+299710011,acute posterior myocardial infarction
+299711010,acute lateral myocardial infarction
+299712015,true posterior myocardial infarction
+299714019,acute myocardial infarction of inferior wall
+299718016,other acute myocardial infarction
+299720018,other acute myocardial infarction nos
+299721019,acute myocardial infarction nos
+299723016,other acute and subacute ischaemic heart disease
+299741012,preinfarction syndrome
+299745015,acute coronary insufficiency
+299750014,other acute and subacute ischaemic heart disease nos
+299757012,angina pectoris
+299763015,angina decubitus nos
+299765010,angina pectoris nos
+299776014,chronic ischaemic heart disease
+299800012,other specified chronic ischaemic heart disease
+299804015,other specified chronic ischaemic heart disease nos
+299805019,other chronic ischaemic heart disease nos
+299808017,subsequent myocardial infarction
+299811016,subsequent myocardial infarction of anterior wall
+299812011,subsequent myocardial infarction of inferior wall
+299813018,subsequent myocardial infarction of other sites
+299834013,other specified ischaemic heart disease
+299835014,ischaemic heart disease nos
+300277011,"intracerebral haemorrhage, intraventricular"
+300287010,intracerebral haemorrhage nos
+300303013,basilar artery occlusion
+300309012,vertebral artery occlusion
+300310019,multiple and bilateral precerebral arterial occlusion
+300312010,cerebral infarct due to thrombosis of precerebral arteries
+300313017,cerebral infarction due to embolism of precerebral arteries
+300321011,cerebral infarction due to thrombosis of cerebral arteries
+300322016,cerebral infarction due to embolism of cerebral arteries
+300345010,multiple and bilateral precerebral artery syndromes
+300362017,middle cerebral artery syndrome
+300363010,anterior cerebral artery syndrome
+300364016,posterior cerebral artery syndrome
+300366019,cerebellar stroke syndrome
+300370010,left sided cva
+300371014,right sided cva
+300380014,acute cerebrovascular insufficiency
+300395011,occlusion and stenosis of middle cerebral artery
+300396012,occlusion and stenosis of anterior cerebral artery
+300398013,occlusion and stenosis of posterior cerebral artery
+300407010,sequelae of intracerebral haemorrhage
+300411016,sequelae of cerebral infarction
+300433019,extremity artery atheroma
+300434013,extremity artery atheroma nos
+300460014,aneurysm of common iliac artery
+300463011,aneurysm of external iliac artery
+300464017,aneurysm of internal iliac artery
+300466015,aneurysm of iliac artery nos
+300503012,thromboangiitis obliterans nos
+300504018,peripheral gangrene
+300505017,gangrene of toe
+300506016,gangrene of foot
+300509011,gangrene of hand
+300510018,other specified peripheral vascular disease
+300511019,peripheral angiopathic disease ec nos
+300514010,other specified peripheral vascular disease nos
+300515011,peripheral vascular disease nos
+300539018,embolism and thrombosis of the femoral artery
+300540016,embolism and thrombosis of the popliteal artery
+300550015,peripheral arterial embolism and thrombosis nos
+300553018,embolism and/or thrombosis of the common iliac artery
+300554012,embolism and/or thrombosis of the internal iliac artery
+300555013,embolism and/or thrombosis of the external iliac artery
+300556014,embolism and thrombosis of the iliac artery unspecified
+300607015,arterial insufficiency
+300874013,[x]other forms of angina pectoris
+300876010,[x]other forms of acute ischaemic heart disease
+300879015,[x]other forms of chronic ischaemic heart disease
+300881018,[x]subsequent myocardial infarction of other sites
+300882013,[x]subsequent myocardial infarction of unspecified site
+300941014,[x]other cerebral infarction
+300942019,[x]occlusion and stenosis of other precerebral arteries
+300956017,"[x]intracerebral haemorrhage in hemisphere, unspecified"
+300963017,[x]other specified peripheral vascular diseases
+309177010,ischaemic ulcer diabetic foot
+317343014,[d]gangrene
+317344015,"[d]gangrene, spreading cutaneous"
+317347010,[d]gangrene of toe in diabetic
+317348017,[d]widespread diabetic foot gangrene
+345639010,infarction - precerebral
+345650013,brainstem infarction nos
+345655015,pure motor lacunar syndrome
+345658018,pure sensory lacunar syndrome
+345684012,carotid territory transient ischaemic attack
+349652010,reconstruction of common iliac artery
+349661010,other bypass of superficial femoral artery
+349664019,other bypass of deep femoral artery
+349665018,other bypass of common femoral artery
+349666017,other bypass of femoral or popliteal artery by anastomosis
+349667014,other emergency bypass of femoral artery
+349668016,other emergency bypass of superficial femoral artery
+349669012,other emergency bypass of popliteal artery
+349670013,other emergency bypass of deep femoral artery
+349671012,other emergency bypass of common femoral artery
+349674016,emergency replacement of aneurysmal popliteal artery
+349675015,emergency replacement of aneurysmal deep femoral artery
+349676019,emergency replacement of aneurysmal common femoral artery
+349677011,other bypass of iliac artery by anastomosis
+349717014,replacement of aneurysmal iliac artery by anastomosis
+350348018,stable angina
+350350014,new onset angina
+350376014,silent myocardial infarction
+350533013,peripheral ischaemia
+350535018,peripheral ischaemic vascular disease
+350564010,aortoiliac obstruction
+357894012,arterial leg ulcer
+357895013,ischaemic leg ulcer
+375462013,claudication distance
+394321017,iliac and femoral artery operations
+394322012,replacement of aneurysmal iliac artery
+394326010,reconstruction of iliac artery
+394328011,iliac endarterectomy and patch
+394329015,endarterectomy of iliac artery
+394330013,other open operations on iliac artery
+394331012,repair of iliac artery
+394332017,open embolectomy of iliac artery
+394333010,transluminal operations on iliac artery
+394335015,arteriography of iliac artery
+394337011,other replacement of aneurysmal femoral artery
+394338018,other emergency bypass of femoral artery or popliteal artery
+394340011,reconstruction of femoral artery or popliteal artery
+394341010,other open operations on femoral artery or popliteal artery
+394345018,arteriography of femoral artery
+395337016,gas gangrene caused by clostridium histolyticum
+395338014,gas gangrene caused by clostridium oedematiens
+395340016,gas gangrene caused by clostridium perfringens
+395341017,gas gangrene caused by clostridium welchii
+395777014,precerebral arterial occlusion
+395780010,cerebral infarction
+395783012,transient ischaemic attack
+395791015,other peripheral vascular disease
+405339016,cerebrovascular accident
+410962015,dacron aortoiliac y graft
+410964019,endarterectomy and patch repair of common iliac artery
+410965018,endarterectomy of common iliac artery
+410966017,other open operations on common iliac artery
+410967014,repair of common iliac artery
+410968016,transluminal operations on common iliac artery
+410969012,other replacement of aneurysmal superficial femoral artery
+410970013,other replacement of aneurysmal common femoral artery
+410972017,other replacement of aneurysmal deep femoral artery
+410973010,repair of aneurysm with graft of popliteal artery
+410974016,reconstruction of popliteal artery
+410975015,reconstruction of deep femoral artery
+410976019,reconstruction of common femoral artery
+410977011,reconstruction of femoral artery
+410979014,other open operations on popliteal artery
+410982016,transluminal procedure on superficial femoral artery
+410983014,transluminal procedure on common femoral artery
+410984015,transluminal procedure on deep femoral artery
+410985019,transluminal procedure on popliteal artery
+410986018,transluminal procedure on femoral artery
+411078012,reconstruction of superficial femoral artery
+411214011,open embolectomy of common iliac artery
+411416011,stroke in the puerperium
+411512011,claudication
+411904010,aspirin prophylaxis for ischaemic heart disease
+413750011,central post-stroke pain
+442204010,angina on effort
+443199013,ischaemic foot
+447324018,acute q-wave infarct
+449935012,admission to stroke unit
+450665015,ischaemic toe
+451133011,left sided cerebral infarction
+451134017,right sided cerebral infarction
+451369010,h/o: myocardial infarction in last year
+451370011,h/o: angina in last year
+451371010,h/o: stroke in last year
+451372015,h/o: treatment for ischaemic heart disease
+451376017,h/o: peripheral vascular disease procedure
+455422014,postoperative subendocardial myocardial infarction
+455423016,"postoperative myocardial infarction, unspecified"
+455424010,ruptured popliteal artery aneurysm
+455900010,open insertion of iliac artery stent
+455901014,percutaneous transluminal insertion of iliac artery stent
+458410010,post infarct angina
+458505013,iliac artery occlusion
+458506014,femoral artery occlusion
+458507017,popliteal artery occlusion
+459306016,type ii diabetes mellitus with peripheral angiopathy
+459308015,type 2 diabetes mellitus with peripheral angiopathy
+459483011,coronary heart disease monitoring refused
+459487012,refractory angina
+459859010,asymptomatic coronary heart disease
+460133017,coronary heart disease annual review
+460687010,history of placement of stent for coronary artery disease
+493423011,pulp gangrene
+494261017,worsening angina
+498328016,angina at rest
+502878012,cerebellar haemorrhage
+1212072018,occlusive stroke
+1222398015,cerebral arterial occlusion
+1227591017,[v]personal history of stroke
+1227592012,[v]personal history of cerebrovascular accident (cva)
+1229885017,microinfarction of heart
+1234005010,acute inferoposterior infarction
+1234306015,acute septal infarction
+1235225010,prinzmetal's angina
+1484833014,coronary heart disease review
+1484939014,coronary heart disease monitoring administration
+1488382011,acute coronary syndrome
+1488440011,coronary heart disease medication review
+1780304018,cva annual review
+1780442013,attends coronary heart disease monitoring
+1780447019,coronary heart disease monitoring verbal invitation
+1780448012,coronary heart disease monitoring deleted
+1780491019,acute st segment elevation myocardial infarction
+1780501013,acute non-st segment elevation myocardial infarction
+1780517019,coronary heart disease monitoring default
+1780518012,coronary heart disease monitoring check done
+1786197015,coronary thrombosis
+1786198013,thrombosis - coronary
+2476091017,h/o: stroke
+2534664018,ischaemic heart disease
+2536395017,coronary artery disease
+2537480011,ihd - ischaemic heart disease
+2548554013,haemorrhagic stroke monitoring
+3505637014,occlusion of left middle cerebral artery
+3505639012,occlusion of right middle cerebral artery
+3505651014,occlusion of left posterior cerebral artery
+3508952018,cerebrovascular accident due to thrombus of left carotid artery
+3508955016,cerebrovascular accident due to thrombus of basilar artery
+3508956015,stroke due to basilar artery thrombus
+3508958019,cerebrovascular accident due to thrombus of right carotid artery
+3508961018,cerebrovascular accident due to thrombus of right middle cerebral artery
+3508962013,stroke due to thrombus of right middle cerebral artery
+3508964014,cerebrovascular accident due to thrombus of left middle cerebral artery
+3508965010,stroke due to thrombus of left middle cerebral artery
+3509777019,cerebrovascular accident due to occlusion of left pontine artery
+3509790014,cerebrovascular accident due to occlusion of right posterior cerebral artery
+3509794017,cerebrovascular accident due to occlusion of left middle cerebral artery
+3509799010,cerebrovascular accident due to occlusion of left posterior cerebral artery
+3509810017,cerebrovascular accident due to occlusion of right middle cerebral artery
+3509817019,left hemispheric cerebellar artery embolism with stroke
+3636133016,cerebrovascular accident due to occlusion of right middle cerebral artery by embolus
+3636969013,occlusion of right middle cerebral artery by embolus
+17311000006112,other replacement aneurysmal femoral artery by anastomosis
+17351000006113,other replacement of aneurysmal femoral/popliteal artery nos
+17361000006110,other replacement of aneurysmal femoral/popliteal artery os
+24561000006118,other open operation on femoral or popliteal artery nos
+24571000006113,other open operation on femoral or popliteal artery os
+31351000006112,other emergency bypass of femoral or popliteal artery nos
+31361000006114,other emergency bypass of femoral or popliteal artery os
+36061000006118,other bypass of femoral artery or popliteal artery os
+39111000006114,other acute and subacute ischaemic heart disease
+57341000006119,wallenberg's syndrome
+67081000006119,ventricular septal defect as current complication following acute myocardial infarction
+67501000006115,vertebrobasilar artery syndrome
+72571000006115,unstable angina
+84331000006112,type 1 diabetes mellitus with gangrene
+84511000006112,type 2 diabetes mellitus with gangrene
+84591000006119,type 2 diabetes mellitus with peripheral angiopathy
+84701000006115,type i diabetes mellitus with gangrene
+84781000006112,type i diabetes mellitus with peripheral angiopathy
+84881000006119,type ii diabetes mellitus with gangrene
+84961000006116,type ii diabetes mellitus with peripheral angiopathy
+89891000006117,transluminal operation on femoral or popliteal artery nos
+89901000006118,transluminal operation on femoral or popliteal artery os
+90051000006113,transluminal operations on femoral artery or popliteal artery
+90731000000111,refuses coronary heart disease monitoring
+100681000006116,"thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"
+118831000006118,subsequent myocardial infarction of unspecified site
+122361000006113,stroke due to cerebral arterial occlusion
+122401000006115,stroke unspecified
+149571000006118,"sequelae of stroke,not specfd as h'morrhage or infarction"
+158601000006116,rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction
+158611000006118,rupture of chordae tendinae as current complication following acute myocardial infarction
+159001000006119,rupture of papillary muscle as current complication following acute myocardial infarction
+163261000006119,"right sided intracerebral haemorrhage, unspecified"
+173461000006110,replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to femoral artery
+173471000006115,replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery
+173561000006111,replace aneurysm iliac artery by iliac/iliac art anast nec
+173641000006113,replace aneurysm popliteal artery by pop/fem anastomosis nec
+173671000006117,replace aneurysmal iliac artery by fem/fem artery anast nec
+187331000006112,reconstruction of femoral or popliteal artery os
+201761000006112,profundoplasty of popliteal artery and patch repair of popliteal artery
+201771000006117,profundoplasty of femoral artery and patch repair of deep femoral artery
+212061000006119,postoperative transmural myocardial infarction of anterior wall
+212071000006114,postoperative transmural myocardial infarction of inferior wall
+212081000006112,postoperative transmural myocardial infarction other sites
+212091000006110,postoperative transmural myocardial infarction unspec site
+218511000000117,infarction - cerebral
+219521000000119,attack - heart
+219531000000117,mi - acute myocardial infarction
+230021000006115,personal history of myocardial infarction
+235911000006116,peripheral vascular disease
+236331000000111,stroke/transient ischaemic attack monitoring administration
+280561000006111,non-insulin-dependent diabetes mellitus with peripheral angiopathy
+359231000000117,endovascular stenting of aorto-uniiliac aneurysm
+362461000006119,[x]acute transmural myocardial infarction of unspecif site
+370661000006114,[x]cereb infarct due unsp occlus/stenos precerebr arteries
+370701000006118,[x]cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+394541000006112,[x]ischaemic heart diseases
+406961000000113,coronary heart disease monitoring telephone invite
+408571000006116,[x]other current complicatns following acute myocard infarct
+426321000006116,"[x]sequelae of stroke,not specfd as h'morrhage or infarction"
+455641000006112,acute anterolateral myocardial infarction
+455651000006114,acute anteroseptal myocardial infarction
+457531000006110,acute inferolateral myocardial infarction
+460681000006116,acute transmural myocardial infarction of unspecif site
+482811000006113,angina at rest
+482941000006119,angina pectoris nos
+482961000006115,anginal control: no attacks
+488231000000113,endovascular stenting for aorto-uniiliac aneurysm
+491481000006111,arteriography of common iliac artery
+491511000006115,arteriography of popliteal artery
+496991000006111,atherosclerotic cardiovascular disease
+498031000006112,atrial septal defect as current complication following acute myocardial infarction
+524511000006116,brainstem stroke syndrome
+530051000006117,bypass aorta by anastomosis axillary to femoral artery nec
+530061000006115,bypass of bifurcation of aorta by anastomosis of aorta to femoral artery
+530071000006110,bypass of bifurcation of aorta by anastomosis of aorta to iliac artery
+530091000006111,bypass common iliac artery by aorta/com iliac art anast nec
+530111000006119,bypass femoral artery by fem/peron a anast c prosthesis nec
+530121000006110,bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft
+530131000006113,bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis
+530141000006115,bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft
+530151000006118,bypass femoral artery by fem/tib art anast c prosthesis nec
+530181000006114,bypass iliac artery by aorta/ext iliac art anastomosis nec
+530191000006112,bypass iliac artery by femoral/femoral art anastomosis nec
+530201000006110,bypass of iliac artery by anastomosis of iliac artery to femoral artery
+530211000006113,bypass iliac artery by iliac/iliac artery anastomosis nec
+530791000006113,bypass popliteal artery by pop/fem artery anastomosis nec
+530801000006114,bypass popliteal artery by pop/peron art anast c prosth nec
+530811000006112,bypass popliteal artery by pop/pop a anast c prosthesis nec
+530821000006116,bypass popliteal artery by pop/pop a anast c vein graft nec
+530831000006118,bypass popliteal artery by pop/tib a anast c prosthesis nec
+530841000006111,bypass popliteal artery by pop/tib a anast c vein graft nec
+537751000006115,cardiac rupture after acute myocardial infarction
+542251000006112,"cerebral infarction due to cerebral venous thrombosis, non-pyogenic"
+542261000006114,cerebral infarction due to occlusion of precerebral artery
+542831000006116,cerebral embolus
+543141000006110,cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+543291000006110,myocardial infarction with complication
+585631000000113,emergency hospital admission for ischaemic heart disease
+605461000006117,cva - cerebrovascular accident due to cerebral artery occlusion
+605481000006110,cva - cerebrovascular accident in the puerperium
+605491000006113,cva - cerebrovascular accident
+605501000006117,cva unspecified
+616081000006113,diabetes mellitus insulin-glucose infusion in acute myocardial infarction
+616351000006115,diabetes mellitus with gangrene
+616561000006113,"diabetes mellitus, adult with gangrene"
+616581000006115,"diabetes mellitus, adult, + peripheral circulatory disorder"
+616591000006117,"diabetes mellitus, juvenile +peripheral circulatory disorder"
+616831000006118,diabetes with gangrene
+639341000006115,emergency bypass of aorta by anastomosis of axillary artery to femoral artery
+639371000006111,emergency bypass of bifurcation of aorta by anastomosis of aorta to femoral artery
+639381000006114,emergency bypass of bifurcation of aorta by anastomosis of aorta to iliac artery
+639461000006110,emerg bypass femoral artery by fem/fem art anastomosis nec
+639481000006117,emerg bypass iliac artery by aorta/ext iliac art anast nec
+639491000006119,emerg bypass iliac artery by femoral/femoral art anast nec
+639501000006110,emerg bypass iliac artery by iliac/iliac art anastomosis nec
+639521000006117,emerg bypass leg artery by aorta/com fem art anastomosis nec
+639531000006119,emerg bypass leg artery by aorta/deep fem anastomosis nec
+639601000006111,emerg bypass popliteal artery by pop/fem art anastomosis nec
+639641000006113,emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to femoral artery
+639651000006110,emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery
+639681000006119,emergency replacement of aneurysmal common iliac artery by anastomosis of aorta to common iliac artery
+639701000006116,emergency replacement of aneurysmal iliac artery by anastomosis of aorta to external iliac artery
+639711000006118,emergency replacement of aneurysmal popliteal artery by anastomosis of popliteal artery to popliteal artery using vein graft
+639751000006117,emergency replacement of aneurysmal femoral artery by anastomosis of femoral artery to popliteal artery using vein graft
+639761000006115,emergency replacement of aneurysmal femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis
+639771000006110,emergency replacement of aneurysmal femoral artery by anastomosis of femoral artery to femoral artery
+639791000006111,emergency replacement of aneurysmal iliac artery by anastomosis of iliac artery to femoral artery
+639801000006112,emergency replacement of aneurysmal iliac artery by anastomosis of iliac artery to iliac artery
+639821000006119,emergency replacement of aneurysmal artery of leg by anastomosis of aorta to common femoral artery
+639831000006116,emergency replacement of aneurysmal artery of leg by anastomosis of aorta to superficial femoral artery
+639851000006111,emergency replacement of aneurysmal popliteal artery by anastomosis of popliteal artery to popliteal artery using prosthesis
+639881000006115,emergency replacement of aneurysmal popliteal artery by anastomosis of popliteal artery to femoral artery
+639911000006115,emergency replacement of aneurysmal iliac artery by anastomosis of femoral artery to femoral artery
+639921000006111,emergency replacement of aneurysmal femoral or popliteal artery by anastomosis
+640141000006112,emergency replacement aneurysmal femoral/popliteal artery os
+640151000006114,emergency replacement of aneurysmal superficial femoral artery
+640181000006118,emergency replacement of aneurysmal femoral or popliteal artery
+641681000006116,endarterectomy of femoral artery and patch repair of femoral artery
+641691000006118,endarterectomy of iliac artery and patch repair of iliac artery
+641701000006118,endarterectomy of popliteal artery and patch repair of popliteal artery
+674961000006118,peripheral circulatory disorder associated with type 2 diabetes mellitus
+741071000000112,peripheral vascular disease monitoring invitation
+742481000006118,ischaemic leg
+744901000006114,intracerebral haemorrhage (ich)
+744921000006116,"intracerebral haemorrhage in hemisphere, unspecified"
+746571000006116,"intracerebral haemorrhage, multiple localized"
+748941000006115,"left sided intracerebral haemorrhage, unspecified"
+771351000006111,insulin dependent diabetes mellitus with gangrene
+772141000006118,insulin dependent diab mell with peripheral angiopathy
+787101000006114,iddm with peripheral circulatory disorder
+798761000006112,gas gangrene
+809421000006116,history of cerebrovascular accident
+810811000006116,h/o: myocardial infarct at less than 60
+810821000006112,h/o: myocardial infarct at greater than 60
+813961000006116,haemopericardium as current complication following acute myocardial infarction
+854491000006113,unstable angina
+855991000006115,angina control - stable
+856011000006116,angina control - unsatisfactory
+856511000006113,chd annual review
+884141000006116,coronary thrombosis
+884151000006119,myocardial infarction
+884461000006113,basilar artery occluded
+884481000006115,vertebral artery occluded
+884511000006111,transient ischaemic attacks
+884521000006115,stroke/cva - undefined
+884531000006117,stroke
+884661000006110,peripheral arterial embolism
+905351000006113,[rfc] myocardial infarction (mi)
+905381000006117,[rfc] angina
+906771000006113,[rfc] peripheral vascular disease
+907581000006119,[rfc] stroke/cva
+907591000006116,[rfc] stroke
+908791000006113,[rfc] coronary heart disease
+908801000006114,[rfc] stroke
+909171000006115,[rfc] cva
+913621000006112,insulin dependent diabetes mellitus with gangrene
+913921000006119,insulin dependent diab mell with peripheral angiopathy
+913931000006116,type 1 diabetes mellitus with peripheral angiopathy
+931961000006117,acute coronary syndrome
+940051000006114,stroke monitoring administration
+940061000006111,stroke monitoring invite 1
+940071000006116,stroke monitoring invite 2
+940081000006118,stroke monitoring invite 3
+967931000006114,acute myocardial infarction of posterolateral wall
+986831000006115,stroke/transient ischaemic attack monitoring verbal invitation
+988951000006117,transient ischaemic attacks
+1142521000000115,coronary heart disease leaflet given
+1160471000000111,stroke 6 month review
+1539331000006118,h/o: coronary heart disease
+1548341000006118,percutaneous transluminal insertion of stent into femoral artery
+1562581000006114,stroke/transient ischaemic attack monitoring telephone invitation
+1587791000006117,endovas insertion of stent graft for aorto-uniiliac aneurysm
+1667741000000110,[v]personal history of transient ischaemic attack
+1696201000006114,peripheral vascular disease annual review
+1696211000006112,peripheral vascular disease monitoring administration
+1699111000006110,ischaemic foot
+1715241000006112,vascular claudication
+1726581000006116,central post-stroke pain
+1738171000006114,history of myocardial infarction
+1752201000000116,frequency of angina
+1773371000006117,cerebrovascular accident care plan
+1774801000000114,coronary heart disease care plan
+1787251000006117,transient ischaemic attack monitoring
+1823891000006113,coronary heart disease confirmed
+1823971000006118,peripheral arterial disease confirmed
+1847121000006114,peripheral arterial disease
+1856391000006112,coronary heart disease monitoring in primary care
+1856401000006114,coronary heart disease monitoring in secondary care
+1895641000006114,on coronary heart disease register
+2126181000000114,stroke annual review
+2127781000000110,stroke initial post discharge review
+2173281000000112,h/o acute coronary syndrome
+2377871000000112,ischaemic foot pain at rest
+2377911000000114,ischaemic foot pain when walking
+2436731000000112,old cerebral infarction on imaging
+2539131000006116,stroke rehabilitation
+2571561000006118,pre-infarction syndrome
+2634321000006110,embolectomy of femoral artery
+2729551000000111,cerebral infarction due to occlusion of cerebral artery
+2729571000000119,cerebral infarction due to stenosis of cerebral artery
+2729671000000118,acute transmural myocardial infarction
+2762941000006113,endarterectomy of femoral artery
+2855301000006112,myocardial infarction
+2855341000006114,mi - myocardial infarction
+2855351000006111,myocardial infarct
+2901571000006113,completed stroke
+3024781000006112,"past myocardial infarction diagnosed on ecg and/or other special investigation, but currently presenting no symptoms"
+3166141000006114,"angina, class ii"
+3280921000006115,popliteal artery aneurysm
+3371381000006110,cad - coronary artery disease
+3371411000006113,chd - coronary heart disease
+3371421000006117,coronary heart disease
+3381601000006117,acute myocardial infarction of anterior wall
+3427201000006111,ami - acute myocardial infarction
+3452181000006112,acute myocardial infarction of lateral wall
+3458791000006114,anginal chest pain at rest
+3459561000006119,acute myocardial infarction of apical-lateral wall
+3499001000006116,"angina, class i"
+3551171000006114,acute myocardial infarction of high lateral wall
+3565871000006113,acute myocardial infarction of inferolateral wall
+3576371000006117,postmyocardial infarction syndrome
+3641641000006116,acute myocardial infarction of anterolateral wall
+3699921000006110,acute inferior myocardial infarction
+3719851000006116,cerebellar hemorrhage
+3745741000006117,acute myocardial infarction of inferoposterior wall
+3807321000006113,embolism of iliac artery
+3886751000006118,"angina, class iii"
+3919991000006112,prinzmetal angina
+3920001000006119,variant angina pectoris
+3920011000006116,variant angina
+3920021000006112,coronary artery spasm angina
+4057041000006110,brain stem stroke
+4193641000006111,nonparalytic stroke
+4540591000006113,history of transient ischemic attack
+4668151000006111,percutaneous embolectomy of femoral artery
+4668171000006118,percutaneous embolectomy of popliteal artery
+4668191000006117,pc tl embolectomy popliteal artery
+4775971000006114,angina
+4775981000006112,cardiac angina
+4776001000006111,anginal syndrome
+4776031000006115,ischaemic heart disease - angina
+4776051000006110,single vessel coronary artery disease
+4776081000006119,double vessel coronary artery disease
+4777861000006119,intracerebral haemorrhage with intraventricular haemorrhage
+4777881000006112,"intracerebral haemorrhage, multiple localised"
+4778181000006119,left sided cerebral hemisphere cerebrovascular accident
+4778201000006118,right sided cerebral hemisphere cerebrovascular accident
+5010981000006119,stroke
+5011041000006118,anterior cerebral circulation infarction
+5011051000006116,total anterior cerebral circulation infarction
+5011061000006119,taci - total anterior cerebral circulation infarction
+5011071000006114,total anterior cerebral circulation stroke
+5011081000006112,tacs - total anterior cerebral circulation stroke
+5011091000006110,partial anterior cerebral circulation infarction
+5011101000006116,paci - partial anterior cerebral circulation infarction
+5011111000006118,partial anterior cerebral circulation stroke
+5011121000006114,pacs - partial anterior cerebral circulation stroke
+5011131000006112,posterior cerebral circulation infarction
+5011141000006119,posterior cerebral circulation stroke
+5011191000006111,pure motor lacunar infarction
+5011211000006112,pure sensory lacunar infarction
+5011291000006119,haemorrhagic cerebral infarction
+5011331000006114,anterior cerebral circulation haemorrhagic infarction
+5011351000006119,posterior cerebral circulation haemorrhagic infarction
+5011451000006114,stroke of uncertain pathology
+5011461000006111,anterior circulation stroke of uncertain pathology
+5011471000006116,posterior circulation stroke of uncertain pathology
+5011491000006115,anterior circulation transient ischaemic attack
+5011501000006111,anterior circulation transient ischemic attack
+5011521000006118,vertebrobasilar territory transient ischaemic attack
+5011541000006113,posterior circulation transient ischemic attack
+5011551000006110,posterior circulation transient ischaemic attack
+5048911000006115,endarterectomy of common femoral artery
+5048921000006111,cfa - endarterectomy of the common femoral artery
+5049001000006113,embolectomy of popliteal artery
+5049381000006118,embolisation of internal iliac artery
+5056201000006111,triple vessel coronary artery disease
+5056311000006117,acute q wave infarction - inferior
+5056331000006111,acute q wave infarction - inferolateral
+5056411000006110,old anterior myocardial infarction
+5056421000006119,old inferior myocardial infarction
+5056431000006116,old lateral myocardial infarction
+5056441000006114,old posterior myocardial infarction
+5056461000006113,mi - silent myocardial infarction
+5056471000006118,accelerated coronary artery disease in transplanted heart
+5057981000006111,peripheral ischemic vascular disease
+5126451000006116,ischaemic foot ulcer
+5153821000006115,embolectomy of iliac artery
+5492201000006111,tia - transient ischaemic attack
+5492221000006118,transient ischemic attack
+5582311000006110,occipital cerebral infarction
+5592751000006111,percutaneous endarterectomy of superficial femoral artery
+5649201000006113,extension of cerebrovascular accident
+5887611000006117,exercise-induced angina
+5887631000006111,exertional angina
+5887641000006118,angina of effort
+5935321000006111,acute q wave myocardial infarction
+5974561000006110,history of treatment for ischaemic heart disease
+5994741000006112,stroke unit
+6002251000006119,patch repair of femoral artery
+6043771000006118,non-q wave myocardial infarction
+6053011000006114,refuses chd monitoring
+6348291000006115,thrombotic stroke
+6348301000006119,embolic stroke
+6360351000006112,multi vessel coronary artery disease
+6360361000006114,left main coronary artery disease
+6360401000006116,recurrent angina after percutaneous transluminal coronary angioplasty
+6360421000006114,recurrent angina after coronary stent placement
+6360441000006119,recurrent angina after coronary artery bypass graft
+6546111000006118,acs - acute coronary syndrome
+6546751000006118,first myocardial infarction
+6601131000006115,ct - coronary thrombosis
+6632221000006112,peripheral arterial occlusive disease
+6632271000006113,peripheral artery occlusive disease
+6633851000006110,pvd-peripheral vascular disease
+6651221000006117,stemi - st elevation myocardial infarction
+6651391000006114,nstemi - non-st segment elevation mi
+6837051000006119,basal ganglion stroke
+6837061000006117,basal ganglion infarct
+6841231000006113,acute ischaemic heart disease
+6847761000006118,chronic ischemic heart disease
+6860251000006115,ischemic heart disease
+6860261000006118,ihd - ischemic heart disease
+6908391000006111,stroke/transient ischaemic attack monitoring invitation
+6990981000006114,ischaemic stroke
+6990991000006112,ischemic stroke
+7093091000006111,recent myocardial infarction
+7105241000006116,typical angina
+7108391000006114,ischaemic ulcer of toe
+7140321000006119,history of peripheral arterial occlusive disease
+7224311000006117,endovascular repair of aneurysm of iliac artery
+7475751000006117,ischaemic dilated cardiomyopathy due to coronary artery disease
+7482951000006115,history of peripheral vascular disease
+7510331000006117,history of non-st segment elevation myocardial infarction
+7518321000006118,coronary artery disease absent
+7519441000006112,cerebrovascular accident annual review
+7571581000006113,acute anterior st segment elevation myocardial infarction
+7571601000006115,acute stemi (st elevation myocardial infarction) of anterior wall
+7572221000006117,subsequent st segment elevation myocardial infarction of inferior wall
+7572301000006119,acute myocardial infarction during procedure
+7572321000006112,acute st segment elevation myocardial infarction of inferior wall
+7572331000006110,acute stemi (st elevation myocardial infarction) of inferior wall
+7572341000006117,acute inferior st segment elevation myocardial infarction
+7573181000006118,heart failure with reduced ejection fraction due to coronary artery disease
+7574041000006111,mitral valve regurgitation due to acute myocardial infarction
+7574481000006111,subsequent non-st segment elevation myocardial infarction
+7574491000006114,subsequent nstemi (non-st segment elevation myocardial infarction)
+7598981000006119,cerebral infarction due to embolism of middle cerebral artery
+7599001000006116,cerebral infarction due to thrombosis of middle cerebral artery
+7662871000006115,inducible ischaemia manifest on stress test post myocardial infarction
+7703511000006110,subacute ischaemic heart disease
+7703601000006113,post stroke pain
+7839991000006115,silent cerebral infarct
+7855631000006111,cerebral ischaemic stroke due to small artery occlusion
+7861341000006115,epilepsy due to stroke
+7966931000006114,angina associated with type 2 diabetes mellitus
+8011371000006117,sequela of ischaemic cerebral infarction
+8044221000006116,ischaemic foot ulcer due to type 2 diabetes mellitus
+8044481000006118,ischaemic stroke without coma
+8079871000006116,coronary heart disease monitoring telephone invitation
+8087551000006113,history of acute st segment elevation myocardial infarction
+8087751000006116,acute st segment elevation myocardial infarction involving left anterior descending coronary artery
+8195431000006118,stroke/cerebrovascular accident 6 month review
+8196661000006116,transient ischaemic attack monthly review
+8221321000006118,stroke and tia
+8231151000006110,personal history of transient ischaemic attack
+8274811000006116,stroke medicine
+8298661000006115,peripheral vascular disease monitoring verbal invitation
+8298671000006110,peripheral vascular disease monitoring telephone invitation
+8304051000006113,arterial leg ulcer
+8453031000006117,haemorrhagic stroke
+8459551000006115,coronary heart disease monitoring invitation
+8459561000006118,coronary heart disease monitoring invitation email
+9836881000006114,aneurysm of right common iliac artery
+9836901000006111,aneurysm of left common iliac artery
+9836931000006115,aneurysm of left internal iliac artery
+9836971000006117,aneurysm of left popliteal artery
+9843961000006118,acute st segment elevation myocardial infarction of anterolateral wall
+9843981000006111,acute st segment elevation myocardial infarction of lateral wall
+9844011000006119,acute st segment elevation myocardial infarction of posterior wall
+9844051000006118,acute st segment elevation myocardial infarction due to right coronary artery occlusion
+9868461000006110,unstable angina co-occurrent and due to coronary arteriosclerosis
+9868571000006116,mural thrombus of left ventricle following acute myocardial infarction
+9874011000006115,gangrene of toe of right foot
+9912271000006112,cerebellar stroke
+12120191000006118,revision of bypass of femoral artery with anastomosis of femoral artery to femoral artery using prosthesis
+12122331000006116,acute st segment elevation myocardial infarction of inferolateral wall
+12122341000006114,acute st segment elevation myocardial infarction of inferoposterior wall
+12125951000006116,arteriosclerosis of autologous vein coronary artery bypass graft with angina
+12126541000006118,bilateral gangrene of toe
+12223101000006118,intracerebral haemorrhage
+12223111000006115,intracerebral hemorrhage
+12223121000006111,ich - intracerebral haemorrhage
+12223131000006114,ich - intracerebral hemorrhage
+12276271000006112,progressive angina
+12704411000006113,peripheral circulatory disorder associated with diabetes mellitus
+13717171000006112,cerebrovascular accident due to stenosis of bilateral carotid arteries
+13718621000006117,history of cerebrovascular accident due to ischaemia
+13909901000006119,cerebral ischaemic stroke co-occurrent with subarachnoid haemorrhage
+13930031000006112,delayed postmyocardial infarction pericarditis
+13935161000006114,acute myocardial infarction of right ventricle
+13935211000006117,acute myocardial infarction of inferolateral wall with posterior extension
+13941091000006115,acute st segment elevation myocardial infarction due to proximal left anterior descending coronary artery occlusion
+13941141000006111,acute st segment elevation myocardial infarction due to mid left anterior descending coronary artery occlusion
+13941161000006110,acute stemi (st elevation myocardial infarction) due to mid lad (left anterior descending) coronary artery occlusion
+13941211000006118,acute st segment elevation myocardial infarction due to distal left anterior descending coronary artery occlusion
+13941231000006112,acute stemi (st elevation myocardial infarction) due to distal lad (left anterior descending) coronary artery occlusion
+13944841000006117,peripheral arterial disease
+13944851000006115,peripheral arterial vascular disease
+13945211000006116,acute st segment elevation myocardial infarction due to occlusion of anterior descending branch of left coronary artery
+13947721000006111,acute st segment elevation myocardial infarction due to occlusion of intermediate artery
+13961371000006114,acute st segment elevation myocardial infarction due to occlusion of mid portion of right coronary artery
+13961451000006111,acute stemi (st elevation myocardial infarction) due to pda (posterior descending artery) branch of rca (right coronary artery) occlusion
+13961461000006113,acute st segment elevation myocardial infarction due to occlusion of posterior lateral branch of right coronary artery
+14014251000006116,cerebrovascular accident due to occlusion of bilateral pontine arteries
+14015031000006119,myocardial infarction due to demand ischaemia
+14015311000006110,coronary artery disease due to type 2 diabetes mellitus
+14068071000006114,history of transient ischaemic attack
+14132941000006118,myocardial infarction with non-obstructive coronary artery
+14182621000006113,cryptogenic stroke
+14194651000006114,acute stroke of brainstem
+77727018,insulin dependent diabetes mellitus
+197984010,type 1 diabetes mellitus
+292482014,"diabetes mellitus, juvenile type, with hyperosmolar coma"
+292538019,type i diabetes mellitus with ulcer
+292540012,type 1 diabetes mellitus with ulcer
+292541011,type 1 diabetes mellitus with gangrene
+292543014,type i diabetes mellitus with gangrene
+292548017,type 1 diabetes mellitus - poor control
+292550013,type i diabetes mellitus - poor control
+292551012,type i diabetes mellitus maturity onset
+292553010,type 1 diabetes mellitus maturity onset
+429970018,unstable type i diabetes mellitus
+429971019,unstable type 1 diabetes mellitus
+429972014,unstable insulin dependent diabetes mellitus
+457325013,type i diabetes mellitus without complication
+457326014,type 1 diabetes mellitus without complication
+459161015,type 1 diabetes mellitus with hypoglycaemic coma
+459162010,insulin dependent diabetes mellitus with hypoglycaemic coma
+459163017,type i diabetes mellitus with hypoglycaemic coma
+459292011,type 1 diabetes mellitus with arthropathy
+459293018,insulin dependent diabetes mellitus with arthropathy
+459294012,type i diabetes mellitus with arthropathy
+459296014,type 1 diabetes mellitus with neuropathic arthropathy
+494564012,type i diabetes mellitus
+1780311019,type 1 diabetes mellitus with persistent microalbuminuria
+2967831017,pre-existing type 1 diabetes mellitus in pregnancy
+72651000006114,unstable insulin dependent diabetes mellitus
+72711000006117,unstable type 1 diabetes mellitus
+72721000006113,unstable type i diabetes mellitus
+84281000006115,type 1 diabetes mellitus
+84291000006117,type 1 diabetes mellitus - poor control
+84301000006116,type 1 diabetes mellitus maturity onset
+84311000006118,type 1 diabetes mellitus with arthropathy
+84321000006114,type 1 diabetes mellitus with diabetic cataract
+84331000006112,type 1 diabetes mellitus with gangrene
+84341000006119,type 1 diabetes mellitus with hypoglycaemic coma
+84361000006115,type 1 diabetes mellitus with multiple complications
+84371000006110,type 1 diabetes mellitus with nephropathy
+84381000006113,type 1 diabetes mellitus with neurological complications
+84391000006111,type 1 diabetes mellitus with neuropathic arthropathy
+84401000006113,type 1 diabetes mellitus with ophthalmic complications
+84421000006115,type 1 diabetes mellitus with polyneuropathy
+84431000006117,type 1 diabetes mellitus with renal complications
+84441000006110,type 1 diabetes mellitus with retinopathy
+84451000006112,type 1 diabetes mellitus with ulcer
+84461000006114,type 1 diabetes mellitus without complication
+84651000006114,type i diabetes mellitus
+84661000006111,type i diabetes mellitus poorly controlled
+84671000006116,type i diabetes mellitus maturity onset
+84681000006118,type i diabetes mellitus with arthropathy
+84701000006115,type i diabetes mellitus with gangrene
+84711000006117,type i diabetes mellitus with hypoglycaemic coma
+84721000006113,mononeuropathy with type 1 diabetes mellitus
+84731000006111,multiple complications of type 1 diabetes mellitus
+84741000006118,type i diabetes mellitus with nephropathy
+84751000006116,type i diabetes mellitus with neurological complications
+84761000006119,type i diabetes mellitus with neuropathic arthropathy
+84771000006114,disorder of eye with type 1 diabetes mellitus
+84781000006112,type i diabetes mellitus with peripheral angiopathy
+84801000006111,type i diabetes mellitus with renal complications
+84811000006114,type i diabetes mellitus with retinopathy
+84821000006118,type i diabetes mellitus with ulcer
+84831000006115,type i diabetes mellitus without complication
+299601000000114,gastroparesis with type 1 diabetes mellitus
+616591000006117,"diabetes mellitus, juvenile +peripheral circulatory disorder"
+616601000006113,"diabetes mellitus, juvenile type, + ophthalmic manifestation"
+616611000006111,disorder due to type 1 diabetes mellitus
+616621000006115,type 1 diabetes mellitus without complication
+616641000006110,"diabetes mellitus, juvenile type, with ketoacidosis"
+616651000006112,"diabetes mellitus, juvenile type, with ketoacidotic coma"
+616661000006114,"diabetes mellitus, juvenile type, with renal manifestation"
+616671000006119,"diabetes mellitus, juvenile, + neurological manifestation"
+616681000006116,"diabetes mellitus, juvenile, + other specified manifestation"
+771331000006116,insulin dependent diabetes mellitus with arthropathy
+771341000006114,insulin dependent diabetes mellitus with diabetic cataract
+771351000006111,insulin dependent diabetes mellitus with gangrene
+771361000006113,insulin dependent diabetes mellitus with hypoglycaemic coma
+771371000006118,insulin dependent diabetes mellitus with mononeuropathy
+771381000006115,insulin dependent diabetes mellitus with multiple complicatn
+771391000006117,insulin dependent diabetes mellitus with nephropathy
+771401000006115,insulin dependent diabetes mellitus with polyneuropathy
+771411000006117,insulin dependent diabetes mellitus with retinopathy
+771421000006113,insulin dependent diabetes mellitus with ulcer
+772151000006116,insulin dependent diabetes maturity onset
+772161000006119,insulin dependent diabetes mellitus
+772171000006114,insulin dependent diabetes mellitus
+772181000006112,insulin dependent diabetes mellitus - poor control
+787101000006114,iddm with peripheral circulatory disorder
+787111000006112,iddm-insulin dependent diabetes mellitus
+881441000006111,diabetes mellitus - juvenile
+913451000006117,type 1 diabetes mellitus with renal complications
+913461000006115,type i diabetes mellitus with renal complications
+913481000006113,type 1 diabetes mellitus with ophthalmic complications
+913491000006111,type i diabetes mellitus with ophthalmic complications
+913511000006117,type 1 diabetes mellitus with neurological complications
+913521000006113,neurological disorder with type 1 diabetes mellitus
+913531000006111,insulin dependent diabetes mellitus with multiple complicat
+913541000006118,type 1 diabetes mellitus with multiple complications
+913551000006116,type i diabetes mellitus with multiple complications
+913621000006112,insulin dependent diabetes mellitus with gangrene
+913651000006115,insulin dependent diabetes mellitus with retinopathy
+913661000006118,retinopathy with type 1 diabetes mellitus
+913671000006113,type i diabetes mellitus with retinopathy
+913681000006111,insulin dependent diabetes mellitus - poor control
+913711000006112,insulin dependent diabetes maturity onset
+913771000006115,insulin dependent diabetes mellitus with mononeuropathy
+913781000006117,type 1 diabetes mellitus with mononeuropathy
+913791000006119,type i diabetes mellitus with mononeuropathy
+913801000006118,insulin dependent diabetes mellitus with polyneuropathy
+913811000006115,type 1 diabetes mellitus with polyneuropathy
+913821000006111,type i diabetes mellitus with polyneuropathy
+913831000006114,insulin dependent diabetes mellitus with nephropathy
+913841000006116,renal disorder associated with type 1 diabetes mellitus
+913851000006119,type i diabetes mellitus with nephropathy
+913891000006113,insulin dependent diabetes mellitus with diabetic cataract
+913901000006112,type 1 diabetes mellitus with diabetic cataract
+913911000006110,type i diabetes mellitus with diabetic cataract
+913931000006116,type 1 diabetes mellitus with peripheral angiopathy
+913941000006114,peripheral angiopathy due to type 1 diabetes mellitus
+928461000006119,persistent proteinuria associated with type 1 diabetes mellitus
+928471000006114,type i diabetes mellitus with persistent proteinuria
+928491000006110,type i diabetes mellitus with persistent microalbuminuria
+928501000006119,ketoacidosis in type 1 diabetes mellitus
+928511000006116,type i diabetes mellitus with ketoacidosis
+928521000006112,ketoacidotic coma in type 1 diabetes mellitus
+928531000006110,type i diabetes mellitus with ketoacidotic coma
+938301000006114,exudative maculopathy with type 1 diabetes mellitus
+938311000006112,type i diabetes mellitus with exudative maculopathy
+1667941000000112,type i diabetes mellitus with gastroparesis
+2288011000000114,type i diabetes mellitus in remission
+2288041000000110,type 1 diabetes mellitus in remission
+2867431000006112,insulin dependent diabetes mellitus type ia
+5754581000006110,brittle type 1 diabetes mellitus
+6961081000006118,gangrene associated with type 1 diabetes mellitus
+7098211000006116,dietary education for type 1 diabetes mellitus
+7287611000006113,type 1 diabetes mellitus uncontrolled
+8006221000006115,microalbuminuria due to type 1 diabetes mellitus
+8024771000006113,rubeosis iridis due to type 1 diabetes mellitus
+8027491000006113,chronic kidney disease stage 5 due to type 1 diabetes mellitus
+8077141000006113,proteinuria due to type 1 diabetes mellitus
+8119331000006114,hyperglycaemia due to type 1 diabetes mellitus
+8232101000006117,referral to type i diabetes structured education programme
+12702381000006118,diabetic oculopathy due to type i diabetes mellitus
+12705071000006113,gastroparesis due to type 1 diabetes mellitus
+13966631000006113,newly diagnosed type 1 diabetes mellitus
+14083741000006114,ketoacidosis due to type 1 diabetes mellitus
+14083771000006118,exudative maculopathy due to type 1 diabetes mellitus
+14083781000006115,persistent proteinuria due to type 1 diabetes mellitus
+14083831000006112,retinopathy due to type 1 diabetes mellitus
+14083901000006110,persistent microalbuminuria due to type 1 diabetes mellitus
+14083931000006119,hypoglycaemic coma due to type 1 diabetes mellitus
+14083941000006112,disorder of nervous system due to type 1 diabetes mellitus
+1773186016,familial hypercholesterolaemia
+666301000006115,familial hypercholesterolaemia
+1659061000000112,possible familial hypercholesterolaemia
+2241371000000117,probable familial hypercholesterolaemia
+5116961000006119,familial hypercholesterolaemia - homozygous
+5117001000006119,familial hypercholesterolaemia - heterozygous
+5117061000006118,familial hypercholesterolaemia due to genetic defect of apolipoprotein b-100
+6596631000006112,familial hypercholesterolemia
+6687861000006113,familial hypercholesterolaemia due to heterozygous ldl receptor mutation
+6687901000006118,familial hypercholesterolaemia due to homozygous ldl receptor mutation
+7510431000006112,suspected heterozygous familial hypercholesterolaemia
+8192861000006119,possible heterozygous familial hypercholesterolaemia
+3268012,congenital absence of bile duct
+3269016,agenesis of bile duct
+4044018,biliary cirrhosis
+7302012,viral hepatitis
+11267010,indian childhood cirrhosis
+17390014,acute alcoholic hepatitis
+17930015,chronic viral hepatitis
+21289010,secondary biliary cirrhosis
+24192017,oesophageal varices without bleeding
+48003016,oesophageal varices
+52980015,primary biliary cirrhosis
+53033015,alagille syndrome
+57989014,portal hypertension
+69895016,chronic persistent hepatitis
+83834016,alcoholic fatty liver
+85441018,hepatorenal syndrome
+95368015,chronic lobular hepatitis
+99549014,hepatic failure
+103853010,hepatic fibrosis
+123999018,congestive cirrhosis
+126721013,florid cirrhosis
+127487019,chronic hepatitis
+128627011,biliary atresia
+132070012,congenital hepatic fibrosis
+133978014,secondary syphilitic hepatitis
+147971019,mumps hepatitis
+179049010,viral hepatitis without hepatic coma
+268812014,open operations on oesophageal varices
+268819017,open injection sclerotherapy to oesophageal varices
+268827014,open operation on oesophageal varices nos
+268885015,fibreoptic endoscopic banding of oesophageal varices
+268957016,rigid oesophagoscopic banding of oesophageal varices
+286867013,other specified viral hepatitis with coma
+286869011,other specified viral hepatitis with hepatic coma nos
+286870012,other specified viral hepatitis without coma
+286876018,unspecified viral hepatitis with coma
+286882015,unspecified viral hepatitis
+286985017,cytomegaloviral hepatitis
+287865012,toxoplasma hepatitis
+287866013,hepatitis in toxoplasmosis
+287970018,sequelae of viral hepatitis
+288168013,[x]other specified acute viral hepatitis
+288169017,[x]other chronic viral hepatitis
+288170016,"[x]chronic viral hepatitis, unspecified"
+288171017,hepatic coma due to viral hepatitis
+288172012,[x]unspecified viral hepatitis without coma
+294324014,deficiency of coagulation factor due to liver disease
+300775019,oesophageal varices in diseases ec
+300776018,oesophageal varices with bleeding in diseases ec
+300779013,oesophageal varices without bleeding in diseases ec
+300784019,oesophageal varices in diseases ec nos
+300993011,[x]oesophageal varices in diseases classified elsewhere
+303379012,acute liver failure
+303381014,acute hepatic failure
+303388015,subacute hepatic failure
+303393017,cirrhosis and chronic liver disease
+303399018,alcoholic liver damage
+303401012,chronic active hepatitis
+303404016,autoimmune chronic active hepatitis
+303407011,recurrent hepatitis
+303409014,chronic hepatitis unspecified
+303410016,chronic hepatitis nos
+303414013,unilobular portal cirrhosis
+303419015,diffuse nodular cirrhosis
+303420014,fatty portal cirrhosis
+303425016,capsular portal cirrhosis
+303433015,pigmentary portal cirrhosis
+303435010,toxic portal cirrhosis
+303437019,bacterial portal cirrhosis
+303438012,cardituberculous cirrhosis
+303439016,syphilitic portal cirrhosis
+303440019,zooparasitic portal cirrhosis
+303441015,infectious cirrhosis
+303442010,portal cirrhosis unspecified
+303452014,biliary cirrhosis of children
+303453016,biliary cirrhosis nos
+303456012,chronic nonalcoholic liver disease
+303457015,non-alcoholic fatty liver
+303458013,portal fibrosis without cirrhosis
+303464018,other non-alcoholic chronic liver disease nos
+303465017,chronic liver disease
+303466016,liver abscess and sequelae of chronic liver disease
+303489012,liver abscess and chronic liver disease causing sequelae nos
+303491016,hepatitis in viral diseases ec
+303493018,hepatitis in coxsackie virus
+303496014,hepatitis in yellow fever
+303497017,hepatitis in other viral disease
+303499019,hepatitis in viral diseases ec nos
+303500011,hepatitis in other infectious diseases ec
+303501010,hepatitis in late syphilis
+303503013,hepatitis in secondary syphilis
+303505018,hepatitis in infectious diseases ec nos
+303506017,hepatitis
+303507014,toxic hepatitis
+303510019,toxic liver disease
+303511015,toxic liver disease with cholestasis
+303512010,toxic liver disease with hepatic necrosis
+303514011,toxic liver disease with acute hepatitis
+303515012,toxic liver disease with chronic persistent hepatitis
+303516013,toxic liver disease with chronic lobular hepatitis
+303517016,toxic liver disease with chronic active hepatitis
+303518014,toxic liver disease with fibrosis and cirrhosis of liver
+303525019,hepatic granulomas in sarcoidosis
+303532011,liver disease
+303614019,primary sclerosing cholangitis
+303780012,[x]toxic liver disease with other disorders of liver
+303781011,[x]other and unspecified cirrhosis of liver
+303782016,[x]other specified inflammatory liver diseases
+303785019,[x]liver disorders in other diseases classified elsewhere
+303786018,"[x]toxic liver disease, unspecified"
+303787010,"[x]granulomatous hepatitis, not elsewhere classified"
+314032018,congenital absence of hepatic ducts
+314033011,agenesis of hepatic ducts
+314034017,atresia of hepatic ducts
+314035016,biliary atresia nos
+314040012,congenital cystic liver disease nos
+316474016,congenital viral hepatitis
+316476019,other specified congenital viral hepatitis
+316477011,congenital viral hepatitis nos
+324976011,liver transplant failure and rejection
+325079010,liver failure as a complication of care
+325080013,hepatic failure as a complication of care
+325081012,hepatorenal syndrome as a complication of care
+352566017,sengstaken intubation of oesophagus
+352567014,blakemore intubation of oesophagus
+352929018,exploration of liver transplant
+353572011,gonococcal hepatitis
+353587018,alcoholic hepatitis
+353594015,alcoholic fibrosis and sclerosis of liver
+353595019,alcoholic hepatic failure
+353596018,liver failure
+353597010,hepatic failure nos
+353613017,cirrhosis of liver
+353621011,"laennec's cirrhosis, non-alcoholic"
+353625019,hepatic sclerosis
+353627010,hepatic fibrosis with hepatic sclerosis
+394102015,other specified open operation on oesophageal varices
+394251013,roux-en-y procedure for biliary atresia
+396390012,multilobular portal cirrhosis
+396391011,cardiac portal cirrhosis
+396392016,juvenile portal cirrhosis
+396393014,non-alcoholic cirrhosis nos
+396394015,other sequelae of chronic liver disease
+451124014,chronic alcoholic hepatitis
+451442010,oesophageal varices in cirrhosis of the liver
+453265010,oesophageal varices in alcoholic cirrhosis of the liver
+456800015,oesophageal varices nos
+459877017,statins contraindicated
+461319017,[v]assessment for liver transplant
+477604016,mixed portal cirrhosis
+493707012,hypertrophic portal cirrhosis
+502290017,congenital polycystic liver disease
+502291018,fibrocystic liver disease
+504762019,chronic yellow liver atrophy
+1216060010,oesophageal varices with bleeding
+1222437010,alper's disease
+1235437014,hepatitis in mumps
+1786709019,pigmentary cirrhosis of liver
+2159899016,autoimmune hepatitis
+2475553015,hepatitis in cytomegalic inclusion virus
+2534188017,acute hepatic failure due to drugs
+2576980018,portal cirrhosis
+2579818016,laennec's cirrhosis
+2675247013,liver disease due to cystic fibrosis
+2819666013,nonalcoholic steatohepatitis
+1601000006112,other specified viral hepatitis without mention of coma nos
+55851000006118,xanthomatous portal cirrhosis
+99171000006113,"toxic liver disease, unspecified"
+114801000006118,tanner devascularisation for bleeding varices
+122921000006118,subacute hepatitis - noninfective
+161771000006119,sawaguchi roux-en-y procedure for biliary atresia
+211821000006111,postnecrotic cirrhosis of liver
+221111000000114,cirrhosis - non-alcoholic
+221941000000113,atresia of bile duct
+222891000000119,infectious hepatitis
+226161000006113,pipe-stem portal cirrhosis
+252501000006117,other viral hepatitis
+358961000006119,[x] hepatic failure
+359011000006113,[x] liver failure
+395261000006113,[x]liver disorders in infectious and parasitic diseases ce
+426451000006118,[x]sequelae of viral hepatitis
+432411000006115,[x]viral hepatitis
+457421000006113,acute hepatitis - non-infective
+476611000006116,alcoholic cirrhosis of liver
+538081000000115,compensation for liver failure
+538101000000114,liver failure support management
+538121000000117,other specified compensation for liver failure
+550431000006116,childhood function cirrhosis
+553311000006111,chronic aggressive hepatitis
+555881000006114,chronic passive liver congestion
+557081000006110,"chronic viral hepatitis, unspecified"
+581481000006118,congenital cystic liver disease
+603321000006118,cryptogenic cirrhosis
+660151000006116,extrahepatic atresia of bile duct
+708811000006119,fibreoptic endoscopic injection sclerotherapy to oesophageal varices
+731231000006114,macronodular cirrhosis of liver
+737961000006116,ligation of oesophageal varices
+768541000006118,intrahepatic atresia of bile duct
+803961000006119,glycogenosis with hepatic cirrhosis
+806841000006117,granulomatous hepatitis
+820381000006112,hepatic fibrosis
+820491000006117,hepatitis + adenovirus
+820971000006110,hepatitis in infectious mononucleosis
+857991000006111,statins contraindicated
+862761000006111,oesophageal vessels ligated
+862771000006116,oesophageal varices injected
+864291000006118,total hepatectomy
+879211000006117,infectious hepatitis
+879231000006111,other hepatitis
+886501000006115,alcoholic liver damage nos
+906001000006117,[rfc] liver failure
+906081000006114,[rfc] cirrhosis
+906101000006118,[rfc] hepatitis
+987751000006119,oesophageal varices injected
+990631000006117,oesophageal varices
+1709341000006117,liver disease due to cystic fibrosis
+1736361000000112,cystic fibrosis related cirrhosis
+1774591000006111,simvastatin contraindicated
+1787091000000110,simvastatin contraindicated
+1814911000006116,acute viral hepatitis
+1854791000006116,cystic fibrosis with liver manifestations
+2221291000000111,discussion about liver transplantation
+2658601000006116,acute alcoholic liver disease
+2724641000000113,suspected acute infectious hepatitis
+2781011000006119,bleeding oesophageal varices
+2781021000006110,bleeding esophageal varices
+2816671000006112,hepatic cirrhosis
+2816681000006110,cl - cirrhosis of liver
+2847631000006117,micronodular cirrhosis
+2901091000006115,acute type a viral hepatitis
+2960621000006118,esophageal varices
+2960641000006113,oesophageal varix
+3010811000006111,primary biliary cholangitis
+3011301000006112,arteriohepatic dysplasia
+3059381000006110,chronic passive congestion of liver
+3110091000006117,acute hepatitis
+3151471000006110,"viral hepatitis, type a"
+3165681000006118,alcoholic liver disease
+3165691000006115,ald - alcoholic liver disease
+3206871000006111,macronodular cirrhosis
+3312561000006112,chronic active type b viral hepatitis
+3315061000006110,alcoholic fatty liver disease
+3331291000006117,hepatorenal failure
+3427151000006119,bleeding varices
+3507191000006112,chronic type b viral hepatitis
+3515871000006112,fibrosis of liver
+3574401000006110,type b viral hepatitis
+3574451000006114,viral hepatitis type b
+3678081000006113,subacute non-infective hepatitis
+3686271000006112,pld - polycystic liver disease
+3686301000006114,polycystic liver disease
+3713561000006119,cardiac cirrhosis
+3748921000006116,acute type b viral hepatitis
+3760671000006116,congenital biliary atresia
+3760691000006115,atresia of bile ducts
+3847441000006119,congenital atresia of extrahepatic bile duct
+3847451000006117,extrahepatic biliary atresia
+3980471000006110,gastric varix
+4058511000006118,cholestatic hepatitis
+4353641000006110,toxic cirrhosis
+4355091000006112,latent cirrhosis
+4656741000006118,fibreoptic oesophagoscopy and injection sclerotherapy of varices
+4656781000006112,fibreoptic oesophagoscopy and banding of oesophageal varices
+4657131000006113,rigid oesophagoscopy and injection sclerotherapy of varices
+4657171000006111,rigid oesophagoscopy and banding of oesophageal varices
+4657181000006114,rigid esophagoscopic banding of esophageal varices
+4657381000006111,balloon tamponade of oesophagus
+4742761000006113,cytomegalovirus hepatitis
+4742781000006115,cmv - cytomegalovirus hepatitis
+4779691000006115,oesophageal varices associated with another disorder
+4779721000006113,"oesophageal varices with bleeding, associated with another disorder"
+4787031000006110,alf - acute liver failure
+4787291000006118,nafld - nonalcoholic fatty liver disease
+4787861000006113,psc - primary sclerosing cholangitis
+5077141000006116,balloon tamponade of oesophagus using sengstaken-blakemore tube
+5086751000006111,drug-induced hepatitis
+5086841000006119,chronic hepatic failure
+5086961000006111,autoimmune liver disease
+5193901000006112,liver damage
+5524681000006114,cirrhosis secondary to cholestasis
+5913221000006114,infectious mononucleosis hepatitis
+6349661000006117,early cirrhosis
+6947461000006115,alcoholic cirrhosis
+6947471000006110,alcoholic liver cirrhosis
+7133411000006113,acute rejection of liver transplant
+7261021000006117,steatohepatitis
+7266931000006113,nash - nonalcoholic steatohepatitis
+7559751000006113,compensated liver disease
+7630871000006114,end stage liver disease
+7700651000006119,chronic alcoholic liver disease
+7743871000006114,decompensated cirrhosis of liver
+7743881000006112,decompensated cirrhosis
+7821631000006114,fibrosis of liver caused by alcohol
+7821651000006119,autoimmune hepatitis type 1
+7837271000006119,non-alcoholic fatty liver disease without non-alcoholic steatohepatitis
+8269611000006112,acute infectious hepatitis
+8458711000006115,ascites due to alcoholic cirrhosis
+12456711000006114,[v]assessment for liver transplant
+13519221000006112,acute infectious hepatitis
+14146411000006112,oesophageal varices due to cirrhosis of liver
+14146421000006116,oesophageal varices due to cirrhosis of liver caused by alcohol
+43909016,replacement of aortic valve
+270912013,revascularisation of wall of heart
+270944012,allograft replacement of aortic valve
+270949019,replacement of aortic valve nec
+271073015,saphenous vein graft replacement of one coronary artery
+271087015,allograft bypass of coronary artery
+271088013,allograft replacement of coronary artery
+271089017,allograft replacement of one coronary artery
+271095016,other specified allograft replacement of coronary artery
+271096015,allograft replacement of coronary artery nos
+271097012,prosthetic bypass of coronary artery
+271105012,revision of bypass for coronary artery
+271106013,revision of bypass for one coronary artery
+271112015,other specified revision of bypass for coronary artery
+271113013,revision of bypass for coronary artery nos
+271115018,creation of bypass from mammary artery to coronary artery
+271170015,other specified other bypass of coronary artery
+271171016,other bypass of coronary artery nos
+271431019,other bypass of bifurcation of aorta
+271444012,other specified other bypass of bifurcation of aorta
+271445013,other bypass of bifurcation of aorta nos
+271471012,other emergency bypass of segment of aorta
+271477011,other specified other emergency bypass of segment of aorta
+271478018,other emergency bypass of segment of aorta nos
+271479014,other bypass of segment of aorta
+271485019,other specified other bypass of segment of aorta
+271486018,other bypass of segment of aorta nos
+271530016,intracranial bypass to carotid artery
+271531017,bypass of carotid artery
+271602011,bypass of subclavian artery
+271603018,bypass of axillary artery
+271604012,bypass of vertebral artery
+271609019,bypass of brachial artery
+271720011,bypass of coeliac artery nec
+271722015,bypass of superior mesenteric artery nec
+271723013,bypass of inferior mesenteric artery nec
+271725018,bypass of suprarenal artery nec
+271743019,bypass of visceral branch of abdominal aorta nec
+271865013,emergency bypass of iliac artery by unspecified anastomosis
+271867017,other specified other bypass of iliac artery
+271868010,other bypass of iliac artery nos
+272003016,other bypass of femoral artery or popliteal artery nos
+272175010,other bypass operations on vein
+272178012,other specified bypass operation on vein
+272181019,bypass operation on vein nos
+349661010,other bypass of superficial femoral artery
+349664019,other bypass of deep femoral artery
+349665018,other bypass of common femoral artery
+349666017,other bypass of femoral or popliteal artery by anastomosis
+349667014,other emergency bypass of femoral artery
+349668016,other emergency bypass of superficial femoral artery
+349669012,other emergency bypass of popliteal artery
+349670013,other emergency bypass of deep femoral artery
+349671012,other emergency bypass of common femoral artery
+349677011,other bypass of iliac artery by anastomosis
+394338018,other emergency bypass of femoral artery or popliteal artery
+394339014,arterial bypass of lower limb artery
+499653015,cardiopulmonary bypass
+1221554018,other autograft bypass of coronary artery
+1228282017,saphenous vein graft replacement of coronary artery
+1235382014,bypass of renal artery
+11211000006110,other specified extraanatomic bypass of aorta
+31351000006112,other emergency bypass of femoral or popliteal artery nos
+31361000006114,other emergency bypass of femoral or popliteal artery os
+36061000006118,other bypass of femoral artery or popliteal artery os
+161451000006116,saphenous vein graft replacement of coronary artery
+238561000006119,percutaneous transluminal balloon angioplasty of bypass graft of coronary artery
+238571000006114,percutaneous transluminal balloon angioplasty of multiple coronary arteries
+238601000006119,percut translum inject therap subst to coronary artery nec
+238641000006117,percutaneous transluminal balloon angioplasty of one coronary artery
+354901000000117,percutaneous transluminal atherectomy of coronary artery
+373401000000110,modified ultrafiltration adjunct cardiopulmonary bypass
+375781000000110,intracranial bypass from carotid artery nec
+376701000000111,replacement of aortic root using homograft
+376721000000119,replacement of aortic root
+384161000000110,replacement of aortic root using mechanical prosthesis
+530051000006117,bypass aorta by anastomosis axillary to femoral artery nec
+530061000006115,bypass of bifurcation of aorta by anastomosis of aorta to femoral artery
+530071000006110,bypass of bifurcation of aorta by anastomosis of aorta to iliac artery
+530091000006111,bypass common iliac artery by aorta/com iliac art anast nec
+530111000006119,bypass femoral artery by fem/peron a anast c prosthesis nec
+530121000006110,bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft
+530131000006113,bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis
+530141000006115,bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft
+530151000006118,bypass femoral artery by fem/tib art anast c prosthesis nec
+530161000006116,bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft
+530181000006114,bypass iliac artery by aorta/ext iliac art anastomosis nec
+530191000006112,bypass iliac artery by femoral/femoral art anastomosis nec
+530201000006110,bypass of iliac artery by anastomosis of iliac artery to femoral artery
+530211000006113,bypass iliac artery by iliac/iliac artery anastomosis nec
+530221000006117,bypass leg artery by aorta/com femoral art anastomosis nec
+530231000006119,bypass leg artery by aorta/deep femoral art anastomosis nec
+530261000006111,bypass of abdominal aorta by anastomosis aorta to aorta nec
+530271000006116,bypass of ascending aorta by anastomosis aorta to aorta nec
+530511000006110,bypass of infrarenal aorta by anastomosis aorta to aorta nec
+530711000006115,bypass of suprarenal aorta by anastomosis aorta to aorta nec
+530731000006114,bypass of thoracic aorta by anastomosis aorta to aorta nec
+530781000006110,bypass popliteal art by pop/peron art anast c vein graft nec
+530791000006113,bypass popliteal artery by pop/fem artery anastomosis nec
+530801000006114,bypass popliteal artery by pop/peron art anast c prosth nec
+530811000006112,bypass popliteal artery by pop/pop a anast c prosthesis nec
+530821000006116,bypass popliteal artery by pop/pop a anast c vein graft nec
+530831000006118,bypass popliteal artery by pop/tib a anast c prosthesis nec
+530841000006111,bypass popliteal artery by pop/tib a anast c vein graft nec
+639341000006115,emergency bypass of aorta by anastomosis of axillary artery to femoral artery
+639351000006118,emerg bypass abdominal aorta by anastom aorta to aorta nec
+639361000006116,emerg bypass ascending aorta by anastom aorta to aorta nec
+639371000006111,emergency bypass of bifurcation of aorta by anastomosis of aorta to femoral artery
+639381000006114,emergency bypass of bifurcation of aorta by anastomosis of aorta to iliac artery
+639391000006112,emerg bypass comm iliac art by aorta/com iliac art anast nec
+639421000006116,emerg bypass femoral art by fem/pop a anast c vein graft nec
+639461000006110,emerg bypass femoral artery by fem/fem art anastomosis nec
+639481000006117,emerg bypass iliac artery by aorta/ext iliac art anast nec
+639491000006119,emerg bypass iliac artery by femoral/femoral art anast nec
+639501000006110,emerg bypass iliac artery by iliac/iliac art anastomosis nec
+639511000006113,emerg bypass infrarenal aorta by anastom aorta to aorta nec
+639521000006117,emerg bypass leg artery by aorta/com fem art anastomosis nec
+639531000006119,emerg bypass leg artery by aorta/deep fem anastomosis nec
+639541000006112,emerg bypass pop art by pop/peron art anast c vein graft nec
+639551000006114,emerg bypass pop art by pop/pop art anast c vein graft nec
+639561000006111,emerg bypass pop art by pop/tib art anast c vein graft nec
+639601000006111,emerg bypass popliteal artery by pop/fem art anastomosis nec
+639621000006118,emerg bypass thoracic aorta by anatomosis aorta to aorta nec
+659501000006114,extraanatomic bypass of aorta
+659511000006112,extraanatomic bypass of aorta nos
+865111000006116,indirect heart revascularisat.
+865301000006116,percut angiopl coronary artery
+1547181000006114,replacement of aortic root using pulmonary valve autograft with right ventricle to pulmonary artery valved conduit
+1547311000006116,percutaneous transluminal cutting balloon angioplasty of coronary artery
+1547631000006117,percutaneous transluminal balloon angioplasty with insertion of stent into coronary artery
+1547641000006110,percutaneous transluminal balloon angioplasty and insertion of drug eluting stent into coronary artery
+1547671000006119,percutaneous cor balloon angiop 3 more stents cor art nec
+1548241000006113,high-flow interposition extracranial to intracranial bypass from external carotid artery to middle cerebral artery
+1548251000006110,bypass of carotid artery by anastomosis of superficial temporal artery to middle cerebral artery
+1767701000006110,bypass of aorta by anastomosis of axillary artery to bilateral femoral arteries
+2676641000006116,percutaneous angioplasty of coronary artery
+2715071000006111,femoral-distal bypass with peroneal artery
+3535951000006117,cardiopulmonary bypass operation
+3535981000006113,cpb - cardiopulmonary bypass
+3821811000006110,heart revascularisation
+4317911000006116,"coronary artery bypass graft, anastomosis of artery of thorax to coronary artery"
+4666361000006110,extra-anatomic bypass of aorta
+5040281000006119,percutaneous endarterectomy of coronary artery
+5041981000006116,replacement of implanted aortic valve
+5051631000006113,revascularisation of finger
+5051671000006111,revascularisation of lower limb
+5051731000006116,revascularisation of toe
+5191511000006118,blood sampling from cardiopulmonary bypass circuit
+5837271000006115,revascularisation - action
+5837281000006117,revascularisation
+6583131000006110,percutaneous rotational coronary endarterectomy
+7224981000006113,bypass of axillary artery to brachial artery using vein graft
+7350201000006111,bypass of segment of abdominal aorta by anastomosis of aorta to aorta
+7358161000006119,percutaneous transluminal injection of therapeutic substance into coronary artery
+7368571000006113,replacement of aortic root using pulmonary valve autograft and replacement of pulmonary valve
+7368581000006111,replacement of aortic root using pulmonary valve autograft and replacement of pulmonary valve (ross procedure)
+12120191000006118,revision of bypass of femoral artery with anastomosis of femoral artery to femoral artery using prosthesis
+13961541000006110,coronary artery bypass graft using free lima (left internal mammary artery) graft
+13961751000006115,percutaneous coronary intervention of left coronary artery
+13961761000006118,pci (percutaneous coronary intervention) of lca (left coronary artery)
+13961781000006111,pci (percutaneous coronary intervention) of left anterior descending branch of coronary artery
+13961791000006114,percutaneous coronary intervention of circumflex branch of left coronary artery
+13961801000006110,pci (percutaneous coronary intervention) of circumflex branch of left coronary artery
+13961811000006113,percutaneous coronary intervention of right coronary artery
+13961821000006117,pci (percutaneous coronary intervention) of rca (right coronary artery)

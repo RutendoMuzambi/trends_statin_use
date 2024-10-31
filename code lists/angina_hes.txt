@@ -1,0 +1,5 @@
+icd10,description
+I20.0,unstable angina
+I20.1,angina pectoris with documented spasm
+I20.8,other forms of angina pectoris
+I20.9,"angina pectoris, unspecified"

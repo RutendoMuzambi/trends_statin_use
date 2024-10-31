@@ -1,0 +1,55 @@
+icd10,description
+B18.0 ,Chronic viral hepatitis B with delta-agent
+B18.1  ,Chronic viral hepatitis B without delta-agent
+B18.2  ,Chronic viral hepatitis C
+B18.8  ,Other chronic viral hepatitis
+B18.9  ,"Chronic viral hepatitis, unspecified"
+K70.0  ,Alcoholic fatty liver
+K70.10  ,Alcoholic hepatitis without ascites
+K70.11  ,Alcoholic hepatitis with ascites
+K70.2  ,Alcoholic fibrosis and sclerosis of liver
+K70.30  , Alcoholic cirrhosis of liver without ascites
+K70.31  ,Alcoholic cirrhosis of liver with ascites
+K70.9  ,"Alcoholic liver disease, unspecified"
+K71.3  ,Toxic liver disease with chronic persistent hepatitis
+K71.50,Toxic liver disease with chronic active hepatitis without ascites
+K71.51,Toxic liver disease with chronic active hepatitis with ascites
+K71.7  ,Toxic liver disease with fibrosis and cirrhosis of liver
+K73.0  ,"Chronic persistent hepatitis, not elsewhere classified"
+K73.1  ,"Chronic lobular hepatitis, not elsewhere classified"
+K73.2  ,"Chronic active hepatitis, not elsewhere classified"
+K73.8  ,"Other chronic hepatitis, not elsewhere classified"
+K73.9  ,"Chronic hepatitis, unspecified"
+K74.00 ,"Hepatic fibrosis, unspecified"
+K74.01  ,"Hepatic fibrosis, early fibrosis"
+K74.02  ,"Hepatic fibrosis, advanced fibrosis"
+K74.1  ,Hepatic sclerosis
+K74.2  ,Hepatic fibrosis with hepatic sclerosis
+K74.3  ,Primary biliary cirrhosis
+K74.4  ,Secondary biliary cirrhosis
+K74.5  ,"Biliary cirrhosis, unspecified"
+K74.60,Unspecified cirrhosis of liver
+K74.69,Other cirrhosis of liver
+K76.0  ,"Fatty (change of) liver, not elsewhere classified"
+K76.2  ,Central hemorrhagic necrosis of liver
+K76.3  ,Infarction of liver
+K76.4  ,Peliosis hepatis
+K76.81,Hepatopulmonary syndrome
+K76.89  ,Other specified diseases of liver
+K76.9  ,"Liver disease, unspecified"
+Z94.4,Liver transplant status
+I85.00 ,Esophageal varices without bleeding
+I85.01 ,Esophageal varices with bleeding
+I86.4,Gastric varices
+I98.2,Oesophageal varices in diseases classified elsewhere
+K70.40 ,Alcoholic hepatic failure without coma
+K70.41  ,Alcoholic hepatic failure with coma
+K71.10,"Toxic liver disease with hepatic necrosis, without coma"
+K71.11,"Toxic liver disease with hepatic necrosis, with coma"
+K72.10,Chronic hepatic failure without coma
+K72.11,Chronic hepatic failure with coma
+K72.90,"Hepatic failure, unspecified without coma"
+K72.91,"Hepatic failure, unspecified with coma"
+K76.5,Hepatic veno-occlusive disease
+K76.6,Portal hypertension
+K76.7,Hepatorenal syndrome

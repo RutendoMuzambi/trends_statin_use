@@ -1,0 +1,190 @@
+opcs_code,opcs_term
+,
+K40,Saphenous vein graft replacement of coronary artery
+K40.1,Saphenous vein graft replacement of one coronary artery
+K40.2,Saphenous vein graft replacement of two coronary arteries
+K40.3,Saphenous vein graft replacement of three coronary arteries
+K40.4,Saphenous vein graft replacement of four or more coronary arteries
+K40.8,Other specified saphenous vein graft replacement of coronary artery
+K40.9,Unspecified saphenous vein graft replacement of coronary artery
+K41,Other autograft replacement of coronary artery
+K41.1,Autograft replacement of one coronary artery NEC
+K41.2,Autograft replacement of two coronary arteries NEC
+K41.3,Autograft replacement of three coronary arteries NEC
+K41.4,Autograft replacement of four or more coronary arteries NEC
+K41.8,Other specified other autograft replacement of coronary artery
+K41.9,Unspecified other autograft replacement of coronary artery
+K42,Allograft replacement of coronary artery
+K42.1,Allograft replacement of one coronary artery
+K42.2,Allograft replacement of two coronary arteries
+K42.3,Allograft replacement of three coronary arteries
+K42.4,Allograft replacement of four or more coronary arteries
+K42.8,Other specified allograft replacement of coronary artery
+K42.9,Unspecified allograft replacement of coronary artery
+K43,Prosthetic replacement of coronary artery
+K43.1,Prosthetic replacement of one coronary artery
+K43.2,Prosthetic replacement of two coronary arteries
+K43.3,Prosthetic replacement of three coronary arteries
+K43.4,Prosthetic replacement of four or more coronary arteries
+K43.8,Other specified prosthetic replacement of coronary artery
+K43.9,Unspecified prosthetic replacement of coronary artery
+K44,Other replacement of coronary artery
+K44.1,Replacement of coronary arteries using multiple methods
+K44.2,Revision of replacement of coronary artery
+K44.8,Other specified other replacement of coronary artery
+K44.9,Unspecified other replacement of coronary artery
+K45,Connection of thoracic artery to coronary artery
+K45.1,Double anastomosis of mammary arteries to coronary arteries
+K45.2,Double anastomosis of thoracic arteries to coronary arteries NEC
+K45.3,Anastomosis of mammary artery to left anterior descending coronary artery
+K45.4,Anastomosis of mammary artery to coronary artery NEC
+K45.5,Anastomosis of thoracic artery to coronary artery NEC
+K45.6,Revision of connection of thoracic artery to coronary artery
+K45.8,Other specified connection of thoracic artery to coronary artery
+K45.9,Unspecified connection of thoracic artery to coronary artery
+K46,Other bypass of coronary artery
+K46.1,Double implantation of mammary arteries into heart
+K46.2,Double implantation of thoracic arteries into heart NEC
+K46.3,Implantation of mammary artery into heart NEC
+K46.4,Implantation of thoracic artery into heart NEC
+K46.5,Revision of implantation of thoracic artery into heart
+K46.8,Other specified other bypass of coronary artery
+K46.9,Unspecified other bypass of coronary artery
+K47.1,Endarterectomy of coronary artery
+K48.3,Open angioplasty of coronary artery
+K49,Transluminal balloon angioplasty of coronary artery
+K49.1,Percutaneous transluminal balloon angioplasty of one coronary artery
+K49.2,Percutaneous transluminal balloon angioplasty of multiple coronary arteries
+K49.3,Percutaneous transluminal balloon angioplasty of bypass graft of coronary artery
+K49.4,Percutaneous transluminal cutting balloon angioplasty of coronary artery
+K49.8,Other specified transluminal balloon angioplasty of coronary artery
+K49.9,Unspecified transluminal balloon angioplasty of coronary artery
+K50,Other therapeutic transluminal operations on coronary artery
+K50.1,Percutaneous transluminal laser coronary angioplasty
+K50.2,Percutaneous transluminal coronary thrombolysis using streptokinase
+K50.3,Percutaneous transluminal injection of therapeutic substance into coronary artery NEC
+K50.4,Percutaneous transluminal atherectomy of coronary artery
+K50.8,Other specified other therapeutic transluminal operations on coronary artery
+K50.9,Unspecified other therapeutic transluminal operations on coronary artery
+K75,Percutaneous transluminal balloon angioplasty and insertion of stent into coronary artery
+K75.1,Percutaneous transluminal balloon angioplasty and insertion of 1-2 drug-eluting stents into coronary artery
+K75.2,Percutaneous transluminal balloon angioplasty and insertion of 3 or more drug-eluting stents into coronary artery
+K75.3,Percutaneous transluminal balloon angioplasty and insertion of 1-2 stents into coronary artery
+K75.4,Percutaneous transluminal balloon angioplasty and insertion of 3 or more stents into coronary artery NEC
+K75.8,Other specified percutaneous transluminal balloon angioplasty and insertion of stent into coronary artery
+K75.9,Unspecified percutaneous transluminal balloon angioplasty and insertion of stent into coronary artery
+L18,Emergency replacement of aneurysmal segment of aorta
+L18.4,Emergency replacement of aneurysmal segment of infrarenal abdominal aorta by anastomosis of aorta to aorta
+L18.5,Emergency replacement of aneurysmal segment of abdominal aorta by anastomosis of aorta to aorta NEC
+L18.8,Other specified emergency replacement of aneurysmal segment of aorta
+L18.9,Unspecified emergency replacement of aneurysmal segment of aorta
+L19,Other replacement of aneurysmal segment of aorta
+L19.3,Replacement of aneurysmal segment of suprarenal abdominal aorta by anastomosis of aorta to aorta NEC
+L19.4,Replacement of aneurysmal segment of infrarenal abdominal aorta by anastomosis of aorta to aorta NEC
+L19.5,Replacement of aneurysmal segment of abdominal aorta by anastomosis of aorta to aorta NEC
+L19.6,Replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery NEC
+L19.8,Other specified other replacement of aneurysmal segment of aorta
+L19.9,Unspecified other replacement of aneurysmal segment of aorta
+L20,Other emergency bypass of segment of aorta
+L20.3,Emergency bypass of segment of suprarenal abdominal aorta by anastomosis of aorta to aorta NEC
+L20.4,Emergency bypass of segment of infrarenal abdominal aorta by anastomosis of aorta to aorta NEC
+L20.5,Emergency bypass of segment of abdominal aorta by anastomosis of aorta to aorta NEC
+L20.6,Emergency bypass of bifurcation of aorta by anastomosis of aorta to iliac artery NEC
+L22.2,Revision of prosthesis of bifurcation of aorta
+L22.3,Revision of prosthesis of abdominal aorta NEC
+L22.4,Removal of prosthesis from aorta
+L23.5,Revision of plastic repair of aorta
+L25.4,Operations on aneurysm of aorta NEC
+L27,Transluminal insertion of stent graft for aneurysmal segment of aorta
+L27.1,Endovascular insertion of stent graft for infrarenal abdominal aortic aneurysm
+L27.2,Endovascular insertion of stent graft for suprarenal aortic aneurysm
+L27.5,Endovascular insertion of stent graft for aortic aneurysm of bifurcation NEC
+L27.6,Endovascular insertion of stent graft for aorto-uniiliac aneurysm
+L27.8,Other specified transluminal insertion of stent graft for aneurysmal segment of aorta
+L27.9,Unspecified transluminal insertion of stent graft for aneurysmal segment of aorta
+L28,Transluminal operations on aneurysmal segment of aorta
+L28.1,Endovascular insertion of stent for infrarenal abdominal aortic aneurysm
+L28.2,Endovascular insertion of stent for suprarenal aortic aneurysm
+L28.5,Endovascular insertion of stent for aortic aneurysm of bifurcation NEC
+L28.6,Endovascular insertion of stent for aorto-uniiliac aneurysm
+L29.4,Endarterectomy of carotid artery and patch repair of carotid artery
+L29.5,Endarterectomy of carotid artery NEC
+L29.6,High-flow interposition extracranial to intracranial bypass from external carotid artery to middle cerebral artery
+L29.7,Bypass of carotid artery by anastomosis of superficial temporal artery to middle cerebral artery
+L31.1,Percutaneous transluminal angioplasty of carotid artery
+L31.4,Percutaneous transluminal insertion of stent into carotid artery
+L35.3,Percutaneous transluminal insertion of stent into cerebral artery
+L37.2,Endarterectomy of vertebral artery
+L50,Other emergency bypass of iliac artery
+L50.1,Emergency bypass of common iliac artery by anastomosis of aorta to common iliac artery NEC
+L50.2,Emergency bypass of iliac artery by anastomosis of aorta to external iliac artery NEC
+L50.3,Emergency bypass of artery of leg by anastomosis of aorta to common femoral artery NEC
+L50.4,Emergency bypass of artery of leg by anastomosis of aorta to deep femoral artery NEC
+L50.5,Emergency bypass of iliac artery by anastomosis of iliac artery to iliac artery NEC
+L50.6,Emergency bypass of artery of leg by anastomosis of iliac artery to femoral artery NEC
+L50.8,Other specified other emergency bypass of iliac artery
+L50.9,Unspecified other emergency bypass of iliac artery
+L51,Other bypass of iliac artery
+L51.1,Bypass of common iliac artery by anastomosis of aorta to common iliac artery NEC
+L51.2,Bypass of iliac artery by anastomosis of aorta to external iliac artery NEC
+L51.3,Bypass of artery of leg by anastomosis of aorta to common femoral artery NEC
+L51.4,Bypass of artery of leg by anastomosis of aorta to deep femoral artery NEC
+L51.5,Bypass of iliac artery by anastomosis of iliac artery to iliac artery NEC
+L51.6,Bypass of artery of leg by anastomosis of iliac artery to femoral artery NEC
+L51.8,Other specified other bypass of iliac artery
+L51.9,Unspecified other bypass of iliac artery
+L52,Reconstruction of iliac artery
+L52.1,Endarterectomy of iliac artery and patch repair of iliac artery
+L52.2,Endarterectomy of iliac artery NEC
+L52.8,Other specified reconstruction of iliac artery
+L52.9,Unspecified reconstruction of iliac artery
+L53,Other open operations on iliac artery
+L53.1,Repair of iliac artery NEC
+L53.2,Open embolectomy of iliac artery
+L54.1,Percutaneous transluminal angioplasty of iliac artery
+L54.2,Percutaneous transluminal embolectomy of iliac artery
+L54.4,Percutaneous transluminal insertion of stent into iliac artery
+L54.8,Other specified transluminal operations on iliac artery
+L54.9,Unspecified transluminal operations on iliac artery
+L58,Other emergency bypass of femoral artery
+L58.1,Emergency bypass of femoral artery by anastomosis of femoral artery to femoral artery NEC
+L58.2,Emergency bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis NEC
+L58.3,Emergency bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC
+L58.4,Emergency bypass of femoral artery by anastomosis of femoral artery to tibial artery using prosthesis NEC
+L58.5,Emergency bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC
+L58.6,Emergency bypass of femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis NEC
+L58.7,Emergency bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC
+L58.8,Other specified other emergency bypass of femoral artery
+L58.9,Unspecified other emergency bypass of femoral artery
+L59,Other bypass of femoral artery
+L59.1,Bypass of femoral artery by anastomosis of femoral artery to femoral artery NEC
+L59.2,Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis NEC
+L59.3,Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC
+L59.4,Bypass of femoral artery by anastomosis of femoral artery to tibial artery using prosthesis NEC
+L59.5,Bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC
+L59.6,Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis NEC
+L59.7,Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC
+L59.8,Other specified other bypass of femoral artery
+L59.9,Unspecified other bypass of femoral artery
+L60,Reconstruction of femoral artery
+L60.1,Endarterectomy of femoral artery and patch repair of femoral artery
+L60.2,Endarterectomy of femoral artery NEC
+L60.3,Profundoplasty of femoral artery and patch repair of deep femoral artery
+L60.4,Profundoplasty of femoral artery NEC
+L60.8,Other specified reconstruction of femoral artery
+L60.9,Unspecified reconstruction of femoral artery
+L62,Other open operations on femoral artery
+L62.1,Repair of femoral artery NEC
+L62.2,Open embolectomy of femoral artery
+L62.8,Other specified other open operations on femoral artery
+L62.9,Unspecified other open operations on femoral artery
+L63.1,Percutaneous transluminal angioplasty of femoral artery
+L63.2,Percutaneous transluminal embolectomy of femoral artery
+L63.3,Percutaneous transluminal embolisation of femoral artery
+L63.5,Percutaneous transluminal insertion of stent into femoral artery
+L65,Revision of reconstruction of artery
+L65.1,Revision of reconstruction involving aorta
+L65.2,Revision of reconstruction involving iliac artery
+L65.3,Revision of reconstruction involving femoral artery
+L97.2,Peroperative angioplasty
+U54.3,Delivery of rehabilitation for stroke

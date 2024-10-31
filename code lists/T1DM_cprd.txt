@@ -1,0 +1,153 @@
+medcodeid,term
+77727018,insulin dependent diabetes mellitus
+197984010,type 1 diabetes mellitus
+292482014,"diabetes mellitus, juvenile type, with hyperosmolar coma"
+292538019,type i diabetes mellitus with ulcer
+292540012,type 1 diabetes mellitus with ulcer
+292541011,type 1 diabetes mellitus with gangrene
+292543014,type i diabetes mellitus with gangrene
+292548017,type 1 diabetes mellitus - poor control
+292550013,type i diabetes mellitus - poor control
+292551012,type i diabetes mellitus maturity onset
+292553010,type 1 diabetes mellitus maturity onset
+429970018,unstable type i diabetes mellitus
+429971019,unstable type 1 diabetes mellitus
+429972014,unstable insulin dependent diabetes mellitus
+457325013,type i diabetes mellitus without complication
+457326014,type 1 diabetes mellitus without complication
+459161015,type 1 diabetes mellitus with hypoglycaemic coma
+459162010,insulin dependent diabetes mellitus with hypoglycaemic coma
+459163017,type i diabetes mellitus with hypoglycaemic coma
+459292011,type 1 diabetes mellitus with arthropathy
+459293018,insulin dependent diabetes mellitus with arthropathy
+459294012,type i diabetes mellitus with arthropathy
+459296014,type 1 diabetes mellitus with neuropathic arthropathy
+494564012,type i diabetes mellitus
+1780311019,type 1 diabetes mellitus with persistent microalbuminuria
+2967831017,pre-existing type 1 diabetes mellitus in pregnancy
+72651000006114,unstable insulin dependent diabetes mellitus
+72711000006117,unstable type 1 diabetes mellitus
+72721000006113,unstable type i diabetes mellitus
+84281000006115,type 1 diabetes mellitus
+84291000006117,type 1 diabetes mellitus - poor control
+84301000006116,type 1 diabetes mellitus maturity onset
+84311000006118,type 1 diabetes mellitus with arthropathy
+84321000006114,type 1 diabetes mellitus with diabetic cataract
+84331000006112,type 1 diabetes mellitus with gangrene
+84341000006119,type 1 diabetes mellitus with hypoglycaemic coma
+84361000006115,type 1 diabetes mellitus with multiple complications
+84371000006110,type 1 diabetes mellitus with nephropathy
+84381000006113,type 1 diabetes mellitus with neurological complications
+84391000006111,type 1 diabetes mellitus with neuropathic arthropathy
+84401000006113,type 1 diabetes mellitus with ophthalmic complications
+84421000006115,type 1 diabetes mellitus with polyneuropathy
+84431000006117,type 1 diabetes mellitus with renal complications
+84441000006110,type 1 diabetes mellitus with retinopathy
+84451000006112,type 1 diabetes mellitus with ulcer
+84461000006114,type 1 diabetes mellitus without complication
+84651000006114,type i diabetes mellitus
+84661000006111,type i diabetes mellitus poorly controlled
+84671000006116,type i diabetes mellitus maturity onset
+84681000006118,type i diabetes mellitus with arthropathy
+84701000006115,type i diabetes mellitus with gangrene
+84711000006117,type i diabetes mellitus with hypoglycaemic coma
+84721000006113,mononeuropathy with type 1 diabetes mellitus
+84731000006111,multiple complications of type 1 diabetes mellitus
+84741000006118,type i diabetes mellitus with nephropathy
+84751000006116,type i diabetes mellitus with neurological complications
+84761000006119,type i diabetes mellitus with neuropathic arthropathy
+84771000006114,disorder of eye with type 1 diabetes mellitus
+84781000006112,type i diabetes mellitus with peripheral angiopathy
+84801000006111,type i diabetes mellitus with renal complications
+84811000006114,type i diabetes mellitus with retinopathy
+84821000006118,type i diabetes mellitus with ulcer
+84831000006115,type i diabetes mellitus without complication
+299601000000114,gastroparesis with type 1 diabetes mellitus
+616591000006117,"diabetes mellitus, juvenile +peripheral circulatory disorder"
+616601000006113,"diabetes mellitus, juvenile type, + ophthalmic manifestation"
+616611000006111,disorder due to type 1 diabetes mellitus
+616621000006115,type 1 diabetes mellitus without complication
+616641000006110,"diabetes mellitus, juvenile type, with ketoacidosis"
+616651000006112,"diabetes mellitus, juvenile type, with ketoacidotic coma"
+616661000006114,"diabetes mellitus, juvenile type, with renal manifestation"
+616671000006119,"diabetes mellitus, juvenile, + neurological manifestation"
+616681000006116,"diabetes mellitus, juvenile, + other specified manifestation"
+771331000006116,insulin dependent diabetes mellitus with arthropathy
+771341000006114,insulin dependent diabetes mellitus with diabetic cataract
+771351000006111,insulin dependent diabetes mellitus with gangrene
+771361000006113,insulin dependent diabetes mellitus with hypoglycaemic coma
+771371000006118,insulin dependent diabetes mellitus with mononeuropathy
+771381000006115,insulin dependent diabetes mellitus with multiple complicatn
+771391000006117,insulin dependent diabetes mellitus with nephropathy
+771401000006115,insulin dependent diabetes mellitus with polyneuropathy
+771411000006117,insulin dependent diabetes mellitus with retinopathy
+771421000006113,insulin dependent diabetes mellitus with ulcer
+772151000006116,insulin dependent diabetes maturity onset
+772161000006119,insulin dependent diabetes mellitus
+772171000006114,insulin dependent diabetes mellitus
+772181000006112,insulin dependent diabetes mellitus - poor control
+787101000006114,iddm with peripheral circulatory disorder
+787111000006112,iddm-insulin dependent diabetes mellitus
+881441000006111,diabetes mellitus - juvenile
+913451000006117,type 1 diabetes mellitus with renal complications
+913461000006115,type i diabetes mellitus with renal complications
+913481000006113,type 1 diabetes mellitus with ophthalmic complications
+913491000006111,type i diabetes mellitus with ophthalmic complications
+913511000006117,type 1 diabetes mellitus with neurological complications
+913521000006113,neurological disorder with type 1 diabetes mellitus
+913531000006111,insulin dependent diabetes mellitus with multiple complicat
+913541000006118,type 1 diabetes mellitus with multiple complications
+913551000006116,type i diabetes mellitus with multiple complications
+913621000006112,insulin dependent diabetes mellitus with gangrene
+913651000006115,insulin dependent diabetes mellitus with retinopathy
+913661000006118,retinopathy with type 1 diabetes mellitus
+913671000006113,type i diabetes mellitus with retinopathy
+913681000006111,insulin dependent diabetes mellitus - poor control
+913711000006112,insulin dependent diabetes maturity onset
+913771000006115,insulin dependent diabetes mellitus with mononeuropathy
+913781000006117,type 1 diabetes mellitus with mononeuropathy
+913791000006119,type i diabetes mellitus with mononeuropathy
+913801000006118,insulin dependent diabetes mellitus with polyneuropathy
+913811000006115,type 1 diabetes mellitus with polyneuropathy
+913821000006111,type i diabetes mellitus with polyneuropathy
+913831000006114,insulin dependent diabetes mellitus with nephropathy
+913841000006116,renal disorder associated with type 1 diabetes mellitus
+913851000006119,type i diabetes mellitus with nephropathy
+913891000006113,insulin dependent diabetes mellitus with diabetic cataract
+913901000006112,type 1 diabetes mellitus with diabetic cataract
+913911000006110,type i diabetes mellitus with diabetic cataract
+913931000006116,type 1 diabetes mellitus with peripheral angiopathy
+913941000006114,peripheral angiopathy due to type 1 diabetes mellitus
+928461000006119,persistent proteinuria associated with type 1 diabetes mellitus
+928471000006114,type i diabetes mellitus with persistent proteinuria
+928491000006110,type i diabetes mellitus with persistent microalbuminuria
+928501000006119,ketoacidosis in type 1 diabetes mellitus
+928511000006116,type i diabetes mellitus with ketoacidosis
+928521000006112,ketoacidotic coma in type 1 diabetes mellitus
+928531000006110,type i diabetes mellitus with ketoacidotic coma
+938301000006114,exudative maculopathy with type 1 diabetes mellitus
+938311000006112,type i diabetes mellitus with exudative maculopathy
+1667941000000112,type i diabetes mellitus with gastroparesis
+2288011000000114,type i diabetes mellitus in remission
+2288041000000110,type 1 diabetes mellitus in remission
+2867431000006112,insulin dependent diabetes mellitus type ia
+5754581000006110,brittle type 1 diabetes mellitus
+6961081000006118,gangrene associated with type 1 diabetes mellitus
+7098211000006116,dietary education for type 1 diabetes mellitus
+7287611000006113,type 1 diabetes mellitus uncontrolled
+8006221000006115,microalbuminuria due to type 1 diabetes mellitus
+8024771000006113,rubeosis iridis due to type 1 diabetes mellitus
+8027491000006113,chronic kidney disease stage 5 due to type 1 diabetes mellitus
+8077141000006113,proteinuria due to type 1 diabetes mellitus
+8119331000006114,hyperglycaemia due to type 1 diabetes mellitus
+8232101000006117,referral to type i diabetes structured education programme
+12702381000006118,diabetic oculopathy due to type i diabetes mellitus
+12705071000006113,gastroparesis due to type 1 diabetes mellitus
+13966631000006113,newly diagnosed type 1 diabetes mellitus
+14083741000006114,ketoacidosis due to type 1 diabetes mellitus
+14083771000006118,exudative maculopathy due to type 1 diabetes mellitus
+14083781000006115,persistent proteinuria due to type 1 diabetes mellitus
+14083831000006112,retinopathy due to type 1 diabetes mellitus
+14083901000006110,persistent microalbuminuria due to type 1 diabetes mellitus
+14083931000006119,hypoglycaemic coma due to type 1 diabetes mellitus
+14083941000006112,disorder of nervous system due to type 1 diabetes mellitus

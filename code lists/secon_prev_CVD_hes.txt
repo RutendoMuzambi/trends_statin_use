@@ -1,0 +1,58 @@
+icd10,description
+I20.0,unstable angina
+I20.1,angina pectoris with documented spasm
+I20.8,other forms of angina pectoris
+I20.9,"angina pectoris, unspecified"
+I21,acute myocardial dysfunction
+I21.0,acute transmural myocardial infarction of anterior wall
+I21.1,acute transmural myocardial infarction of interior wall
+I21.2,acute transmural myocardial infarction of other sites
+I21.3,acute transmural myocardial infarction of unspecified site
+I21.4,acute subendocardial myocardial infarction
+I21.9,"acute myocardial infarction, unspecified"
+I22,subsequent myocardial infarction
+I22.0,subsequent myocardial infarction of anterior wall
+I22.1,subsequent myocardial infarction of inferior wall
+I22.8,subsequent myocardial infarction of other sites
+I22.9,subsequent myocardial infarction of unspecified site
+I23,certain current complications following acute myocardial infection
+I23.0,haemopericardium as current complication following acute myocardial infarction
+I23.1,atrial septal defecct as current complication
+I23.2,ventricular septal defect as current complication following acute myocardial infarction
+I23.3,rupture of cardiac wall without haemopericardium as current complication
+I23.4,rupture of chordae tendineae as current complication following acute myocardial infarction
+I23.5,rupture of papillary muscle as current complication following acute myocardial infarction
+I23.6,"thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"
+I23.8,other current complications following acute myocardial infarction
+I24,other acute ischaemic heart diseases
+I24.0,coronary thrombosis not resulting in myocardial infarction
+I24.1,dressler syndrome
+I24.8,other forms of acute ischaemic heart disease
+I24.9,"acute ischaemic heart disease, unspecified"
+I25,chronic ischaemic heart disease
+I25.0,"atherosclerotic cardiovascular disease, so described"
+I25.1,atherosclerotic heart disease
+I25.2,old myocardial infarction
+I25.3,anyeurysm of heart
+I25.4,coronary artery aneurysm and dissection
+I25.5,ischaemic cardiomyopathy
+I25.6,silent myocardial ischaemia
+I25.8,other forms of chronic ischaemic heart disease
+I25.9,"chronic ischaemic heart disease, unspecified"
+I63.0,cerebral infarction due to thrombosis of precerebral arteries
+I63.1,cerebral infarction due to embolism of precerebral arteries
+I63.2,cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+I63.3,cerebral infarction due to thrombosis of cerebral arteries
+I63.4,cerebral infarction due to embolism of cerebral arteries
+I63.5,cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+I63.6,"cerebral infarction due to cerebral venous thrombosis, nonpyogenic"
+I63.8,other cerebral infarction
+I63.9,"cerebral infarction, unspecified"
+I64,"stroke, not specified as haemorrhage or infarction"
+G45.0,vertebro-basilar artery syndrome
+G45.1,varotid artery syndrome (hemispheric)
+G45.2,multiple and bilateral precerebral artery syndromes
+G45.3,amaurosis fugax
+G45.4,transient global amnesia
+G45.8,other transient cerebral ischemic attacks and related syndromes
+G45.9,"transient cerebral ischemic attack, unspecified"

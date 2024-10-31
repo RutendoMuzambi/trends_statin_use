@@ -1,0 +1,9 @@
+icd10,description
+N18,Chronic kidney disease
+N18.0,	End-stage renal disease
+N18.1,"Chronic kidney disease, stage 1"
+N18.2,"Chronic kidney disease, stage 2"
+N18.3,"Chronic kidney disease, stage 3"
+N18.4,"Chronic kidney disease, stage 4"
+N18.5,"Chronic kidney disease, stage 5"
+N18.9,"Chronic kidney disease, unspecified"

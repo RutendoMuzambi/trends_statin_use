@@ -1,0 +1,11 @@
+icd10,description
+I63.0,cerebral infarction due to thrombosis of precerebral arteries
+I63.1,cerebral infarction due to embolism of precerebral arteries
+I63.2,cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries
+I63.3,cerebral infarction due to thrombosis of cerebral arteries
+I63.4,cerebral infarction due to embolism of cerebral arteries
+I63.5,cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries
+I63.6,"cerebral infarction due to cerebral venous thrombosis, nonpyogenic"
+I63.8,other cerebral infarction
+I63.9,"cerebral infarction, unspecified"
+I64,"stroke, not specified as haemorrhage or infarction"

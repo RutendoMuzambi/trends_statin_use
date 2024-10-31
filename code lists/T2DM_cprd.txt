@@ -1,0 +1,155 @@
+medcodeid,term
+73466011,non-insulin dependent diabetes mellitus
+197761014,type 2 diabetes mellitus
+292576013,type ii diabetes mellitus with multiple complications
+292577016,type 2 diabetes mellitus with multiple complications
+292579018,type 2 diabetes mellitus with ulcer
+292581016,type ii diabetes mellitus with ulcer
+292582011,type ii diabetes mellitus with gangrene
+292583018,type 2 diabetes mellitus with gangrene
+292589019,type ii diabetes mellitus - poor control
+292590011,type ii diabetes mellitus poorly controlled
+457329019,type 2 diabetes mellitus without complication
+457330012,type ii diabetes mellitus without complication
+459167016,type 2 diabetes mellitus with hypoglycaemic coma
+459169018,hypoglycaemic coma co-occurrent and due to diabetes mellitus type ii
+459306016,type ii diabetes mellitus with peripheral angiopathy
+459308015,type 2 diabetes mellitus with peripheral angiopathy
+459309011,non-insulin dependent diabetes mellitus with arthropathy
+459310018,type 2 diabetes mellitus with arthropathy
+459311019,type ii diabetes mellitus with arthropathy
+459312014,type ii diabetes mellitus with neuropathic arthropathy
+459313016,type 2 diabetes mellitus with neuropathic arthropathy
+493773010,niddm - non-insulin dependent diabetes mellitus
+493774016,type ii diabetes mellitus
+1223147012,insulin treated type ii diabetes mellitus
+1223148019,insulin treated non-insulin dependent diabetes mellitus
+1488898011,hyperosmolar non-ketotic state in type 2 diabetes mellitus
+2773645012,family history of diabetes mellitus type 2
+84471000006119,type 2 diabetes mellitus
+84481000006116,type 2 diabetes mellitus - poor control
+84491000006118,type 2 diabetes mellitus with arthropathy
+84501000006114,type 2 diabetes mellitus with diabetic cataract
+84511000006112,type 2 diabetes mellitus with gangrene
+84521000006116,type 2 diabetes mellitus with hypoglycaemic coma
+84531000006118,type 2 diabetes mellitus with mononeuropathy
+84541000006111,type 2 diabetes mellitus with multiple complications
+84551000006113,type 2 diabetes mellitus with nephropathy
+84561000006110,type 2 diabetes mellitus with neurological complications
+84571000006115,type 2 diabetes mellitus with neuropathic arthropathy
+84581000006117,type 2 diabetes mellitus with ophthalmic complications
+84591000006119,type 2 diabetes mellitus with peripheral angiopathy
+84601000006110,type 2 diabetes mellitus with polyneuropathy
+84611000006113,type 2 diabetes mellitus with renal complications
+84621000006117,type 2 diabetes mellitus with retinopathy
+84631000006119,type 2 diabetes mellitus with ulcer
+84641000006112,type 2 diabetes mellitus without complication
+84841000006113,type ii diabetes mellitus
+84851000006110,type ii diabetes mellitus - poor control
+84861000006112,type ii diabetes mellitus with arthropathy
+84871000006117,cataract due to diabetes mellitus type 2
+84881000006119,type ii diabetes mellitus with gangrene
+84891000006116,type ii diabetes mellitus with hypoglycaemic coma
+84901000006117,mononeuropathy with type 2 diabetes mellitus
+84911000006119,type ii diabetes mellitus with multiple complications
+84921000006110,renal disorder due to type 2 diabetes mellitus
+84941000006115,type ii diabetes mellitus with neuropathic arthropathy
+84951000006118,disorder of eye with type 2 diabetes mellitus
+84961000006116,type ii diabetes mellitus with peripheral angiopathy
+84971000006111,type ii diabetes mellitus with polyneuropathy
+84981000006114,type ii diabetes mellitus with renal complications
+84991000006112,type ii diabetes mellitus with retinopathy
+85001000006117,type ii diabetes mellitus with ulcer
+85011000006119,type ii diabetes mellitus without complication
+280511000006113,non-insulin dependent diabetes mellitus with hypoglyca coma
+280521000006117,non-insulin dependent diabetes mellitus with mononeuropathy
+280531000006119,non-insulin dependent diabetes mellitus with nephropathy
+280541000006112,non-insulin dependent diabetes mellitus with polyneuropathy
+280571000006116,non-insulin dependent diabetes mellitus
+281171000006119,type ii diabetes mellitus uncontrolled
+281181000006116,non-insulin dependent diabetes mellitus with neuropathic arthropathy
+281211000006117,gangrene associated with type 2 diabetes mellitus
+299621000000117,gastroparesis with type 2 diabetes mellitus
+616501000006112,disorder due to type 2 diabetes mellitus
+674961000006118,peripheral circulatory disorder associated with type 2 diabetes mellitus
+840951000006119,insulin treated type 2 diabetes mellitus
+840971000006112,diabetes mellitus autosomal dominant type ii
+841351000006110,insulin treated type ii diabetes mellitus
+850691000006118,hyperosmolar non-ketotic state in type 2 diabetes mellitus
+914031000006118,renal disorder associated with type ii diabetes mellitus
+914041000006111,type ii diabetes mellitus with renal complications
+914051000006113,disorder of eye with type 2 diabetes mellitus
+914061000006110,type ii diabetes mellitus with ophthalmic complications
+914071000006115,neurologic disorder associated with type 2 diabetes mellitus
+914081000006117,type ii diabetes mellitus with neurological complications
+914151000006112,retinopathy with type 2 diabetes mellitus
+914161000006114,type ii diabetes mellitus with retinopathy
+914221000006113,type 2 diabetes mellitus with mononeuropathy
+914231000006111,type ii diabetes mellitus with mononeuropathy
+914241000006118,polyneuropathy due to type 2 diabetes mellitus
+914251000006116,type ii diabetes mellitus with polyneuropathy
+914271000006114,type ii diabetes mellitus with nephropathy
+914301000006111,type 2 diabetes mellitus with diabetic cataract
+914311000006114,type ii diabetes mellitus with diabetic cataract
+914391000006116,insulin treated type 2 diabetes mellitus
+928541000006117,persistent proteinuria associated with type 2 diabetes mellitus
+928551000006115,type ii diabetes mellitus with persistent proteinuria
+928561000006118,persistent microalbuminuria associated with type 2 diabetes mellitus
+928571000006113,type ii diabetes mellitus with persistent microalbuminuria
+928581000006111,ketoacidosis in type 2 diabetes mellitus
+928591000006114,type ii diabetes mellitus with ketoacidosis
+928601000006118,ketoacidotic coma in type 2 diabetes mellitus
+928611000006115,ketoacidotic coma in type ii diabetes mellitus
+938321000006116,exudative maculopathy associated with type 2 diabetes mellitus
+938331000006118,exudative maculopathy with type 2 diabetes mellitus
+1658901000000118,type ii diabetic dietary review
+1665721000000112,type 2 diabetic dietary review
+1667891000000113,hyperosmolar non-ketotic state in type ii diabetes mellitus
+1667921000000117,type ii diabetes mellitus with gastroparesis
+1751441000006116,family history of diabetes mellitus type ii
+2288061000000111,type ii diabetes mellitus in remission
+2288071000000116,type 2 diabetes mellitus in remission
+3209431000006116,diabetes mellitus type ii
+3209441000006114,diabetes mellitus type 2
+4758011000006112,type 2 diabetes mellitus with hyperosmolar coma
+4796321000006113,pre-existing type 2 diabetes mellitus
+5110001000006118,pregnancy and type 2 diabetes mellitus
+6977421000006110,ketoacidosis in type ii diabetes mellitus
+7086001000006113,dietary education for type 2 diabetes mellitus
+7086021000006115,dietary advice for type ii diabetes
+7281511000006118,type 2 diabetes mellitus uncontrolled
+7288191000006110,type 2 diabetes mellitus well controlled
+7306751000006110,brittle type 2 diabetes mellitus
+7480661000006114,h/o diabetes mellitus type 2
+7790731000006115,maternal history of diabetes mellitus type 2
+7966571000006116,mixed hyperlipidaemia associated with type ii diabetes mellitus
+7966611000006114,chronic kidney disease stage 5 due to type 2 diabetes mellitus
+7966641000006113,chronic kidney disease stage 4 due to type 2 diabetes mellitus
+7966691000006116,chronic kidney disease stage 3 due to type 2 diabetes mellitus
+7966761000006115,chronic kidney disease stage 2 due to type 2 diabetes mellitus
+7966791000006111,chronic kidney disease stage 1 due to type 2 diabetes mellitus
+7966931000006114,angina associated with type 2 diabetes mellitus
+7968751000006116,diabetes mellitus type 2 without retinopathy
+7969001000006112,foot ulcer due to type 2 diabetes mellitus
+8012061000006117,type 2 diabetic on insulin
+8012071000006112,type ii diabetes on insulin
+8012081000006110,type 2 diabetic on diet only
+8012091000006113,type ii diabetes on diet only
+8026041000006113,forefoot ulcer due to type 2 diabetes mellitus
+8027521000006110,microalbuminuria due to type 2 diabetes mellitus
+8035211000006110,dyslipidemia with high density lipoprotein below reference range and triglyceride above reference range due to type 2 diabetes mellitus
+8044171000006110,neuropathic toe ulcer due to type 2 diabetes mellitus
+8044221000006116,ischaemic foot ulcer due to type 2 diabetes mellitus
+8048421000006113,proteinuria due to type 2 diabetes mellitus
+12704971000006113,neurologic disorder associated with type 2 diabetes mellitus
+12704991000006114,ketoacidotic coma in type 2 diabetes mellitus
+12705081000006111,gastroparesis due to type 2 diabetes mellitus
+14015311000006110,coronary artery disease due to type 2 diabetes mellitus
+14071211000006113,multiple complications due to type 2 diabetes mellitus
+14079871000006119,hyperosmolar non-ketotic state due to type 2 diabetes mellitus
+14083811000006118,persistent microalbuminuria due to type 2 diabetes mellitus
+14083911000006113,disorder of nervous system due to type 2 diabetes mellitus
+14083961000006111,gangrene due to type 2 diabetes mellitus
+14083991000006115,ketoacidosis due to type 2 diabetes mellitus
+14084041000006114,persistent proteinuria due to type 2 diabetes mellitus
+14084061000006113,retinopathy due to type 2 diabetes mellitus

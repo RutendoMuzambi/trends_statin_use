@@ -1,0 +1,50 @@
+medcodeid,term
+251882011,at risk of heart disease
+251883018,high risk of heart disease
+459503011,framingham coronary heart disease 5 year risk score
+459504017,framingham coronary heart disease 10 year risk score
+459796013,coronary heart disease risk
+1488410014,low risk of primary heart disease
+1488411013,moderate risk of primary heart disease
+1488412018,high risk of primary heart disease
+2474337014,coronary heart disease risk clinical management plan
+433091000006113,10 yr chd risk (framingham)
+433101000006119,"10 yr chd risk (estimate,fram.)"
+434881000006116,5 yr chd risk (framingham)
+638701000000116,assign score
+664421000000119,qrisk cardiovascular disease 10 year risk calculator score
+737691000000110,cardiovascular disease risk assessment done
+739701000000116,assessment for risk of cardiovascular disease
+756141000000110,cardiovascular disease risk assessment indicated
+929481000006119,framingham coronary heart disease 10 year adjusted risk score
+977771000006119,joint british societies cardiovascular disease risk less than ten percent over next ten years
+977781000006116,joint british societies cardiovascular disease risk ten percent to twenty percent over next ten years
+977791000006118,joint british societies cardiovascular disease risk greater than twenty percent up to thirty percent over next ten years
+977801000006117,joint british societies cardiovascular disease risk greater than thirty percent over next ten years
+1002191000006119,framingham cardiovascular disease 10 year risk score
+1126121000000112,qrisk2 cardiovascular disease 10 year risk score
+1130941000000119,framingham 1991 cardiovascular disease 10 year risk score
+1566001000006114,framingham cardiovascular disease estimated 10 year risk score
+1629201000006111,at high risk of cardiovascular disease monitoring administration
+1656451000006117,qrisk cardiovascular disease (cvd) 10 year risk score
+1656461000006115,qrisk cardiovascular disease (cvd) estimated 10 year risk score
+1678531000006110,assign (assessing cardiovascular risk using scottish intercollegiate guidelines network) score
+1823661000006118,high risk of cardiovascular disease
+1843221000006112,framingham coronary heart disease or cardiovascular disease 10 year risk adjusted to jbs2 (joint british societies 2) guidelines score
+1918351000006118,patient informed of cardiovascular disease risk
+2112311000000114,joint british societies cardiovascular disease risk score
+2174131000000119,high risk of cardiovascular disease
+2192281000000110,at risk of cardiovascular disease
+2453481000000111,aware of overall cardiovascular disease risk
+2733261000000112,framingham cardiovascular disease 10 year risk calculator score using bmi (body mass index) or lipids
+6052911000006117,at risk of coronary heart disease
+7228321000006116,qrisk cardiovascular disease risk score
+8050831000006113,joint british societies cardiovascular disease risk
+8463651000006111,qrisk3 cardiovascular disease 10 year risk calculator
+8463841000006110,qrisk3 cardiovascular disease 10 year risk calculator score
+8464061000006116,assessment using qrisk cardiovascular disease 10 year risk calculator
+8464661000006110,framingham cardiovascular disease 10 year risk score calculator
+11928841000006119,qrisk cardiovascular disease 10 year risk score
+11930511000006119,framingham coronary heart disease 10 year risk score adjusted to joint british societies 2 guidelines
+12490801000006112,qrisk cardiovascular disease 10 year risk calculator score
+14014011000006112,at risk of cardiovascular disease

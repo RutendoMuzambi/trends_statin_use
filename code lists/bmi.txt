@@ -1,0 +1,215 @@
+medcodeid,term
+100716012,body mass index
+11905011000006114,o/e - weight
+11905141000006112,o/e - height
+11923361000006119,finding of body mass index
+12113161000006113,obese class i
+12113181000006115,obese class ii
+13926671000006119,obese class iii
+14176391000006111,referral to weight management service
+14176401000006113,weight management service not available
+1662431000000112,advice given about weight management
+1709681000000111,referral to weight management service offered
+1715211000000118,unintentional weight loss
+1721501000000113,referral to local authority weight management programme
+1735631000000119,discussion about weight management programme
+1737991000000117,pattern of weight gain
+1738991000000118,expectation of weight management programme
+1749511000006118,pattern of weight gain
+1750501000006114,checking weight monitoring
+1750991000000117,weight management service opportunity signposted
+1753271000006112,"risk to health associated with overweight and obesity, at no increased risk"
+1753281000006110,"risk to health associated with overweight and obesity, at increased risk"
+1753291000006113,"risk to health associated with overweight and obesity, at high risk"
+1753301000006114,"risk to health associated with overweight and obesity, at very high risk"
+1753311000006112,"intervention for risk to health associated with overweight and obesity, general advice on healthy weight and lifestyle"
+1770141000006119,did not attend weight management special interest general practitioner clinic
+1773481000006111,mosaic trial - weight advice
+1773731000006116,weight advice - verbal [mosaic trial]
+1773741000006114,weight advice - verbal & written [mosaic trial]
+1773751000006111,weight advice - not this time [mosaic trial]
+1773761000006113,weight advice - not appropriate [mosaic trial]
+1778201000006111,group session: weight management
+1780175010,baseline weight
+1780210016,weight loss from baseline weight
+1808061000006114,body mass index less than 18.5
+1808071000006119,body mass index 18.5-24.9
+1809441000006111,weight change
+1844501000006115,referral to weight management special interest general practitioner
+1900331000006113,obese class iii (body mass index equal to or greater than 40.0)
+1910901000006116,estimated weight
+1910911000006118,reported weight
+1910921000006114,estimated height
+1910931000006112,reported height
+1979501000006111,weight management follow-up
+1979511000006114,weight management 6 month follow-up
+1979521000006118,weight management 12 month follow-up
+1979531000006115,lost to weight management follow-up
+1979961000006118,weight management 3 month follow-up
+2000621000006111,date for weight management intervention offered to patient
+2154209017,refer to weight management programme
+2159952010,underweight
+2160062010,body mass index 40+ - severely obese
+2173321000000116,referral to residential weight management programme
+217781000000116,o/e - weight greater than 20% over ideal
+2196071000000116,baseline body mass index
+2265731000000113,seen in weight management clinic
+2316211000000111,unintentional weight gain
+2326311000000114,intensive weight management programme commenced
+2326451000000118,intensive weight management programme ended
+2350241000000116,obese class i (body mass index 30.0 - 34.9)
+2350261000000115,obese class ii (body mass index 35.0 - 39.9)
+240911000006113,patient advised to lose weight
+2474325012,body mass index 20-24 - normal
+252191014,weight increasing
+252192019,weight decreasing
+252194018,abnormal weight gain
+252198015,weight symptom nos
+253576010,o/e - obese
+2536041016,weight static
+253669010,standing height
+253672015,o/e -height within 10% average
+253673013,o/e-height 10-20% over average
+253675018,o/e - loss of height
+253676017,o/e - height nos
+253677014,body weight
+253679012,o/e -weight 10-20% below ideal
+253680010,o/e - weight within 10% ideal
+253687013,o/e - underweight
+253688015,o/e - weight nos
+253844013,normal body mass index
+253845014,increased body mass index
+253846010,decreased body mass index
+253847018,body mass index index 25-29 - overweight
+253848011,body mass index 30+ - obesity
+253866018,height and weight
+2549043017,intentional weight loss
+2642891000006110,weight gain
+264766018,wants to lose weight
+264767010,difficulty maintaining weight loss
+271181000006113,o/e-height > 20% below average
+2714971000000116,signposting to weight management service
+272151000006114,o/e -height > 20% over average
+272551000006116,o/e - weight > 20% below ideal
+2729021000006118,measuring height of patient
+280881000006115,o/e - obese
+284561000006119,o/e - height 10-20% < average
+2865221000006115,impaired glucose tolerance in obese
+2934311000006118,weight
+297811000000117,weight management programme offered
+297841000000116,weight management plan started
+297861000000115,weight management plan completed
+297891000000114,target weight reached
+299281000000119,complaining of weight loss
+3044831000006118,weight maintenance regimen
+3070611000006119,normal bmi (body mass index)
+3087271000006119,poor weight gain
+3087281000006116,not putting on weight
+3087291000006118,not gaining weight
+317236017,[d]abnormal weight gain
+317237014,[d]abnormal loss of weight
+317244017,failure to gain weight
+3203281000006116,normal weight
+3315711000006110,body height measure
+3315721000006119,body height
+3484791000006113,weight: body mass
+3484801000006114,bmi - body mass index
+3514400010,current body weight
+356960015,overweight
+3667431000006112,decrease in height
+3952531000006117,weight loss
+3976301000006116,heavy (weight)
+397867018,abnormal weight loss
+401535015,target weight discussed
+402435016,o/e - weight 10-20% over ideal
+406131000000117,did not attend weight monitoring clinic
+406169014,weight steady
+411892019,weight loss advised
+411922013,o/e - overweight
+4150511000006113,weight finding
+437661000006118,abnormal weight loss - symptom
+451201014,weight monitoring
+453856012,body mass index less than 20
+4544701000006119,losing weight
+4544711000006116,progressive weight loss
+4551671000006115,on examination - height
+4551681000006117,o/e - height greater than 20% below average
+4551701000006119,o/e - height 10-20% below average
+4551761000006118,o/e - height greater than 20% over average
+4551811000006113,on examination - weight
+4551821000006117,o/e - weight greater than 20% below ideal
+4553701000006115,body mass index 25-29 - overweight
+4553721000006113,bmi 25-29 - overweight
+4553741000006118,bmi 30+ - obesity
+4935051000006112,excessive weight gain
+4937201000006110,weight and body mass assessment procedure
+4986261000006116,g/kg body weight
+5117851000006111,patient overweight
+5247501000006116,overestimates own body weight
+5247511000006118,underestimates own body weight
+5256071000006119,general finding of height
+5256131000006116,has grown in height
+5256311000006113,reference weight
+5273061000006119,obese abdomen
+5451371000006112,weight decreased
+5451381000006110,weight increased
+5507901000006110,o/e - weight greater than 20% over ideal
+5524151000006112,weight stable
+5526441000006112,obese build
+5526601000006112,height / growth measure
+5529851000006116,has not grown in height
+5533851000006117,weights
+567001000000116,counterweight programme
+5892171000006118,finding of measures of body height and growth
+5892201000006119,observation of body mass index
+5892251000006115,body weight problem
+59281000006111,weight screening
+59311000006113,weight symptom
+5986631000006118,excessive weight loss
+5990011000006117,normal height
+5998281000006119,bmi less than 20
+6251131000006111,weight gain (amount)
+6251141000006118,weight loss (amount)
+6251151000006116,body weight measure
+6251171000006114,usual body weight
+628891000000118,counterweight weight management programme
+6509591000006118,weight maintenance regimen
+6702411000006117,general appraisal of patient weight
+6759901000006112,refer to weight management program
+6763391000006114,body mass index 40+ - morbidly obese
+6763401000006111,bmi (body mass index) 40+ - severely obese
+6866991000006116,obese
+6997371000006111,unexplained weight loss
+7067191000006116,recent weight loss
+7068841000006116,body mass index less than 16.5
+7075901000006114,recent weight gain
+7116681000006115,abnormal intentional weight loss
+7297941000006116,weight/weight ratio
+7508801000006119,patient advised about weight management
+7771291000006114,weight management programme
+7771301000006110,weight management program
+7833991000006118,overweight in adulthood with body mass index of 25 or more but less than 30
+7879461000006116,weight
+8278851000006114,referral to weight management gpwsi (general practitioner with special interest)
+8286991000006119,baseline bmi (body mass index)
+839191000006115,weight control education
+857321000006113,moderately obese
+857681000006117,weight reduction clinic
+857911000006118,very obese
+903061000006114,weight loss
+908721000006111,[rfc] overweight/ underweight
+909921000006118,[rfc] weight problem
+910251000006110,[rfc] overweight
+910261000006112,[rfc] underweight
+923831000006115,o/e - height
+923851000006110,o/e - weight
+923861000006112,body mass index
+9423891000006114,slow weight gain
+960561000006110,unexplained/progressive weight loss
+977951000006110,health education - weight management
+981731000006117,overweight: adult bmi 25.0; child bmi 95th percentile; or more
+981741000006110,underweight: adult bmi 18.5; child bmi 5th percentile; or less
+982581000006118,weight (over)
+982591000006115,weight (under)
+982601000006111,height (over)
+982611000006114,height (under)

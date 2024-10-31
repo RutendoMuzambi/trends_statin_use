@@ -1,0 +1,77 @@
+prodcodeid,productname
+91941000033117,atorvastatin 10mg tablets
+92041000033111,atorvastatin 20mg tablets
+92141000033110,atorvastatin 40mg tablets
+578641000033114,fluvastatin 20mg capsules
+578741000033117,fluvastatin 40mg capsules
+819941000033119,lescol 20mg capsules
+820041000033116,lescol 40mg capsules
+834841000033118,lipostat 10mg tablets
+834941000033114,lipostat 20mg tablets
+836241000033113,lipitor 10mg tablets
+836341000033115,lipitor 20mg tablets
+836441000033114,lipitor 40mg tablets
+836541000033110,lipostat 40mg tablets
+1130141000033111,pravastatin 10mg tablets
+1130241000033116,pravastatin 20mg tablets
+1136541000033116,pravastatin 40mg tablets
+1336841000033110,simvastatin 10mg tablets
+1336941000033119,simvastatin 20mg tablets
+1337541000033111,simvastatin 40mg tablets
+1562241000033118,zocor 40mg tablets
+1562841000033119,zocor 10mg tablets
+1562941000033110,zocor 20mg tablets
+2066241000033118,simvastatin 80mg tablets
+2066341000033111,zocor 80mg tablets
+2189041000033110,fluvastatin 80mg modified-release tablets
+2189141000033114,lescol xl 80mg tablets
+2261041000033114,atorvastatin 80mg tablets
+2261141000033113,lipitor 80mg tablets
+2891541000033111,rosuvastatin 10mg tablets
+2891641000033112,rosuvastatin 20mg tablets
+2891741000033115,rosuvastatin 40mg tablets
+2891841000033113,crestor 10mg tablets
+2891941000033117,crestor 20mg tablets
+2892041000033111,crestor 40mg tablets
+2973941000033116,simvador 10mg tablets
+2974041000033119,simvador 20mg tablets
+2974141000033115,simvador 40mg tablets
+3140841000033113,ranzolont 10mg tablets
+3140941000033117,ranzolont 20mg tablets
+3141041000033110,ranzolont 40mg tablets
+3292441000033116,simvastatin 20mg / ezetimibe 10mg tablets
+3292541000033115,simvastatin 40mg / ezetimibe 10mg tablets
+3292641000033119,simvastatin 80mg / ezetimibe 10mg tablets
+3292741000033111,inegy 10mg/20mg tablets
+3292841000033118,inegy 10mg/40mg tablets
+3292941000033114,inegy 10mg/80mg tablets
+3304141000033110,simvastatin 20mg/5ml oral suspension
+3836041000033114,rosuvastatin 5mg tablets
+3836141000033113,crestor 5mg tablets
+3868741000033118,atorvastatin 20mg/5ml oral suspension
+4152341000033115,simvastatin 40mg/5ml oral suspension
+4941641000033116,simvador 80mg tablets
+5007141000033112,luvinsta xl 80mg tablets
+5711041000033117,pravastatin 40mg/5ml oral suspension
+5817741000033114,simvastatin 20mg/5ml oral suspension sugar free
+5817841000033116,simvastatin 40mg/5ml oral suspension sugar free
+5888441000033115,simvastatin 20mg/5ml oral solution
+5888541000033119,simvastatin 40mg/5ml oral solution
+5897741000033110,atorvastatin 10mg/5ml oral suspension
+5897841000033117,atorvastatin 10mg/5ml oral solution
+5990541000033112,atorvastatin 20mg/5ml oral solution
+6468641000033113,atorvastatin 10mg chewable tablets sugar free
+6468841000033114,atorvastatin 20mg chewable tablets sugar free
+6469041000033110,lipitor 10mg chewable tablets
+6469141000033114,lipitor 20mg chewable tablets
+7861441000033110,atorvastatin 30mg tablets
+7861541000033111,atorvastatin 60mg tablets
+8493841000033111,pravastatin 5mg/5ml oral solution
+10618641000033118,pravastatin 5mg/5ml oral suspension
+11241741000033119,fenofibrate 145mg / simvastatin 20mg tablets
+11241841000033112,fenofibrate 145mg / simvastatin 40mg tablets
+11241941000033116,cholib 145mg/20mg tablets
+13860741000033115,rosuvastatin 5mg capsules
+13860841000033113,rosuvastatin 10mg capsules
+13860941000033117,rosuvastatin 20mg capsules
+13861041000033110,rosuvastatin 40mg capsules

@@ -1,0 +1,21 @@
+icd10,description
+I21.0,acute transmural myocardial infarction of anterior wall
+I21.1,acute transmural myocardial infarction of interior wall
+I21.2,acute transmural myocardial infarction of other sites
+I21.3,acute transmural myocardial infarction of unspecified site
+I21.4,acute subendocardial myocardial infarction
+I21.9,"acute myocardial infarction, unspecified"
+I22,subsequent myocardial infarction
+I22.0,subsequent myocardial infarction of anterior wall
+I22.1,subsequent myocardial infarction of inferior wall
+I22.8,subsequent myocardial infarction of other sites
+I22.9,subsequent myocardial infarction of unspecified site
+I23,certain current complications following acute myocardial infection
+I23.0,haemopericardium as current complication following acute myocardial infarction
+I23.1,atrial septal defecct as current complication
+I23.2,ventricular septal defect as current complication following acute myocardial infarction
+I23.3,rupture of cardiac wall without haemopericardium as current complication
+I23.4,rupture of chordae tendineae as current complication following acute myocardial infarction
+I23.5,rupture of papillary muscle as current complication following acute myocardial infarction
+I23.6,"thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"
+I23.8,other current complications following acute myocardial infarction
